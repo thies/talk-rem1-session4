@@ -1,0 +1,813 @@
+SP_ENTITY_NAME,SP_ENTITY_ID,MI_INDUSTRY_CLASSIFICATION,SP_COMPANY_TYPE,SP_COMPANY_STATUS,SP_COUNTRY_NAME,SP_DEBT_TO_EQUITY,SP_TOTAL_DEBT,SP_TOTAL_ASSETS,SP_MARKETCAP,SP_COMPANY_NAME_ABBR
+360 Capital REIT (ASX:TOT),5736952,Diversified REIT,Public Company,Operating,Australia,NA,0,"201,767",112.6,360 Capital REIT
+A Self-Administered Real Estate Investment Trust Inc. (KOSE:A140910),4864318,Diversified REIT,Public Company,Operating,South Korea,1.12,"40,153","94,106",17.2,A Self-Administered REIT
+Abacus Property Group (ASX:ABP),4143476,Diversified REIT,Public Company,Operating,Australia,0.49,"1,709,241","5,407,059","2,269.9",Abacus Property Group
+abrdn Property Income Trust Limited (LSE:API),4143592,Diversified REIT,Public Company,Operating,United Kingdom,0.28,"110,625","526,563",199.0,abrdn Ppty Income Trust Ltd.
+Acadia Realty Trust (NYSE:AKR),103085,Retail REIT,Public Company,Operating,USA,0.86,"1,857,609","4,261,746","1,236.0",Acadia Realty Trust
+Acanthe Développement (ENXTPA:ACAN),4143661,Office REIT,Public Company,Operating,France,0.00,0,"165,627",57.4,Acanthe Développement
+Accelerate Property Fund Limited (JSE:APF),4423637,Retail REIT,Public Company,Operating,South Africa,0.77,"4,575,359","11,076,213","1,212.2",Accelerate Property Fund Ltd.
+Activia Properties Inc. (TSE:3279),4325513,Diversified REIT,Public Company,Operating,Japan,0.95,"260,350","562,273",332.7,Activia Properties Inc
+"Adriano Care SOCIMI, S.A. (BME:YADR)",28974652,Healthcare REIT,Public Company,Operating,Spain,0.06,"6,726","125,440",129.6,Adriano Care SOCIMI S.A.
+Advance Logistics Investment Corporation (TSE:3493),10964833,Industrial REIT,Public Company,Operating,Japan,0.73,"47,280","115,044",91.6,Advance Logistics Invt Corp.
+Advance Residence Investment Corporation (TSE:3269),4252561,Residential REIT,Public Company,Operating,Japan,0.97,"222,709","459,988",455.0,Advance Residence Invt Corp.
+Advance Terrafund REIT (BUL:ATER),4862568,Specialty REIT,Public Company,Operating,Bulgaria,NA,0,"256,634",240.9,Advance Terrafund REIT
+"Advero Properties SOCIMI, S.A. (BME:YADV)",19287996,Residential REIT,Public Company,Operating,Spain,0.34,"8,471","33,937",42.9,Advero Properties SOCIMI S.A.
+Aedes SIIQ S.p.A. (BIT:AED),11005709,Diversified REIT,Public Company,Operating,Italy,0.75,"174,597","431,226",77.7,Aedes SIIQ S.p.A.
+Aedifica SA (ENXTBR:AED),4279771,Healthcare REIT,Public Company,Operating,Belgium,0.77,"2,140,824","5,161,867","2,973.6",Aedifica SA
+AEON REIT Investment Corporation (TSE:3292),4415807,Retail REIT,Public Company,Operating,Japan,0.76,"179,100","432,703",306.9,AEON REIT Investment Corp.
+Aesapar Fundo de Investimento Imobiliário - FII (BOVESPA:RBED11),4864344,Specialty REIT,Public Company,Operating,Brazil,NA,0,"316,766",271.0,Aesapar Fundo de Investimento
+AEW UK REIT plc (LSE:AEWU),4863330,Diversified REIT,Public Company,Operating,United Kingdom,0.28,"53,944","252,308",142.7,AEW UK REIT plc
+Agree Realty Corporation (NYSE:ADC),103154,Retail REIT,Public Company,Operating,USA,0.50,"1,711,734","5,226,906","5,198.7",Agree Realty Corp.
+AIM Commercial Growth Freehold And Leasehold Real Estate Investment Trust (SET:AIMCG),13931834,Industrial REIT,Public Company,Operating,Thailand,0.11,"305,849","3,344,135","1,440.0",AIM Comm Growth Freehold & Lea
+AIM Industrial Growth Freehold and Leasehold Real Estate Investment Trust (SET:AIMIRT),9370616,Industrial REIT,Public Company,Operating,Thailand,0.36,"2,592,413","10,033,722","7,086.2",AIM Indl Growth Freehold & Lea
+AIMS APAC REIT (SGX:O5RU),4188470,Industrial REIT,Public Company,Operating,Singapore,0.69,"947,038","2,403,661",810.2,AIMS APAC REIT
+Aims Property Securities Fund (ASX:APW),7058987,Diversified REIT,Public Company,Operating,Australia,NA,0,"126,270",53.4,Aims Property Securities Fund
+Akfen Gayrimenkul Yatırım Ortaklığı A.Ş. (IBSE:AKFGY),4288332,Hotel REIT,Public Company,Operating,Türkiye,0.46,"1,984,087","6,863,235","5,616.0",Akfen GYO
+Akis Gayrimenkul Yatirim Ortakligi A.S. (IBSE:AKSGY),4864268,Diversified REIT,Public Company,Operating,Türkiye,0.75,"3,116,891","7,729,416","3,638.6",Akis Gayrimenkul Yatirim Ortak
+Akmerkez Gayrimenkul Yatirim Ortakligi A.S. (IBSE:AKMGY),4863929,Retail REIT,Public Company,Operating,Türkiye,NA,0,"260,846","2,604.8",Akmerkez Gayrimenkul Yatirim O
+Aktiv Properties REIT (BUL:AKTV),4863941,Diversified REIT,Public Company,Operating,Bulgaria,NA,NA,NA,15.3,Aktiv Properties REIT
+Al Maather Reit Fund (SASE:4334),7732275,Diversified REIT,Public Company,Operating,Saudi Arabia,0.19,"100,285","660,032",566.4,Al Maather Reit Fund
+Al Rajhi REIT Fund (SASE:4340),9689613,Diversified REIT,Public Company,Operating,Saudi Arabia,0.64,"791,255","2,061,500","1,608.9",Al Rajhi REIT Fund
+Alahli Capital - Al-Ahli Reit Fund (SASE:4338),9517513,Diversified REIT,Public Company,Operating,Saudi Arabia,0.43,"558,728","1,936,751","1,556.5",Alahli Cap - Al-Ahli Reit Fund
+Al-'Aqar Healthcare REIT (KLSE:ALAQAR),4864002,Healthcare REIT,Public Company,Operating,Malaysia,0.72,"683,877","1,664,733",890.5,Al-'Aqar Healthcare REIT
+Alarko Gayrimenkul Yatirim Ortakliği A.Ş. (IBSE:ALGYO),4233946,Diversified REIT,Public Company,Operating,Türkiye,0.00,"4,365","3,095,185","3,758.9",Alarko Gayrimenkul Yatirim
+"Alexander & Baldwin, Inc. (NYSE:ALEX)",4008292,Diversified REIT,Public Company,Operating,USA,0.52,"552,100","1,879,800","1,321.3",Alexander & Baldwin Inc.
+"Alexandria Real Estate Equities, Inc. (NYSE:ARE)",111908,Office REIT,Public Company,Operating,USA,0.49,"9,226,611","30,219,373","21,546.4",Alexandria Real Estate
+Aljazira Mawten REIT Fund (SASE:4331),7488452,Industrial REIT,Public Company,Operating,Saudi Arabia,NA,0,"85,224",211.2,Aljazira Mawten REIT Fund
+Alkhabeer REIT Fund (SASE:4348),13380338,Diversified REIT,Public Company,Operating,Saudi Arabia,0.70,"762,301","1,933,639","1,094.2",Alkhabeer REIT Fund
+"All Iron Re I Socimi, S.A. (BME:YAI1)",20262039,Hotel REIT,Public Company,Operating,Spain,0.35,"47,648","191,051",145.2,All Iron Re I Socimi S.A.
+Alliance Developpement Capital SIIC (ENXTPA:ALDV),4279607,Residential REIT,Public Company,Operating,Belgium,0.01,457,"74,461",9.4,Alliance Developpement Cap SII
+Allied Properties Real Estate Investment Trust (TSX:AP.UN),4105044,Office REIT,Public Company,Operating,Canada,0.56,"3,610,834","10,384,691","3,576.4",Allied Properties REIT
+Ally Leasehold Real Estate Investment Trust (SET:ALLY),4864409,Retail REIT,Public Company,Operating,Thailand,0.49,"4,106,228","13,094,495","6,380.9",Ally Leasehold REIT
+"Alpine Income Property Trust, Inc. (NYSE:PINE)",19353248,Diversified REIT,Public Company,Operating,USA,1.17,"267,740","505,514",206.1,Alpine Income Property Trust
+Al-Salām Real Estate Investment Trust (KLSE:ALSREIT),4626731,Diversified REIT,Public Company,Operating,Malaysia,1.08,"635,657","1,253,500",249.4,Al-Salām REIT
+alstria office REIT-AG (XTRA:AOX),4160242,Office REIT,Public Company,Operating,Germany,0.51,"1,711,968","5,234,372","1,426.3",alstria office REIT-AG
+Altarea SCA (ENXTPA:ALTA),4159301,Residential REIT,Public Company,Operating,France,1.04,"3,700,500","9,359,400","2,713.2",Altarea SCA
+Alternative Income REIT Plc (LSE:AIRE),6662447,Diversified REIT,Public Company,Operating,United Kingdom,0.53,"40,955","121,700",58.0,Alternative Income REIT Plc
+Alteron REIT (BUL:ALT),5784819,Self-Storage REIT,Public Company,Operating,Bulgaria,0.61,"23,549","63,111",36.1,Alteron REIT
+AmanahRaya Real Estate Investment Trust (KLSE:ARREIT),4864025,Diversified REIT,Public Company,Operating,Malaysia,0.86,"643,846","1,430,844",332.5,AmanahRaya REIT
+Amata Summit Growth Freehold and Leasehold Real Estate Investment Trust (SET:AMATAR),4864491,Industrial REIT,Public Company,Operating,Thailand,0.34,"1,200,000","4,888,637","2,362.1",Amata Summit Growth Freehold &
+"American Assets Trust, Inc. (NYSE:AAT)",4270741,Diversified REIT,Public Company,Operating,USA,1.39,"1,677,120","3,017,927","1,588.9",American Assets Trust Inc.
+American Homes 4 Rent (NYSE:AMH),4392539,Residential REIT,Public Company,Operating,USA,0.58,"3,899,201","10,962,433","11,147.8",American Homes 4 Rent
+American Hotel Income Properties REIT LP (TSX:HOT.UN),4355829,Hotel REIT,Public Company,Operating,Canada,1.97,"738,976","1,150,490",227.7,American Hotel Income Ppts
+American Tower Corporation (NYSE:AMT),4290489,Specialty REIT,Public Company,Operating,USA,5.73,"52,008,600","69,887,900","87,325.5",American Tower Corp.
+AmFirst Real Estate Investment Trust (KLSE:AMFIRST),4864037,Office REIT,Public Company,Operating,Malaysia,1.01,"815,403","1,661,275",243.7,AmFirst REIT
+"Ap67 Socimi, S.A. (BME:YAP67)",9998670,Diversified REIT,Public Company,Operating,Spain,1.70,"30,432","51,442",33.8,Ap67 Socimi S.A.
+Apartment Income REIT Corp. (NYSE:AIRC),103180,Residential REIT,Public Company,Operating,USA,1.96,"3,797,314","6,440,360","5,714.2",Apartment Income REIT
+Apartment Investment and Management Company (NYSE:AIV),25685256,Residential REIT,Public Company,Operating,USA,2.90,"1,628,590","2,434,101","1,158.7",Aimco
+Aquilla Fundo Invest Imobiliario - Cotas Fund (BOVESPA:AQLL11),5733377,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,37.7,Aquilla Fundo Invest Imobiliar
+ARA US Hospitality Trust (SGX:XZL),14949014,Hotel REIT,Public Company,Operating,Singapore,0.85,"338,135","764,076",198.5,ARA US Hospitality Trust
+Arcona Property Fund N.V. (ENXTAM:ARCPF),4260848,Diversified REIT,Public Company,Operating,Netherlands,0.79,"36,796","90,566",23.8,Arcona Property Fund
+aReit Prop Limited (JSE:APO),101499536,Hotel REIT,Public Company,Operating,South Africa,NA,0,"913,918,100",630.0,aReit Prop Ltd.
+"AREIT, Inc. (PSE:AREIT)",21852006,Office REIT,Public Company,Operating,Philippines,0.10,"5,060,033","56,503,527","46,700.8",AREIT Inc.
+Arena REIT (ASX:ARF),4394001,Healthcare REIT,Public Company,Operating,Australia,0.28,"323,213","1,518,566","1,201.6",Arena REIT
+Ares Industrial Real Estate Income Trust Inc.,4570715,Industrial REIT,Public Company,Operating,USA,1.25,"2,729,637","5,249,109",NA,Ares Industrial Real Estate In
+Ares Real Estate Income Trust Inc.,4101821,Diversified REIT,Public Company,Operating,USA,2.61,"2,028,749","2,990,971",NA,Ares Real Estate Income Trust
+Argan SA (ENXTPA:ARG),4279274,Industrial REIT,Public Company,Operating,France,1.03,"2,222,593","4,500,601","1,617.2",Argan SA
+Argosy Property Limited (NZSE:ARG),4862274,Diversified REIT,Public Company,Operating,New Zealand,0.53,"778,927","2,291,546",973.7,Argosy Property Ltd.
+"Árima Real Estate SOCIMI, S.A. (BME:ARM)",11137169,Office REIT,Public Company,Operating,Spain,0.32,"104,588","440,362",202.5,Árima Real Estate SOCIMI S.A.
+"Armada Hoffler Properties, Inc. (NYSE:AHH)",4379352,Diversified REIT,Public Company,Operating,USA,1.33,"1,036,718","1,938,063",755.2,Armada Hoffler Properties Inc.
+Armstrong Jones Office Fund,6618308,Office REIT,Public Company,Operating,Australia,0.46,"157,000","505,724",NA,Armstrong Jones Office Fund
+"ARRIENDA Rental Properties SOCIMI, S.A. (BME:YARP)",10971979,Diversified REIT,Public Company,Operating,Spain,0.28,"6,661","31,651",58.8,ARRIENDA Rental Ppts SOCIMI S.
+Artis Real Estate Investment Trust (TSX:AX.UN),4143679,Diversified REIT,Public Company,Operating,Canada,0.80,"1,965,638","4,576,024","1,090.7",Artis REIT
+Ascencio SCA (ENXTBR:ASC),4279772,Retail REIT,Public Company,Operating,Belgium,0.92,"341,544","728,076",341.7,Ascencio SCA
+Ascott Residence Trust (SGX:HMN),4188459,Hotel REIT,Public Company,Operating,Singapore,0.69,"3,009,625","7,733,246","3,011.7",Ascott Residence Trust
+"Ashford Hospitality Trust, Inc. (NYSE:AHT)",4088185,Hotel REIT,Public Company,Operating,USA,NM,"3,905,022","4,098,143",268.4,Ashford Hospitality Trust
+Aspen Group (ASX:APZ),4260851,Diversified REIT,Public Company,Operating,Australia,0.46,"128,607","452,458",276.2,Aspen Group
+Asset Plus Limited (NZSE:APL),4861815,Diversified REIT,Public Company,Operating,New Zealand,0.35,"55,700","224,693",87.1,Asset Plus Ltd.
+Assura Plc (LSE:AGR),4143591,Healthcare REIT,Public Company,Operating,United Kingdom,0.70,"1,249,900","3,120,500","1,481.1",Assura Plc
+Ata Gayrimenkul Yatirim Ortakligi A.S. (IBSE:ATAGY),4772001,Retail REIT,Public Company,Operating,Türkiye,1.47,"74,316","127,537",120.9,Ata Gayrimenkul Yatirim Ortakl
+Atakule Gayrimenkul Yatirim Ortakligi A.Ş. (IBSE:AGYO),4279277,Diversified REIT,Public Company,Operating,Türkiye,0.00,853,"614,539","1,888.1",Atakule Gayrimenkul Yatirim
+Atland SAS (ENXTPA:ATLD),4861743,Diversified REIT,Public Company,Operating,France,1.77,"248,083","526,136",178.2,Atland SAS
+"Atom Hoteles SOCIMI, S.A. (BME:YATO)",9859791,Hotel REIT,Public Company,Operating,Spain,1.03,"327,411","660,200",313.0,Atom Hoteles SOCIMI S.A.
+Atrium Real Estate Investment Trust (KLSE:ATRIUM),4864056,Industrial REIT,Public Company,Operating,Malaysia,0.97,"255,046","540,543",341.3,Atrium REIT
+Attacq Limited (JSE:ATT),4538104,Diversified REIT,Public Company,Operating,South Africa,0.69,"8,542,269","21,626,282","4,780.7",Attacq Limited
+Australian Unity Office Fund (ASX:AOF),4713414,Office REIT,Public Company,Operating,Australia,0.46,"169,585","554,000",210.4,Australian Unity Office Fund
+Automotive Properties Real Estate Investment Trust (TSX:APR.UN),4599975,Specialty REIT,Public Company,Operating,Canada,1.24,"569,087","1,051,650",499.0,Automotive Properties REIT
+"AvalonBay Communities, Inc. (NYSE:AVB)",103145,Residential REIT,Public Company,Operating,USA,0.76,"8,270,044","19,902,016","24,426.2",AvalonBay Communities Inc.
+Avrasya Gayrimenkul Yatirim Ortakligi Anonim Sirketi (IBSE:AVGYO),4771980,Diversified REIT,Public Company,Operating,Türkiye,NA,0,"365,029",366.0,Avrasya Gayrimenkul Yatirim Or
+Axis Real Estate Investment Trust (KLSE:AXREIT),4535000,Diversified REIT,Public Company,Operating,Malaysia,0.47,"1,184,593","3,838,760","3,068.8",Axis Real Estate Investment Tr
+"Azaria Rental SOCIMI, S.A. (BME:YAZR)",10967787,Diversified REIT,Public Company,Operating,Spain,1.49,"62,173","137,332",81.8,Azaria Rental SOCIMI S.A.
+Ba Airport Leasehold Real Estate Investment Trust (SET:BAREIT),105949327,Specialty REIT,Public Company,Operating,Thailand,NA,NA,NA,"10,743.2",Ba Airport Leasehold REIT
+Balanced Commercial Property Trust Ltd (LSE:BCPT),4237197,Diversified REIT,Public Company,Operating,United Kingdom,0.30,"308,641","1,347,184",580.2,Balanced Comm Ppty Trust Ltd
+Balkan and Sea Properties REIT-Varna (BUL:BSP),4862743,Residential REIT,Public Company,Operating,Bulgaria,0.76,"39,881","93,491",145.4,Balkan & Sea Ppts REIT-Varna
+Baltic Horizon Fund (TLSE:NHCBHFFT),4756103,Diversified REIT,Public Company,Operating,Finland,1.50,"199,147","346,338",84.3,Baltic Horizon Fund
+Bangkok Commercial Property Fund (SET:BKKCP),4863742,Office REIT,Public Company,Operating,Thailand,NA,0,"1,416,251","1,030.0",Bangkok Comm Ppty Fund
+"Barcino Property SOCIMI, S.A. (BME:YBAR)",8292877,Residential REIT,Public Company,Operating,Spain,0.56,"13,630","39,589",39.1,Barcino Property SOCIMI S.A.
+BB Fundo De Investimento Imobiliario Progressivo (BOVESPA:BBFI11B),4864443,Office REIT,Public Company,Operating,Brazil,NA,0,"383,680",249.0,BB Fundo De Investimento Imobi
+Befimmo SA (ENXTBR:BEFB),4143727,Office REIT,Public Company,Operating,Belgium,0.74,"1,205,813","2,982,289","1,271.9",Befimmo SA
+"Belpointe PREP, LLC (NYSEAM:OZ)",26194614,Diversified REIT,Public Company,Operating,USA,0.03,"10,790","341,426",309.2,Belpointe PREP LLC
+BHG Retail REIT (SGX:BMGU),4646416,Retail REIT,Public Company,Operating,Singapore,0.45,"295,454","1,044,588",274.3,BHG Retail REIT
+Bhiraj Office Leasehold Real Estate Investment Trust (SET:BOFFICE),8263689,Office REIT,Public Company,Operating,Thailand,0.33,"2,415,558","10,131,051","5,903.0",Bhiraj Office Leasehold REIT
+Big Yellow Group Plc (LSE:BYG),4143568,Self-Storage REIT,Public Company,Operating,United Kingdom,0.20,"438,656","2,670,380","1,922.5",Big Yellow Group Plc
+Bleecker Société Anonyme (ENXTPA:BLEE),4862747,Diversified REIT,Public Company,Operating,France,0.80,"304,276","732,379",190.1,Bleecker Société Anonyme
+"Bluerock Homes Trust, Inc. (NYSEAM:BHM)",105793921,Residential REIT,Public Company,Operating,USA,0.14,"63,007","541,464",93.3,Bluerock Homes Trust
+Boardwalk Real Estate Investment Trust (TSX:BEI.UN),4105048,Residential REIT,Public Company,Operating,Canada,1.02,"3,325,079","6,660,653","2,189.3",Boardwalk REIT
+Bosera China Merchants Shekou Industrial Zone (SZSE:180101),29248357,Industrial REIT,Public Company,Operating,China,0.47,"118,483,472","737,157,340","2,945.7",Bosera China Mrchnt Shekou Ind
+"Boston Properties, Inc. (NYSE:BXP)",112885,Office REIT,Public Company,Operating,USA,1.66,"13,345,591","22,365,258","11,363.3",Boston Properties Inc.
+Bradesco Carteira Imobiliaria Ativa Fundos de Investimento Imobiliario (BOVESPA:BCIA11),4864469,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,346.4,Bradesco Carteira Imobiliaria
+Braemar Hotels & Resorts Inc. (NYSE:BHR),4384791,Hotel REIT,Public Company,Operating,USA,3.23,"1,233,615","1,879,522",332.8,Braemar Hotels & Resorts
+Brandywine Realty Trust (NYSE:BDN),103209,Office REIT,Public Company,Operating,USA,1.10,"1,876,548","3,846,196","1,082.6",Brandywine Realty Trust
+Bravo Property Fund REIT (BUL:BPF),10388755,Diversified REIT,Public Company,Operating,Bulgaria,0.74,"27,842","66,651",36.3,Bravo Property Fund REIT
+Bricklane London REIT plc,6905200,Residential REIT,Public Company,Operating,United Kingdom,NA,0,"4,260",NA,Bricklane London REIT plc
+Bricklane Residential REIT plc,5879654,Residential REIT,Public Company,Operating,United Kingdom,0.43,"5,801","20,182",8.4,Bricklane Residential REIT plc
+BriQ Properties Real Estate Investment Company (ATSE:BRIQ),7278154,Diversified REIT,Public Company,Operating,Greece,0.32,"30,175","128,402",66.5,BriQ Ppts RE Invt Co
+British Land Company Plc (LSE:BLND),4143580,Diversified REIT,Public Company,Operating,United Kingdom,0.41,"2,747,000","9,842,000","3,191.7",British Land Co. Plc
+Brixmor Property Group Inc. (NYSE:BRX),4400077,Retail REIT,Public Company,Operating,USA,1.91,"5,198,231","8,377,393","5,855.5",Brixmor Property Group Inc.
+"Broadstone Net Lease, Inc. (NYSE:BNL)",5797703,Diversified REIT,Public Company,Operating,USA,0.62,"1,691,888","4,618,648","2,790.6",Broadstone Net Lease Inc.
+Brookfield India Real Estate Trust (NSEI:BIRET),25886837,Office REIT,Public Company,Operating,India,0.58,"51,903,510","147,857,980","105,170.4",Brookfield India RE Tr
+BRT Apartments Corp. (NYSE:BRT),102926,Residential REIT,Public Company,Operating,USA,1.18,"239,609","459,538",405.1,BRT Apartments Corp
+BSR Real Estate Investment Trust (TSX:HOM.UN),10495501,Residential REIT,Public Company,Operating,Canada,1.87,"1,244,625","1,948,095",691.7,BSR REIT
+BTB Real Estate Investment Trust (TSX:BTB.UN),4261040,Diversified REIT,Public Company,Operating,Canada,1.70,"689,133","1,129,901",279.6,BTB REIT
+BTG Pactual Logística Fundo de Investimento Imobiliário (BOVESPA:BTLG11),4864278,Industrial REIT,Public Company,Operating,Brazil,NA,NA,NA,"1,952.7",BTG Pactual Logística Fundo de
+Bualuang Office Leasehold Real Estate Investment Trust (SET:B.WORK),8676053,Office REIT,Public Company,Operating,Thailand,0.23,"920,000","5,066,997","3,669.6",Bualuang Office Leasehold REIT
+Bulgarian Investment Group REIT Sofia (BUL:BGIG),7059449,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,456,0.1,Bulgarian Invt Grp Sofia
+Bulgarian Real Estate Fund REIT (BUL:BREF),4863935,Diversified REIT,Public Company,Operating,Bulgaria,0.34,"36,718","148,817",69.3,Bulgarian RE Fund REIT
+BWP Trust (ASX:BWP),4143490,Retail REIT,Public Company,Operating,Australia,0.18,"452,700","3,021,917","2,396.1",BWP Trust
+C.P. Tower Growth Leasehold Property Fund (SET:CPTGF),4864437,Office REIT,Public Company,Operating,Thailand,NA,0,"10,639,286","6,865.7",C.P. Tower Growth Leasehold Pp
+Camden Property Trust (NYSE:CPT),103094,Residential REIT,Public Company,Operating,USA,0.75,"3,180,367","7,976,784","12,132.5",Camden Property Trust
+Canadian Apartment Properties Real Estate Investment Trust (TSX:CAR.UN),4105050,Residential REIT,Public Company,Operating,Canada,0.67,"6,917,745","17,712,973","7,057.3",Canadian Apartment Properties
+Canadian Net Real Estate Investment Trust (TSXV:NET.UN),4603658,Diversified REIT,Public Company,Operating,Canada,1.11,"144,707","278,166",127.7,Canadian Net REIT
+"Cantor Fitzgerald Income Trust, Inc.",4834818,Industrial REIT,Public Company,Operating,USA,1.05,"372,555","750,650",NA,Cantor Fitzgerald Incm Tr Inc.
+Capital & Counties Properties PLC (LSE:CAPC),4259542,Retail REIT,Public Company,Operating,United Kingdom,0.53,"941,000","2,798,500",841.5,Cap & Counties Ppts PLC
+Capital & Regional Plc (LSE:CAL),4143597,Retail REIT,Public Company,Operating,United Kingdom,1.61,"271,100","636,000",83.7,Capital & Regional Plc
+CapitaLand Ascendas REIT (SGX:A17U),4143503,Industrial REIT,Public Company,Operating,Singapore,0.65,"6,688,994","17,730,491","10,376.3",CapitaLand Ascendas REIT
+CapitaLand China Trust (SGX:AU8U),4188468,Retail REIT,Public Company,Operating,Singapore,0.68,"2,000,173","5,575,900","1,565.1",CapitaLand China Trust
+CapitaLand Integrated Commercial Trust (SGX:C38U),4143504,Retail REIT,Public Company,Operating,Singapore,0.60,"8,185,501","22,741,850","11,539.9",CapitaLand Integrated
+CapitaLand Malaysia Trust (KLSE:CLMT),4261427,Retail REIT,Public Company,Operating,Malaysia,0.59,"1,412,269","3,932,949","1,123.3",CapitaLand Malaysia Trust
+Care Property Invest NV (ENXTBR:CPINV),4861686,Residential REIT,Public Company,Operating,Belgium,0.89,"427,814","945,316",422.8,Care Property Invest NV
+"CareTrust REIT, Inc. (NYSE:CTRE)",4531073,Healthcare REIT,Public Company,Operating,USA,0.74,"673,398","1,640,848","1,679.6",CareTrust REIT Inc.
+Carindale Property Trust (ASX:CDP),4260899,Retail REIT,Public Company,Operating,Australia,0.48,"253,054","799,020",315.0,Carindale Property Trust
+Carmila S.A. (ENXTPA:CARM),6308336,Retail REIT,Public Company,Operating,France,0.76,"2,578,582","6,371,471","1,957.2",Carmila S.A.
+Cathay No.1 Real Estate Investment Trust (TWSE:01002T),4228265,Diversified REIT,Public Company,Operating,Taiwan,0.04,"1,106,266","28,214,590","25,032.2",Cathay Real Estate Investment
+Cathay No.2 REIT (TWSE:01007T),4864019,Office REIT,Public Company,Operating,Taiwan,NA,0,"17,083,328","14,328.0",Cathay No.2 REIT
+"CBL & Associates Properties, Inc. (NYSE:CBL)",103092,Retail REIT,Public Company,Operating,USA,5.51,"2,211,580","2,945,979",811.8,CBL & Associates Properties
+CCB Real Estate Fund REIT (BUL:CCBR),4862650,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,"45,001",51.7,CCB Real Estate Fund REIT
+CDL Hospitality Trusts (SGX:J85),4188464,Hotel REIT,Public Company,Operating,Singapore,0.73,"1,191,172","2,921,126","1,264.1",CDL Hospitality Trusts
+Centara Hotels and Resorts Leasehold Property Fund (SET:CTARAF),4864173,Hotel REIT,Public Company,Operating,Thailand,NA,0,"1,955,066","1,712.0",Centara Hotels & Resorts Lease
+Centerspace (NYSE:CSR),107231,Residential REIT,Public Company,Operating,USA,0.86,"856,047","1,940,061","1,025.3",Centerspace
+Centuria Capital Group (ASX:CNI),4406822,Diversified REIT,Public Company,Operating,Australia,0.47,"667,578","2,694,850","1,222.5",Centuria Capital Group
+Centuria Industrial REIT (ASX:CIP),4607007,Industrial REIT,Public Company,Operating,Australia,0.51,"1,373,029","4,148,032","1,727.0",Centuria Industrial REIT
+Centuria Office REIT (ASX:COF),4565018,Office REIT,Public Company,Operating,Australia,0.58,"861,098","2,410,773",851.2,Centuria Office REIT
+CFI-Compagnie Foncière Internationale (ENXTPA:CFI),4861873,Specialty REIT,Public Company,Operating,France,NA,0,38,0.5,CFI-Compagnie Foncière Interna
+Champion Real Estate Investment Trust (SEHK:2778),4143467,Office REIT,Public Company,Operating,Hong Kong,0.31,"15,288,666","67,873,004","14,874.5",Champion REIT
+Charter Hall Long WALE REIT (ASX:CLW),4825062,Diversified REIT,Public Company,Operating,Australia,0.41,"1,834,203","6,482,033","2,935.2",Charter Hall Long WALE REIT
+Charter Hall Retail REIT (ASX:CQR),4143475,Retail REIT,Public Company,Operating,Australia,0.37,"1,044,500","4,045,000","2,231.9",Charter Hall Retail REIT
+Charter Hall Social Infrastructure REIT (ASX:CQE),4686002,Specialty REIT,Public Company,Operating,Australia,0.37,"553,000","2,081,200","1,142.8",Charter Hall Social Infrastruc
+Chatham Lodging Trust (NYSE:CLDT),4245309,Hotel REIT,Public Company,Operating,USA,0.70,"566,985","1,410,699",580.7,Chatham Lodging Trust
+China Merchants Commercial Real Estate Investment Trust (SEHK:1503),19496752,Diversified REIT,Public Company,Operating,Hong Kong,0.55,"2,209,875","7,563,965","1,962.4",China Merchants Comm REIT
+Choice Properties Real Estate Investment Trust (TSX:CHP.UN),4391351,Retail REIT,Public Company,Operating,Canada,3.70,"12,243,927","16,172,603","4,142.9",Choice Properties REIT
+Citi Properties REIT (BUL:CITP),4862841,Diversified REIT,Public Company,Operating,Bulgaria,0.27,78,374,1.3,Citi Properties REIT
+"City Office REIT, Inc. (NYSE:CIO)",4426536,Office REIT,Public Company,Operating,USA,0.76,"664,233","1,601,513",413.2,City Office REIT Inc.
+Civitas Social Housing PLC (LSE:CSH),4846352,Residential REIT,Public Company,Operating,United Kingdom,0.52,"352,050","1,037,089",350.5,Civitas Social Housing PLC
+Clipper Realty Inc. (NYSE:CLPR),4622994,Residential REIT,Public Company,Operating,USA,16.17,"1,131,154","1,233,657",111.2,Clipper Realty Inc.
+Cofinimmo SA (ENXTBR:COFB),4143730,Healthcare REIT,Public Company,Operating,Belgium,0.78,"2,556,457","6,176,953","2,614.6",Cofinimmo
+"Comforia Residential REIT, Inc (TSE:3282)",4375928,Residential REIT,Public Company,Operating,Japan,1.05,"141,630","282,277",212.7,Comforia Residential REIT Inc
+Community Healthcare Trust Incorporated (NYSE:CHCT),4584959,Healthcare REIT,Public Company,Operating,USA,0.58,"269,393","754,233",752.4,Community Healthcare Trust Inc
+"CorEnergy Infrastructure Trust, Inc. (NYSE:CORR)",4153194,Specialty REIT,Public Company,Operating,USA,0.84,"221,437","508,593",26.5,CorEnergy Infrastructure Trust
+"Corpfin Capital Prime Retail II, SOCIMI, S.A. (BME:YPR2)",4863276,Retail REIT,Public Company,Operating,Spain,0.95,"5,466","11,300",4.7,Corpfin Cap Prime Retail II SO
+Corporate Office Properties Trust (NYSE:OFC),103010,Office REIT,Public Company,Operating,USA,1.39,"2,301,646","4,262,452","2,771.7",Corporate Office Properties Tr
+Cousins Properties Incorporated (NYSE:CUZ),102939,Office REIT,Public Company,Operating,USA,0.50,"2,290,534","7,312,034","3,451.2",Cousins Properties Inc.
+Covivio (ENXTPA:COV),4143703,Office REIT,Public Company,Operating,France,0.89,"12,089,597","28,237,423","4,730.4",Covivio
+CPN Commercial Growth Leasehold Property Fund (SET:CPNCG),4864376,Diversified REIT,Public Company,Operating,Thailand,0.21,"1,030,976","6,107,208","4,863.7",CPN Comm Growth Leasehold Ppty
+CPN Retail Growth Leasehold REIT (SET:CPNREIT),4430772,Retail REIT,Public Company,Operating,Thailand,1.24,"41,876,160","78,971,454","47,251.8",CPN Retail Growth Leasehold
+"CRE Logistics REIT, Inc. (TSE:3487)",9715126,Industrial REIT,Public Company,Operating,Japan,0.82,"61,869","140,960",107.6,CRE Logistics REIT Inc.
+Crombie Real Estate Investment Trust (TSX:CRR.UN),4143678,Retail REIT,Public Company,Operating,Canada,1.41,"2,253,602","4,023,041","2,579.0",Crombie REIT
+Cromwell European Real Estate Investment Trust (SGX:CWBU),8225689,Diversified REIT,Public Company,Operating,Singapore,0.63,"929,123","2,534,530",843.6,Cromwell European REIT
+Cromwell Property Group (ASX:CMW),4381586,Office REIT,Public Company,Operating,Australia,0.81,"2,191,700","5,054,200","1,780.8",Cromwell Property Group
+Crown Castle Inc. (NYSE:CCI),4417219,Specialty REIT,Public Company,Operating,USA,3.27,"27,009,000","39,040,000","53,519.3",Crown Castle Inc.
+CSHG Desenvolvimento de Shoppings Populares FII,5732351,Retail REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,CSHG Desenvolvimento de Shoppi
+CSHG TOP FOFII - Fundo De Investimento Imobiliário - FII,5736484,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,CSHG TOP FOFII - Fundo De Inve
+CT Property Trust Limited (LSE:CTPT),4143596,Diversified REIT,Public Company,Operating,United Kingdom,0.30,"96,914","426,590",163.6,CT Property Trust Ltd.
+CT Real Estate Investment Trust (TSX:CRT.UN),4409814,Retail REIT,Public Company,Operating,Canada,0.75,"2,753,635","6,500,102","3,509.4",CT REIT
+"CTO Realty Growth, Inc. (NYSE:CTO)",4330724,Diversified REIT,Public Company,Operating,USA,0.65,"278,471","733,139",345.8,"CTO Realty Growth, Inc."
+CubeSmart (NYSE:CUBE),4095755,Self-Storage REIT,Public Company,Operating,USA,1.13,"3,265,604","6,548,079","8,578.6",CubeSmart
+Daiwa House REIT Investment Corporation (TSE:8984),4214880,Diversified REIT,Public Company,Operating,Japan,0.78,"407,550","964,670",659.3,Daiwa House REIT Investment
+Daiwa Office Investment Corporation (TSE:8976),4214009,Office REIT,Public Company,Operating,Japan,0.80,"202,350","483,280",313.7,Daiwa Office Investment Corp.
+Daiwa Securities Living Investment Corporation (TSE:8986),4214343,Residential REIT,Public Company,Operating,Japan,1.08,"178,887","350,956",246.2,Daiwa Securities Living
+Dasin Retail Trust (SGX:CEDU),4884513,Retail REIT,Public Company,Operating,Singapore,0.86,"954,643","2,540,017",226.7,Dasin Retail Trust
+Delta Property Fund Limited (JSE:DLT),4685676,Office REIT,Public Company,Operating,South Africa,1.37,"4,591,055","8,363,980",264.3,Delta Property Fund Ltd
+Derwent London Plc (LSE:DLN),4143608,Office REIT,Public Company,Operating,United Kingdom,0.30,"1,320,000","5,892,000","2,248.1",Derwent London
+"Desarrollos Ermita del Santo, SOCIMI, S.A. (BME:YDES)",20247233,Retail REIT,Public Company,Operating,Spain,NA,NA,NA,22.4,Desarrollos Ermita del Santo S
+Deutsche Konsum REIT-AG (XTRA:DKG),4863321,Retail REIT,Public Company,Operating,Germany,1.32,"619,216","1,093,304",286.2,Deutsche Konsum REIT-AG
+DEXUS (ASX:DXS),4143468,Office REIT,Public Company,Operating,Australia,0.36,"4,909,200","19,192,100","8,174.3",DEXUS
+Dexus Industria REIT (ASX:DXI),4417178,Industrial REIT,Public Company,Operating,Australia,0.45,"514,104","1,715,754",805.9,Dexus Industria REIT
+DiamondRock Hospitality Company (NYSE:DRH),4098626,Hotel REIT,Public Company,Operating,USA,0.77,"1,175,828","2,965,306","1,900.4",DiamondRock Hospitality Co.
+Digital Core REIT (SGX:DCRU),101236930,Specialty REIT,Public Company,Operating,Singapore,0.32,"348,200","1,449,159",649.6,Digital Core REIT
+"Digital Realty Trust, Inc. (NYSE:DLR)",4094311,Specialty REIT,Public Company,Operating,USA,0.81,"14,960,397","36,369,560","27,838.3",Digital Realty Trust Inc.
+Dipula Income Fund Limited (JSE:DIB),4685993,Retail REIT,Public Company,Operating,South Africa,0.63,"3,540,148","9,526,791","2,032.4",Dipula Income Fund Ltd.
+Diversified Healthcare Trust (NASDAQGS:DHC),4045490,Healthcare REIT,Public Company,Operating,USA,1.38,"3,680,876","6,623,514",255.9,Diversified Healthcare
+Doğuş Gayrimenkul Yatırım Ortaklığı A.Ş. (IBSE:DGGYO),4234498,Diversified REIT,Public Company,Operating,Türkiye,4.85,"1,966,056","2,439,909","5,272.3",Doğuş GYO A.Ş.
+Dolmen City REIT (KASE:DCR),4597786,Diversified REIT,Public Company,Operating,Pakistan,NA,NA,NA,"30,687.1",Dolmen City REIT
+Domo Fundo de Investimento Imobiliário - FII (BOVESPA:RMAI11),4864423,Office REIT,Public Company,Operating,Brazil,NA,NA,NA,105.1,Domo Fundo de Investimento Imo
+"Douglas Emmett, Inc. (NYSE:DEI)",4137375,Office REIT,Public Company,Operating,USA,1.26,"5,022,936","9,354,032","2,925.0",Douglas Emmett Inc.
+Dream Industrial Real Estate Investment Trust (TSX:DIR.UN),4333623,Industrial REIT,Public Company,Operating,Canada,0.68,"2,376,489","6,053,566","2,739.0",Dream Industrial REIT
+Dream Office Real Estate Investment Trust (TSX:D.UN),4105058,Office REIT,Public Company,Operating,Canada,0.91,"1,416,290","3,065,560",744.4,Dream Office REIT
+Dream Residential Real Estate Investment Trust (TSX:DRR.U),105854718,Residential REIT,Public Company,Operating,Canada,2.65,"277,669","394,851",69.4,Dream Residential REIT
+Dusit Thani Freehold and Leasehold Real Estate Investment Trust (SET:DREIT),4864302,Hotel REIT,Public Company,Operating,Thailand,0.36,"2,061,398","7,794,791","4,482.5",Dusit Thani Freehold & Leaseho
+DXC Convenience Retail REIT (ASX:DXC),6673445,Retail REIT,Public Company,Operating,Australia,0.54,"299,611","873,122",380.3,DXC Convenience Retail REIT
+Eagle Hospitality Trust (SGX:LIW),14952161,Hotel REIT,Public Company,Operating,Singapore,0.65,"505,142","1,362,204",119.6,Eagle Hospitality Trust
+"Easterly Government Properties, Inc. (NYSE:DEA)",4573867,Office REIT,Public Company,Operating,USA,0.84,"1,212,720","2,826,112","1,460.5",Easterly Government Ppts Inc.
+"EastGroup Properties, Inc. (NYSE:EGP)",102947,Industrial REIT,Public Company,Operating,USA,0.94,"1,476,708","3,215,336","6,235.7",EastGroup Properties Inc.
+EC World Real Estate Investment Trust (SGX:BWCU),4754700,Industrial REIT,Public Company,Operating,Singapore,0.96,"721,493","1,895,263",384.7,EC World REIT
+Ediston Property Investment Company plc (LSE:EPIC),4863285,Diversified REIT,Public Company,Operating,United Kingdom,0.58,"110,277","303,016",131.9,Ediston Ppty Invt Co plc
+Elana Agricultural Land Fund REIT-Sofia (BUL:EALF),5762272,Diversified REIT,Public Company,Operating,Bulgaria,NA,NA,NA,9.5,Elana Agricultural Land Fund R
+Elanor Commercial Property Fund (ASX:ECF),7780175,Office REIT,Public Company,Operating,Australia,0.49,"184,324","580,330",292.8,Elanor Comm Ppty Fund
+Elanor Retail Property Fund (ASX:ERF),4825020,Retail REIT,Public Company,Operating,Australia,0.28,"41,689","204,539",99.6,Elanor Retail Property Fund
+Elite Commercial REIT (SGX:MXNU),19774964,Office REIT,Public Company,Operating,Singapore,0.78,"225,098","533,364",233.3,Elite Commercial REIT
+Elme Communities (NYSE:ELME),103036,Residential REIT,Public Company,Operating,USA,0.38,"501,546","1,875,994","1,572.4",Elme Communities
+Embassy Office Parks REIT (NSEI:EMBASSY),11191262,Office REIT,Public Company,Operating,India,0.47,"121,361,500","451,958,790","325,620.5",Embassy Office Parks REIT
+Emira Property Fund Limited (JSE:EMI),4259693,Diversified REIT,Public Company,Operating,South Africa,0.72,"5,622,932","14,071,564","5,071.6",Emira Property Fund Ltd.
+Emirates REIT (CEIC) PLC (DIFX:REIT),4435839,Diversified REIT,Public Company,Operating,United Arab Emirates,1.85,"535,043","853,834",79.5,Emirates REIT (CEIC) PLC
+Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş. (IBSE:EKGYO),4429543,Residential REIT,Public Company,Operating,Türkiye,0.30,"4,790,413","30,760,452","17,632.0",Emlak Konut GYO A.Ş.
+"Empire State Realty Trust, Inc. (NYSE:ESRT)",4313470,Diversified REIT,Public Company,Operating,USA,1.39,"2,339,257","4,282,447","1,142.5",Empire State Realty Trust Inc.
+Empiric Student Property Plc (LSE:ESP),4537834,Residential REIT,Public Company,Operating,United Kingdom,0.57,"372,026","1,069,476",470.6,Empiric Student Property Plc
+ENBD REIT (CEIC) PLC (DIFX:ENBDREIT),4937474,Diversified REIT,Public Company,Operating,United Arab Emirates,1.27,"211,627","393,215",98.0,ENBD REIT (CEIC) PLC
+"Entrecampos Cuatro, Socimi, S.A. (BME:YENT)",4863242,Diversified REIT,Public Company,Operating,Spain,0.34,"21,840","100,784",93.4,"Entrecampos Cuatro, Socimi, S."
+EPR Properties (NYSE:EPR),113645,Specialty REIT,Public Company,Operating,USA,1.15,"3,023,160","5,801,150","2,799.5",EPR Properties
+"Equinix, Inc. (NASDAQGS:EQIX)",4570011,Specialty REIT,Public Company,Operating,USA,1.38,"14,994,913","27,918,698","48,688.8",Equinix Inc.
+Equites Property Fund Limited (JSE:EQU),4544019,Industrial REIT,Public Company,Operating,South Africa,0.52,"9,039,208","27,740,130","12,648.0",Equites Property Fund Ltd.
+"Equity LifeStyle Properties, Inc. (NYSE:ELS)",103066,Residential REIT,Public Company,Operating,USA,2.22,"3,304,883","5,307,871","10,863.3",Equity LifeStyle Properties
+Equity Residential (NYSE:EQR),103054,Residential REIT,Public Company,Operating,USA,0.77,"8,653,788","21,169,241","24,150.6",Equity Residential
+Erawan Hotel Growth Property Fund (SET:ERWPF),4864401,Hotel REIT,Public Company,Operating,Thailand,NA,0,"1,317,954",722.0,Erawan Hotel Growth Ppty Fund
+ERG Capital-3 REIT-Sofia (BUL:ERG),4864085,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,"8,576",10.6,ERG Capital-3 REIT-Sofia
+"ESR Kendall Square REIT Co., Ltd. (KOSE:A365550)",19916978,Industrial REIT,Public Company,Operating,South Korea,0.92,"1,060,285","2,268,044",709.6,ESR Kendall Square REIT
+ESR-LOGOS REIT (SGX:J91U),4188466,Industrial REIT,Public Company,Operating,Singapore,0.81,"1,418,535","3,329,765","2,139.3",ESR-LOGOS REIT
+"Essential Properties Realty Trust, Inc. (NYSE:EPRT)",10701281,Diversified REIT,Public Company,Operating,USA,0.57,"1,175,141","3,298,795","2,760.7",Essential Properties Realty Tr
+"Essex Property Trust, Inc. (NYSE:ESS)",103163,Residential REIT,Public Company,Operating,USA,1.03,"6,358,085","12,997,873","14,834.0",Essex Property Trust Inc.
+Eurocommercial Properties N.V. (ENXTAM:ECMPA),4143772,Retail REIT,Public Company,Operating,Netherlands,0.82,"1,648,359","4,026,376","1,072.1",Eurocommercial Properties N.V.
+European Residential Real Estate Investment Trust (TSX:ERE.UN),4383204,Residential REIT,Public Company,Operating,Canada,3.01,"1,330,475","1,887,685",250.3,European Residential REIT
+"Excem Capital Partners Sociedad de Inversión Residencial Socimi, S.A. (BME:YEXR)",10769784,Residential REIT,Public Company,Operating,Spain,1.31,"13,558","24,798",8.8,Excem Cap Ptnrs Sociedad de In
+Exclusive Property REIT-Sofia (BUL:EXPR),5760689,Diversified REIT,Public Company,Operating,Bulgaria,0.58,"7,891","22,956",14.2,Exclusive Property REIT-Sofia
+Expat Beta Reit - Sofia (BUL:XBT),4862884,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,"6,134",4.1,Expat Beta Reit - Sofia
+Extra Space Storage Inc. (NYSE:EXR),4092889,Self-Storage REIT,Public Company,Operating,USA,1.67,"6,315,640","10,474,477","22,224.0",Extra Space Storage Inc.
+Fair Value REIT-AG (DB:FVI),4204284,Diversified REIT,Public Company,Operating,Germany,0.46,"78,632","335,519",78.6,Fair Value REIT-AG
+Fairplay Properties REIT (BUL:FPP),4862613,Diversified REIT,Public Company,Operating,Bulgaria,0.28,"19,027","89,379",42.2,Fairplay Properties REIT
+Fairvest Limited (JSE:FTA),4627654,Diversified REIT,Public Company,Operating,South Africa,0.50,"1,228,332","3,822,849","5,489.5",Fairvest Ltd.
+Far East Hospitality Trust (SGX:Q5T),4344578,Hotel REIT,Public Company,Operating,Singapore,0.57,"947,639","2,664,808","1,061.1",Far East Hospitality Trust
+Farmland Partners Inc. (NYSE:FPI),4426904,Specialty REIT,Public Company,Operating,USA,1.08,"511,430","1,121,525",725.1,Farmland Partners Inc.
+Federal Realty Investment Trust (NYSE:FRT),102950,Retail REIT,Public Company,Operating,USA,1.57,"4,192,240","7,622,320","7,465.4",Federal Realty Investment
+Fibra Danhos (BMV:DANHOS 13),4433054,Diversified REIT,Public Company,Operating,Mexico,0.09,"5,736,926","68,039,779","37,307.0",Fibra Danhos
+Fibra Inn (BMV:FINN 13),4424552,Hotel REIT,Public Company,Operating,Mexico,0.57,"4,176,794","11,878,409","1,767.7",Fibra Inn
+FIBRA Macquarie México (BMV:FIBRAMQ 12),4408230,Industrial REIT,Public Company,Operating,Mexico,0.49,"16,419,466","50,906,898","19,656.5",FIBRA Macquarie México
+"Fibra Mty, S.A.P.I. de C.V. (BMV:FMTY 14)",5000700,Office REIT,Public Company,Operating,Mexico,0.44,"5,477,360","18,808,265","11,803.2",Fibra Mty S.A.P.I. de C.V.
+Fibra Plus (BMV:FPLUS 16),5882529,Diversified REIT,Public Company,Operating,Mexico,0.21,"2,150,993","15,057,427","4,846.9",Fibra Plus
+FIBRA Prologis (BMV:FIBRAPL 14),4544093,Industrial REIT,Public Company,Operating,Mexico,0.43,"21,621,580","72,190,783","42,718.2",FIBRA Prologis
+Fibra Shop (BMV:FSHOP 13),4543617,Retail REIT,Public Company,Operating,Mexico,0.81,"9,317,671","21,386,297","3,145.3",Fibra Shop
+Fibra Terrafina (BMV:TERRA 13),4408231,Industrial REIT,Public Company,Operating,Mexico,0.61,"20,203,912","54,435,064","21,281.8",Fibra Terrafina
+Fibra UNO (BMV:FUNO 11),4290344,Diversified REIT,Public Company,Operating,Mexico,0.80,"136,026,198","316,621,511","84,884.9",Fibra UNO
+FibraHotel (BMV:FIHO 12),4425601,Hotel REIT,Public Company,Operating,Mexico,0.44,"4,985,894","16,975,236","6,231.6",FibraHotel
+Fideicomiso Irrevocable No. F/1523 (BMV:FIBRAHD 15),5738905,Diversified REIT,Public Company,Operating,Mexico,0.90,"2,893,709","6,231,666","1,106.1",Fideicomiso Irrevocable No. F/
+"Fideicomiso Irrevocable No. F/3277 en Banco Invex, S. A. Institución de Banca Mú (BMV:EDUCA 18)",10432112,Specialty REIT,Public Company,Operating,Mexico,0.00,"36,372","29,793,621","72,420.9",Fideicomiso Irrevocable No. F/
+Fideicomiso Opsimex (BMV:FSITES 20),105926094,Specialty REIT,Public Company,Operating,Mexico,NA,NA,NA,NA,Fideicomiso Opsimex
+Firm Capital Apartment Real Estate Investment Trust (TSXV:FCA.UN),4863191,Residential REIT,Public Company,Operating,Canada,0.59,"45,700","127,630",43.6,Firm Capital Apartment REIT
+Firm Capital Property Trust (TSX:FCD.UN),4620265,Diversified REIT,Public Company,Operating,Canada,0.90,"264,969","576,356",216.9,Firm Capital Property Trust
+First Capital Real Estate Investment Trust (TSX:FCR.UN),4074792,Retail REIT,Public Company,Operating,Canada,0.95,"4,425,520","10,109,074","3,191.0",First Capital REIT
+"First Industrial Realty Trust, Inc. (NYSE:FR)",103177,Industrial REIT,Public Company,Operating,USA,0.73,"1,632,612","4,179,098","5,874.7",First Industrial Realty Trust
+First Real Estate Investment Trust (SGX:AW9U),4188469,Healthcare REIT,Public Company,Operating,Singapore,0.54,"349,211","1,049,535",493.0,First REIT
+First Real Estate Investment Trust of New Jersey (OTCPK:FREV.S),103080,Diversified REIT,Public Company,Operating,USA,9.37,"299,518","346,105",116.0,First REIT of New Jersey
+Flagship Communities Real Estate Investment Trust (TSX:MHC.UN),25464524,Residential REIT,Public Company,Operating,USA,1.13,"363,967","695,125",261.0,Flagship Communities REIT
+Fonciere Inea S.A. (ENXTPA:INEA),4862684,Office REIT,Public Company,Operating,France,0.95,"434,037","932,959",427.2,Fonciere Inea S.A.
+Fortress REIT Limited (JSE:FFA),4303220,Diversified REIT,Public Company,Operating,South Africa,0.71,"19,117,067","47,588,829","15,331.7",Fortress REIT Ltd.
+Fortune Real Estate Investment Trust (SEHK:778),4143510,Retail REIT,Public Company,Operating,Hong Kong,0.30,"8,840,517","39,724,711","9,938.1",Fortune REIT
+Forucom REIT-Haskovo (BUL:FFI),4864080,Diversified REIT,Public Company,Operating,Bulgaria,7.38,"17,848","21,953",2.6,Forucom REIT-Haskovo
+"Four Corners Property Trust, Inc. (NYSE:FCPT)",4625481,Specialty REIT,Public Company,Operating,USA,0.92,"883,208","1,902,980","1,931.4",Four Corners Property Trust
+Four Springs Capital Trust,6216539,Diversified REIT,Public Company,Operating,USA,2.08,"260,010","449,394",NA,Four Springs Capital Trust
+Frasers Centrepoint Trust (SGX:J69U),4188462,Retail REIT,Public Company,Operating,Singapore,0.46,"1,808,916","5,898,797","3,336.0",Frasers Centrepoint Trust
+Frasers Hospitality Trust (SGX:ACV),4546970,Hotel REIT,Public Company,Operating,Singapore,0.79,"991,592","2,349,183",828.2,Frasers Hospitality Trust
+Frasers Logistics & Commercial Trust (SGX:BUOU),4727754,Industrial REIT,Public Company,Operating,Singapore,0.58,"2,681,712","7,680,178","3,954.9",Frasers Logistics & Comm Trust
+Frey SA (ENXTPA:FREY),4864132,Retail REIT,Public Company,Operating,France,0.63,"610,073","1,755,453","1,000.9",Frey SA
+Frontier Real Estate Investment Corporation (TSE:8964),4211152,Retail REIT,Public Company,Operating,Japan,0.71,"123,400","330,352",269.7,Frontier Real Estate Invt Corp
+Fubon No.1 Real Estate Investment Trust (TWSE:01001T),5895674,Office REIT,Public Company,Operating,Taiwan,0.17,"1,877,667","13,416,496","9,911.0",Fubon No.1 REIT
+Fubon No.2 Real Estate Investment Trust (TWSE:01004T),4862621,Office REIT,Public Company,Operating,Taiwan,NA,0,"11,856,790","11,661.3",Fubon No.2 Real Estate Investm
+Fukuoka REIT Corporation (TSE:8968),4214331,Retail REIT,Public Company,Operating,Japan,0.81,"82,400","198,745",127.9,Fukuoka REIT Corp.
+Fund Estates REIT (BUL:FUES),5749878,Office REIT,Public Company,Operating,Bulgaria,15.57,"31,768","40,443",0.6,Fund Estates REIT
+Fundo Brasílio Machado De Investimento Imobiliário,5731454,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo Brasílio Machado De Inve
+Fundo De Invest Imob Rep 1 CCS,5731620,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo De Invest Imob Rep 1 CCS
+Fundo de Investimento Imobiliário - FII Anhanguera Educacional (BOVESPA:FAED11),4862997,Self-Storage REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliário - FII Brasil Plural Absoluto Fundo de Fundos (BOVESPA:BPFF11),4864402,Diversified REIT,Public Company,Operating,Brazil,NA,0,"393,073",318.9,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund (BOVESPA:BRCR11),4863071,Office REIT,Public Company,Operating,Brazil,0.17,"485,728","3,588,609","1,798.1",Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliário - FII Edifício Castelo,5734493,Office REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliario - FII Edificio Galeria (BOVESPA:EDGA11),4864413,Office REIT,Public Company,Operating,Brazil,NA,0,"328,233",69.8,Fundo de Investimento Imobilia
+Fundo de Investimento Imobiliário - FII Floripa Shopping (BOVESPA:FLRP11),4862978,Retail REIT,Public Company,Operating,Brazil,NA,0,"109,176",101.8,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliario - FII Vila Olimpia Corporate (BOVESPA:VLOL11),4864372,Office REIT,Public Company,Operating,Brazil,NA,NA,NA,190.9,Fundo de Investimento Imobilia
+Fundo de Investimento Imobiliário BB Votorantim JHSF Cidade Jardim Continental T,5731753,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo de Investimento Imobiliá
+Fundo De Investimento Imobiliário Brasil Varejo,5736485,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo De Investimento Imobiliá
+Fundo de Investimento Imobiliario Edificio Almirante Barroso (BOVESPA:FAMB11B),4862816,Office REIT,Public Company,Operating,Brazil,NA,NA,NA,78.7,Fundo de Investimento Imobilia
+Fundo de Investimento Imobiliário General Shopping Ativo e Renda - FII (BOVESPA:FIGS11),4864410,Retail REIT,Public Company,Operating,Brazil,NA,0,"270,551",151.2,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliário Panamby (BOVESPA:PABY11),4864130,Residential REIT,Public Company,Operating,Brazil,NA,NA,NA,6.4,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliário Projeto Água Branca (BOVESPA:FPAB11),4862941,Office REIT,Public Company,Operating,Brazil,NA,0,"342,002",151.5,Fundo de Investimento Imobiliá
+Fundo de Investimento Imobiliário Rio Negro (BOVESPA:RNGO11),4864366,Diversified REIT,Public Company,Operating,Brazil,NA,0,"272,223",135.0,Fundo de Investimento Imobiliá
+Fundo Invest Imobiliario Centro Textil Internacional - Cotas Fund (BOVESPA:CTXT11),4864387,Industrial REIT,Public Company,Operating,Brazil,NA,0,"119,661",44.3,Fundo Invest Imobiliario Centr
+Fundo Investimento Imobiliário Infra Real Estate FII,5735095,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Fundo Investimento Imobiliário
+Future Park Leasehold Property Fund (SET:FUTUREPF),4864027,Retail REIT,Public Company,Operating,Thailand,0.87,"5,165,700","11,533,709","7,149.1",Future Park Leasehold Ppty Fun
+"Gadsden Properties, Inc. (OTCEM:GADS)",4771798,Diversified REIT,Public Company,Operating,USA,NM,955,"4,804",0.2,Gadsden Properties
+"Gaming and Leisure Properties, Inc. (NASDAQGS:GLPI)",4389214,Specialty REIT,Public Company,Operating,USA,2.00,"6,789,626","10,690,449","11,909.9",Gaming and Leisure Properties
+Garda Property Group (ASX:GDF),4864493,Office REIT,Public Company,Operating,Australia,0.61,"259,028","694,997",315.3,Garda Property Group
+"Gavari Properties Socimi, S.A. (BME:YGAV)",19947517,Residential REIT,Public Company,Operating,Spain,0.70,"8,769","21,420",14.6,Gavari Properties Socimi S.A.
+GCP Student Living Plc,4397818,Residential REIT,Public Company,Operating,United Kingdom,0.34,"298,555","1,201,904",NA,Gemini Student Living Limited
+GDI Property Group (ASX:GDI),4420558,Office REIT,Public Company,Operating,Australia,0.32,"246,780","1,059,384",413.5,GDI Property Group
+Gecina (ENXTPA:GFC),4143708,Office REIT,Public Company,Operating,France,0.53,"6,910,097","20,439,026","6,123.4",Gecina
+"General de Galerías Comerciales SOCIMI, S.A. (BME:YGGC)",6675606,Retail REIT,Public Company,Operating,Spain,0.11,"70,000","785,989","3,665.7",Genl de Galerías Comerciales S
+"Generation Income Properties, Inc. (NASDAQCM:GIPR)",4673971,Diversified REIT,Public Company,Operating,USA,2.05,"28,969","53,421",11.2,Generation Income Properties
+Getty Realty Corp. (NYSE:GTY),4066492,Retail REIT,Public Company,Operating,USA,0.82,"608,835","1,466,948","1,337.5",Getty Realty Corp.
+Gladstone Commercial Corporation (NASDAQGS:GOOD),4088076,Diversified REIT,Public Company,Operating,USA,3.52,"713,035","1,143,352",645.6,Gladstone Commercial Corp.
+Gladstone Land Corporation (NASDAQGM:LAND),4264067,Specialty REIT,Public Company,Operating,USA,1.23,"727,342","1,351,550",671.4,Gladstone Land Corp.
+Glenstone REIT plc,4998866,Diversified REIT,Public Company,Operating,United Kingdom,0.28,"34,228","161,360",111.2,Glenstone REIT plc
+Global Medical REIT Inc. (NYSE:GMRE),4677448,Healthcare REIT,Public Company,Operating,USA,0.90,"574,959","1,263,485",507.1,Global Medical REIT
+"Global Net Lease, Inc. (NYSE:GNL)",4307540,Diversified REIT,Public Company,Operating,USA,1.51,"2,449,541","4,182,956","1,130.7",Global Net Lease
+Global One Real Estate Investment Corp. (TSE:8958),4260130,Office REIT,Public Company,Operating,Japan,0.99,"94,200","198,819",99.7,Global One Real Estate
+"Global Self Storage, Inc. (NASDAQCM:SELF)",4659472,Self-Storage REIT,Public Company,Operating,USA,0.38,"17,928","66,549",55.3,Global Self Storage
+Globalworth Real Estate Investments Limited (AIM:GWI),4864411,Office REIT,Public Company,Operating,United Kingdom,0.95,"1,654,246","3,627,483",950.8,Globalworth RE Invts Ltd
+GLP J-REIT (TSE:3281),4346045,Industrial REIT,Public Company,Operating,Japan,0.84,"346,520","781,669",653.3,GLP J-REIT
+"GMP Property SOCIMI, S.A. (BME:YGMP)",4863380,Diversified REIT,Public Company,Operating,Spain,0.57,"850,343","2,451,817","1,070.7",GMP Property SOCIMI S.A.
+Golden Tulip Belo Horizonte Fundo Invest Multimercado Fund,7634544,Hotel REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Golden Tulip Belo Horizonte Fu
+Golden Ventures Leasehold Real Estate Investment Trust (SET:GVREIT),4864516,Office REIT,Public Company,Operating,Thailand,0.31,"2,800,062","12,200,029","7,251.7",Golden Ventures Leasehold REIT
+Goodman Group (ASX:GMG),4143500,Industrial REIT,Public Company,Operating,Australia,0.18,"2,902,800","21,432,400","30,852.5",Goodman Group
+Goodman Property Trust (NZSE:GMT),4249588,Industrial REIT,Public Company,Operating,New Zealand,0.30,"1,083,100","4,814,300","2,694.2",Goodman Property Trust
+Grande Royal Orchid Hospitality Real Estate Investment Trust with Buy-Back Condi (SET:GROREIT),28678836,Hotel REIT,Public Company,Operating,Thailand,NA,NA,NA,"3,024.0",Grande Royal Orchid Hospitalit
+Granite Real Estate Investment Trust (TSX:GRT.UN),4325276,Industrial REIT,Public Company,Operating,Canada,0.46,"2,458,002","8,566,697","4,357.0",Granite REIT
+Great Portland Estates Plc (LSE:GPE),4143571,Office REIT,Public Company,Operating,United Kingdom,0.28,"589,700","2,757,800","1,177.4",Great Portland Estates Plc
+Greenoak Spain Holdings Socimi II S.A. (BME:YGO2),10644820,Diversified REIT,Public Company,Operating,Spain,NA,NA,NA,12.0,Greenoak Spain Hldgs Socimi II
+"Griffin Realty Trust, Inc.",4234075,Diversified REIT,Public Company,Operating,USA,1.09,"2,583,273","5,273,017",NA,"Griffin Realty Trust, Inc."
+Ground Rents Income Fund PLC (LSE:GRIO),4863171,Diversified REIT,Public Company,Operating,United Kingdom,0.19,"19,111","122,339",47.3,Ground Rents Income Fund PLC
+Growthpoint Properties Limited (JSE:GRT),4222576,Diversified REIT,Public Company,Operating,South Africa,0.72,"65,252,000","164,729,000","44,572.2",Growthpoint Properties Ltd.
+"Grupo Ortiz Properties SOCIMI, S.A. (BME:YGOP)",6896514,Diversified REIT,Public Company,Operating,Spain,0.63,"73,372","220,872",90.2,Grupo Ortiz Ppts SOCIMI S.A.
+"GTJ REIT, Inc.",4142195,Diversified REIT,Public Company,Operating,USA,5.44,"414,422","504,397",NA,GTJ REIT Inc.
+H&R Real Estate Investment Trust (TSX:HR.UN),4105060,Diversified REIT,Public Company,Operating,Canada,0.87,"4,140,869","10,501,141","2,900.8",H&R REIT
+Hamborner REIT AG (XTRA:HABA),4279273,Retail REIT,Public Company,Operating,Germany,1.52,"755,734","1,285,787",562.1,Hamborner REIT AG
+Hammerson Plc (LSE:HMSO),4143575,Retail REIT,Public Company,Operating,United Kingdom,0.68,"1,875,200","4,913,900",811.2,Hammerson Plc
+"Hankyu Hanshin REIT, Inc. (TSE:8977)",4214339,Diversified REIT,Public Company,Operating,Japan,0.87,"75,759","171,559",100.0,Hankyu Hanshin REIT Inc
+"Hartman Short Term Income Properties XX, Inc.",4220196,Diversified REIT,Public Company,Operating,USA,1.93,"303,777","505,322",NA,Hartman Short Term Income Prop
+"HC Government Realty Trust, Inc.",5874619,Office REIT,Public Company,Operating,USA,8.93,"111,595","129,463",NA,"HC Government Realty Trust,"
+Healthcare & Medical Investment Corporation (TSE:3455),4750309,Healthcare REIT,Public Company,Operating,Japan,1.01,"33,150","68,778",66.0,Healthcare & Medical Invt Corp
+Healthcare Realty Trust Incorporated (NYSE:HR),103057,Healthcare REIT,Public Company,Operating,USA,0.88,"1,920,014","4,258,919","7,200.0",Healthcare Realty Trust Inc.
+"Healthcare Trust, Inc. (OTCPK:HLTC)",4341499,Healthcare REIT,Public Company,Operating,USA,1.06,"1,099,258","2,214,400",693.1,Healthcare Trust Inc.
+HealthCo Healthcare and Wellness REIT (ASX:HCW),29562790,Healthcare REIT,Public Company,Operating,Australia,0.03,"22,294","693,597",459.1,HealthCo Hlthcr & Wellness REI
+"Healthpeak Properties, Inc. (NYSE:PEAK)",102953,Healthcare REIT,Public Company,Operating,USA,0.90,"6,374,562","15,257,519","12,108.2",Healthpeak Properties
+HEDGE Brasil Shopping Fundo de Investimento Imobiliário (BOVESPA:HGBS11),4864207,Retail REIT,Public Company,Operating,Brazil,NA,0,"2,235,515","2,094.9",HEDGE Brasil Shopping Fundo de
+HEDGE TOP FOFII 2 Fundo de Investimento Imobiliário - FII,4863217,Diversified REIT,Public Company,Operating,Brazil,NA,0,"138,216",NA,HEDGE TOP FOFII 2 Fundo de Inv
+"Heiwa Real Estate REIT, Inc. (TSE:8966)",4408233,Diversified REIT,Public Company,Operating,Japan,0.92,"96,757","209,795",159.3,Heiwa Real Estate REIT
+Hektar Real Estate Investment Trust (KLSE:HEKTAR),4864029,Retail REIT,Public Company,Operating,Malaysia,1.06,"581,091","1,230,708",266.3,Hektar REIT
+Hemaraj Industrial Property and Leasehold Fund (SET:HPF),5735199,Industrial REIT,Public Company,Operating,Thailand,NA,0,"4,458,682","2,209.0",Hemaraj Indl Ppty & Leasehold
+Hersha Hospitality Trust (NYSE:HT),4019891,Hotel REIT,Public Company,Operating,USA,1.93,"1,171,564","1,833,144",325.9,Hersha Hospitality Trust
+Highcroft Investments Plc (LSE:HCFT),4217758,Diversified REIT,Public Company,Operating,United Kingdom,0.41,"27,200","96,156",51.2,Highcroft Investments Plc
+"Highlands REIT, Inc. (OTCEM:HHDS)",4649381,Diversified REIT,Public Company,Operating,USA,0.25,"62,412","321,013",132.8,Highlands REIT Inc.
+"Highwoods Properties, Inc. (NYSE:HIW)",103169,Office REIT,Public Company,Operating,USA,1.13,"2,822,734","5,695,138","2,733.8",Highwoods Properties Inc.
+"Hines Global Income Trust, Inc.",4410107,Diversified REIT,Public Company,Operating,USA,1.02,"1,263,692","2,704,921",NA,Hines Global Income Trust Inc.
+Hispanotels Inversiones Socimi S.A. (BME:YHSP),13313345,Diversified REIT,Public Company,Operating,Spain,0.24,"11,913","72,027",65.7,Hispanotels Inversiones Socimi
+Home Consortium Limited (ASX:HMC),4918238,Retail REIT,Public Company,Operating,Australia,0.01,"4,345","912,950","1,257.2",Home Consortium Ltd.
+Home Invest Belgium S.A. (ENXTBR:HOMI),4863993,Residential REIT,Public Company,Operating,Belgium,1.12,"384,482","737,012",404.3,Home Invest Belgium S.A.
+Home Reit Plc (LSE:HOME),25464180,Residential REIT,Public Company,Operating,United Kingdom,0.47,"117,528","371,356",675.1,Home Reit Plc
+HomeCo Daily Needs REIT (ASX:HDN),26181699,Retail REIT,Public Company,Operating,Australia,0.51,"1,601,500","4,856,200","2,452.1",HomeCo Daily Needs REIT
+"Hoshino Resorts REIT, Inc. (TSE:3287)",4545183,Hotel REIT,Public Company,Operating,Japan,0.57,"68,424","192,603",171.5,"Hoshino Resorts REIT, Inc."
+"Host Hotels & Resorts, Inc. (NASDAQGS:HST)",4041118,Hotel REIT,Public Company,Operating,USA,0.85,"5,455,000","12,352,000","12,753.7",Host Hotels & Resorts
+Hotel Property Investments (ASX:HPI),4420595,Specialty REIT,Public Company,Operating,Australia,0.57,"464,729","1,305,341",572.4,Hotel Property Investments
+Hotland Yantian Port Warehouse Logistics (SZSE:180301),29248120,Industrial REIT,Public Company,Operating,China,NA,0,"1,011,892",NA,Hotland Yantian Port Warehouse
+"Hudson Pacific Properties, Inc. (NYSE:HPP)",4251328,Office REIT,Public Company,Operating,USA,1.01,"4,221,847","8,990,189","1,457.1",Hudson Pacific Properties Inc.
+Hui Xian Real Estate Investment Trust (SEHK:87001),4286545,Diversified REIT,Public Company,Operating,Hong Kong,0.34,"8,471,000","41,086,000","4,922.0",Hui Xian REIT
+"Hulic Reit, Inc. (TSE:3295)",4545486,Diversified REIT,Public Company,Operating,Japan,0.88,"176,416","396,984",231.8,Hulic Reit Inc.
+Hyprop Investments Limited (JSE:HYP),4259862,Retail REIT,Public Company,Operating,South Africa,0.70,"14,488,023","37,276,317","12,683.0",Hyprop Investments Ltd.
+"Ibi Lion Socimi, S.A. (BME:YIBI)",101525155,Diversified REIT,Public Company,Operating,Spain,NA,NA,NA,32.0,Ibi Lion Socimi S.A.
+Icade (ENXTPA:ICAD),4143715,Diversified REIT,Public Company,Operating,France,0.89,"7,681,600","17,608,900","2,728.0",Icade
+Ichigo Hotel REIT Investment Corporation (TSE:3463),4750313,Hotel REIT,Public Company,Operating,Japan,0.82,"26,340","59,394",25.4,Ichigo Hotel REIT Investment
+Ichigo Office REIT Investment Corporation (TSE:8975),4215882,Office REIT,Public Company,Operating,Japan,1.08,"111,225","228,021",122.6,Ichigo Office REIT Inv. Corp.
+Idealist Gayrimenkul Yatirim Ortakligi A.S. (IBSE:IDGYO),4864267,Residential REIT,Public Company,Operating,Türkiye,0.07,"4,333","89,286",141.0,Idealist Gayrimenkul Yatirim O
+IGB Commercial Real Estate Investment Trust (KLSE:IGBCR),29204248,Diversified REIT,Public Company,Operating,Malaysia,0.37,"851,431","3,275,204","1,268.8",IGB Commercial REIT
+IGB Real Estate Investment Trust (KLSE:IGBREIT),4335476,Retail REIT,Public Company,Operating,Malaysia,0.32,"1,214,705","5,233,071","5,661.4",IGB REIT
+"IGIS RESIDENCE REIT Co., Ltd. (KOSE:A350520)",19906689,Residential REIT,Public Company,Operating,South Korea,0.63,"113,568","294,489",103.5,IGIS RESIDENCE REIT
+"IGIS Value Plus REIT Co., Ltd. (KOSE:A334890)",18048345,Office REIT,Public Company,Operating,South Korea,0.25,"52,758","269,066",149.6,IGIS Value Plus REIT
+ILAM Fahari I-REIT (NASE:FAHR),5737711,Diversified REIT,Public Company,Operating,Kenya,NA,0,"3,712,526","1,096.7",ILAM Fahari I-REIT
+Immobiliare Grande Distribuzione SIIQ S.p.A. (BIT:IGD),4143804,Retail REIT,Public Company,Operating,Italy,0.98,"1,145,279","2,405,607",300.1,IGD SiiQ SpA
+Immobiliere Dassault SA (ENXTPA:IMDA),4862365,Diversified REIT,Public Company,Operating,France,0.42,"249,660","859,482",391.7,Immobiliere Dassault SA
+Immolease Trust NV (ENXTBR:DIEG),4863761,Diversified REIT,Public Company,Operating,Belgium,NA,NA,NA,10.7,Immolease Trust NV
+IMPACT Growth Real Estate Investment Trust (SET:IMPACT),4552150,Specialty REIT,Public Company,Operating,Thailand,0.24,"3,870,974","20,371,854","18,086.5",Impact Growth REIT
+Impact Healthcare REIT PLC (LSE:IHR),4897609,Healthcare REIT,Public Company,Operating,United Kingdom,0.28,"110,907","514,495",393.8,Impact Healthcare REIT PLC
+"Inbest Prime VI Inmuebles, S.A. (BME:YINB6)",27808602,Diversified REIT,Public Company,Operating,Spain,NA,0,"41,019",42.2,Inbest Prime VI Inmuebles S.A.
+"Independence Realty Trust, Inc. (NYSE:IRT)",4235858,Residential REIT,Public Company,Operating,USA,0.74,"2,708,591","6,506,696","3,491.5",Independence Realty Trust Inc
+"INDUS Realty Trust, Inc. (NASDAQGM:INDT)",4861698,Industrial REIT,Public Company,Operating,USA,0.44,"170,444","590,646",505.2,INDUS Realty Trust
+Industrial & Infrastructure Fund Investment Corporation (TSE:3249),4260327,Industrial REIT,Public Company,Operating,Japan,1.07,"202,783","417,430",311.1,Industrial & Infrastructure
+Industrial Logistics Properties Trust (NASDAQGS:ILPT),9219457,Industrial REIT,Public Company,Operating,USA,0.80,"828,124","1,908,558",334.3,Industrial Logistics Ppts
+Industrials REIT Limited (JSE:MLI),4686021,Diversified REIT,Public Company,Operating,United Kingdom,0.34,"177,858","722,034","7,466.0",Industrials REIT Ltd.
+"Infraestructura Viable, S.A. de C.V. (BMV:FVIA 16)",4977646,Industrial REIT,Public Company,Operating,Mexico,0.19,"6,340,576","40,221,498","31,402.2",Infraestructura Viable S.A. de
+Ingenia Communities Group (ASX:INA),4149718,Residential REIT,Public Company,Operating,Australia,0.32,"495,912","2,183,041","1,516.2",Ingenia Communities Group
+"Inland Real Estate Income Trust, Inc. (OTCPK:INRE)",4303071,Retail REIT,Public Company,Operating,USA,1.42,"619,938","1,126,707",0.1,Inland Real Estate Income Tr.
+"Inmobiliaria Colonial, SOCIMI, S.A. (BME:COL)",4143766,Office REIT,Public Company,Operating,Spain,0.68,"4,915,286","12,727,524","2,579.5","Inmobiliaria Colonial, SOCIMI"
+"Innovative Industrial Properties, Inc. (NYSE:IIPR)",4835257,Industrial REIT,Public Company,Operating,USA,0.20,"327,259","2,084,602","2,645.4",Innovative Indl Ppts Inc.
+InnSuites Hospitality Trust (NYSEAM:IHT),103014,Hotel REIT,Public Company,Operating,USA,2.34,"9,669","14,702",17.7,InnSuites Hospitality Trust
+Inovalis Real Estate Investment Trust (TSX:INO.UN),4379425,Office REIT,Public Company,Operating,Canada,0.62,"216,132","587,245",143.0,Inovalis REIT
+Intercapital Property Development ADSIC (BUL:ICPD),4863976,Diversified REIT,Public Company,Operating,Bulgaria,0.60,"11,797","46,019",27.2,Intercapital Ppty Dev ADSIC
+Intercontinental International Real Estate Investment Company (ATSE:INTERCO),4864527,Retail REIT,Public Company,Operating,Greece,0.51,"39,868","118,819",67.6,Intercontinental Intl RE Invt
+InterRent Real Estate Investment Trust (TSX:IIP.UN),4202785,Residential REIT,Public Company,Operating,Canada,0.65,"1,572,660","4,118,699","1,589.7",InterRent REIT
+Intervest Offices & Warehouses (ENXTBR:INTO),4143657,Industrial REIT,Public Company,Operating,Belgium,0.83,"529,708","1,236,957",570.1,Intervest Offices & Warehouses
+InvenTrust Properties Corp. (NYSE:IVT),4098709,Retail REIT,Public Company,Operating,USA,0.34,"536,554","2,212,415","1,547.5",InvenTrust Properties Corp.
+"Inversa Prime SOCIMI, S.A. (BME:YIPS)",13420492,Residential REIT,Public Company,Operating,Spain,0.15,"16,812","133,231",100.0,Inversa Prime SOCIMI S.A.
+"Inversiones Doalca SOCIMI, S.A. (BME:YDOA)",4863140,Office REIT,Public Company,Operating,Spain,0.61,"12,259","35,854",154.2,Inversiones Doalca SOCIMI S.A.
+Investec Property Fund Limited (JSE:IPF),4502225,Diversified REIT,Public Company,Operating,South Africa,0.70,"9,594,713","24,039,498","8,169.9",Investec Property Fund Limited
+Investore Property Limited (NZSE:IPL),4730982,Retail REIT,Public Company,Operating,New Zealand,0.43,"369,964","1,238,736",540.2,Investore Property Ltd
+Invincible Investment Corporation (TSE:8963),4216772,Hotel REIT,Public Company,Operating,Japan,0.98,"241,372","490,119",276.8,Invincible Investment Corp.
+Invitation Homes Inc. (NYSE:INVH),4426247,Residential REIT,Public Company,Operating,USA,0.81,"8,017,699","18,537,846","20,202.9",Invitation Homes Inc.
+IREIT Global (SGX:UD1U),4549088,Office REIT,Public Company,Operating,Singapore,0.53,"328,922","1,035,499",560.6,IREIT Global
+Irish Residential Properties REIT Plc (ISE:IRES),4440102,Residential REIT,Public Company,Operating,Ireland,0.70,"619,452","1,528,063",613.3,Irish Residential Ppts REIT
+Iron Mountain Incorporated (NYSE:IRM),4094831,Specialty REIT,Public Company,Operating,USA,13.65,"11,703,010","14,450,031","13,682.5",Iron Mountain Inc.
+İş Gayrimenkul Yatırım Ortaklığı A.Ş. (IBSE:ISGYO),4233948,Diversified REIT,Public Company,Operating,Türkiye,0.19,"1,043,235","6,676,321","6,989.3",İş GYO A.Ş.
+iStar Inc. (NYSE:STAR),102921,Diversified REIT,Public Company,Operating,USA,3.26,"3,470,995","4,840,534",790.3,iStar Inc.
+"Jaba I Inversiones Inmobiliarias, Socimi, S.A. (BME:YABA)",4863355,Office REIT,Public Company,Operating,Spain,0.17,"6,120","42,510",35.5,Jaba I Inversiones Inmobiliari
+Jadwa REIT Al Haramain Fund (SASE:4332),5739106,Diversified REIT,Public Company,Operating,Saudi Arabia,0.42,"232,011","789,358",481.1,Jadwa REIT Al Haramain Fund
+"Japan Excellent, Inc. (TSE:8987)",4212691,Office REIT,Public Company,Operating,Japan,0.83,"125,600","291,431",174.7,Japan Excellent Inc.
+Japan Hotel REIT Investment Corporation (TSE:8985),4216837,Hotel REIT,Public Company,Operating,Japan,0.74,"164,754","394,324",330.1,Japan Hotel REIT Investment
+"Japan Logistics Fund, Inc. (TSE:8967)",4214952,Industrial REIT,Public Company,Operating,Japan,0.85,"114,700","260,342",283.0,Japan Logistics Fund Inc.
+Japan Metropolitan Fund Investment Corporation (TSE:8953),4143337,Retail REIT,Public Company,Operating,Japan,0.88,"549,675","1,247,439",718.0,Japan Met Fund Invt Corp.
+Japan Prime Realty Investment Corporation (TSE:8955),4143330,Office REIT,Public Company,Operating,Japan,0.74,"202,900","507,006",372.4,Japan Prime Realty Invt. Corp.
+Japan Real Estate Investment Corporation (TSE:8952),4143333,Office REIT,Public Company,Operating,Japan,0.87,"449,893","1,035,073",799.3,Japan Real Estate Invt. Corp.
+JBG SMITH Properties (NYSE:JBGS),4899055,Office REIT,Public Company,Operating,USA,0.90,"2,645,783","6,386,206","2,182.6",JBG SMITH Properties
+JHSF Rio Bravo Fazenda Boa Vista Capital Protegido Fundo de Investimento Imobili (BOVESPA:RBBV11),4865254,Residential REIT,Public Company,Operating,Brazil,NA,NA,NA,125.4,JHSF Rio Bravo Fazenda Boa Vis
+"Jones Lang LaSalle Income Property Trust, Inc.",4132010,Diversified REIT,Public Company,Operating,USA,1.23,"2,265,983","4,402,246",NA,JLL Income Property Trust Inc.
+Jordan Decapolis Properties (ASE:JDPC),4863783,Diversified REIT,Public Company,Operating,Jordan,0.00,59,"82,495",16.8,Jordan Decapolis Properties
+JPP Capital Fundo Invest Imobiliario FII (BOVESPA:JPPC11),4863218,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,11.0,JPP Cap Fundo Invest Imobiliar
+JR Global REIT (KOSE:A348950),7171009,Office REIT,Public Company,Operating,South Korea,NA,NA,NA,774.7,JR Global REIT
+"KBS Real Estate Investment Trust III, Inc. (OTCPK:KBSR)",4250328,Office REIT,Public Company,Operating,USA,2.36,"1,465,398","2,254,201",992.6,KBS REIT III Inc.
+KCR Residential REIT plc (AIM:KCR),4864489,Residential REIT,Public Company,Operating,United Kingdom,0.97,"13,275","27,365",5.8,KCR Residential REIT plc
+Kenedix Office Investment Corporation (TSE:8972),4143341,Office REIT,Public Company,Operating,Japan,0.89,"205,150","464,802",276.2,Kenedix Office Invt. Corp.
+Kenedix Residential Next Investment Corporation (TSE:3278),4320931,Residential REIT,Public Company,Operating,Japan,1.15,"155,820","302,410",215.1,Kenedix Residential Next Invt.
+Kenedix Retail REIT Corporation (TSE:3453),4658824,Retail REIT,Public Company,Operating,Japan,0.90,"123,300","275,833",151.3,Kenedix Retail REIT
+Keppel DC REIT (SGX:AJBU),4571923,Specialty REIT,Public Company,Operating,Singapore,0.56,"1,299,270","3,780,150","2,749.1",Keppel DC REIT
+Keppel Pacific Oak US REIT (SGX:CMOU),9037515,Office REIT,Public Company,Operating,Singapore,0.66,"562,104","1,513,568",511.8,Keppel Pacific Oak US REIT
+Keppel REIT (SGX:K71U),4188460,Office REIT,Public Company,Operating,Singapore,0.49,"2,726,807","8,487,684","3,321.2",Keppel REIT
+Kiler Gayrimenkul Yatirim Ortakligi A.S. (IBSE:KLGYO),4864315,Diversified REIT,Public Company,Operating,Türkiye,0.01,NA,"2,989,448","3,041.1",Kiler Gayrimenkul Yatirim Orta
+Killam Apartment REIT (TSX:KMP.UN),4143687,Residential REIT,Public Company,Operating,Canada,1.02,"2,158,725","4,578,507","1,764.5",Killam Apartment REIT
+Kilroy Realty Corporation (NYSE:KRC),108109,Office REIT,Public Company,Operating,USA,0.74,"4,194,300","10,583,397","4,794.0",Kilroy Realty Corp.
+Kimco Realty Corporation (NYSE:KIM),102965,Retail REIT,Public Company,Operating,USA,0.75,"7,622,221","18,459,199","12,177.9",Kimco Realty Corp.
+King's Town Millerful No.1 Real Estate Investment Trust (TWSE:01010T),13445252,Diversified REIT,Public Company,Operating,Taiwan,0.31,"5,286,036","22,551,946","16,614.9",King's Town Millerful No.1 REI
+Kingston Properties Limited (JMSE:KPREIT),4864167,Diversified REIT,Public Company,Operating,Jamaica,0.53,"17,244","50,470","4,635.1",Kingston Properties Ltd.
+KIP Real Estate Investment Trust (KLSE:KIPREIT),4884571,Retail REIT,Public Company,Operating,Malaysia,0.56,"312,913","889,035",518.2,KIP REIT
+Kite Realty Group Trust (NYSE:KRG),4092324,Retail REIT,Public Company,Operating,USA,0.82,"3,221,045","7,639,575","3,948.4",Kite Realty Group Trust
+Kiwi Property Group Limited (NZSE:KPG),4143560,Retail REIT,Public Company,Operating,New Zealand,0.50,"1,140,907","3,594,489","1,343.4",Kiwi Property Group Ltd
+Kizilbük Gayrimenkul Yatirim Ortakligi A.S. (IBSE:KZBGY),29225839,Hotel REIT,Public Company,Operating,Türkiye,NA,NA,NA,"5,859.0",Kizilbük Gayrimenkul Yatirim O
+KLCC Property Holdings Berhad (KLSE:KLCC),4384522,Diversified REIT,Public Company,Operating,Malaysia,0.16,"2,375,912","17,937,104","11,951.3",KLCC Property Holdings Berhad
+Klépierre (ENXTPA:LI),4143722,Retail REIT,Public Company,Operating,France,0.84,"8,928,900","21,782,900","5,211.3",Klépierre
+Koramco Energy Plus Reit (KOSE:A357120),19851184,Specialty REIT,Public Company,Operating,South Korea,NA,NA,NA,386.9,Koramco Energy Plus Reit
+Koramco The One Reit (KOSE:A417310),105658542,Office REIT,Public Company,Operating,South Korea,NA,NA,NA,165.6,Koramco The One Reit
+Koray Gayrimenkul Yatirim Ortakligi A.S. (IBSE:KGYO),4861814,Diversified REIT,Public Company,Operating,Türkiye,0.02,"2,490","122,991",772.0,Koray Gayrimenkul Yatirim Orta
+"Korea Asset In Trust Co., Ltd. (KOSE:A123890)",4864161,Diversified REIT,Public Company,Operating,South Korea,0.36,"306,170","1,264,658",357.9,Korea Asset In Trust
+KPN Property Fund (SET:KPNPF),4864404,Office REIT,Public Company,Operating,Thailand,NA,0,"1,800,133",900.0,KPN Property Fund
+"Ktesios Real Estate Socimi, S.A. (ENXTLS:MLKTS)",27669778,Residential REIT,Public Company,Operating,Spain,NA,NA,NA,12.3,Ktesios Re Socimi S.A.
+"K-TOP Reits Co.,Ltd. (KOSE:A145270)",4864351,Diversified REIT,Public Company,Operating,South Korea,1.38,"120,700","248,885",41.8,K-TOP Reits Co.
+"Lafinca Global Assets SOCIMI, S.A. (BME:YLFG)",16277488,Office REIT,Public Company,Operating,Spain,2.95,"383,264","620,300",178.3,Lafinca Glbl Assets SOCIMI S.A
+Lamar Advertising Company (NASDAQGS:LAMR),4417220,Specialty REIT,Public Company,Operating,USA,3.47,"4,225,845","6,047,494","8,997.0",Lamar Advertising Co.
+Land and Houses Freehold and Leasehold Property Fund (SET:LHPF),4864358,Residential REIT,Public Company,Operating,Thailand,0.03,"115,616","3,739,198","1,963.5",Land & Houses Freehold & Lease
+Land Securities Group Plc (LSE:LAND),4143637,Diversified REIT,Public Company,Operating,United Kingdom,0.57,"4,554,000","12,895,000","3,891.4",Land Securities Group Plc
+Lanesborough Real Estate Investment Trust (TSXV:LRT.UN),4167218,Residential REIT,Public Company,Operating,Canada,NM,"284,316","128,858",3.4,Lanesborough REIT
+"Lar España Real Estate SOCIMI, S.A. (BME:LRE)",4548002,Diversified REIT,Public Company,Operating,Spain,1.04,"893,455","1,797,682",323.9,Lar España Real Estate SOCIMI
+LaSalle LOGIPORT REIT (TSE:3466),4750320,Industrial REIT,Public Company,Operating,Japan,0.75,"160,620","384,156",266.7,LaSalle LOGIPORT REIT
+Lateres Fundo de Investimento Imobiliário (BOVESPA:LATR11B),4864403,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,2.0,Lateres Fundo de Investimento
+Lendlease Global Commercial REIT (SGX:JYEU),19231662,Retail REIT,Public Company,Operating,Singapore,0.67,"1,452,005","3,701,964","1,502.9",Lendlease Glbl Comm REIT
+LH Hotel Leasehold Real Estate Investment Trust (SET:LHHOTEL),4864511,Hotel REIT,Public Company,Operating,Thailand,1.01,"5,787,877","11,672,406","5,917.1",LH Hotel Leasehold REIT
+LH Shopping Centers Leasehold Real Estate Investment Trust (SET:LHSC),4864481,Retail REIT,Public Company,Operating,Thailand,0.15,"833,787","6,904,933","5,222.3",LH Shopping Centers Leasehold
+Life Science REIT plc (AIM:LABS),29616751,Healthcare REIT,Public Company,Operating,United Kingdom,NA,0,"361,400",259.0,Life Science REIT plc
+"Life Storage, Inc. (NYSE:LSI)",103540,Self-Storage REIT,Public Company,Operating,USA,0.83,"2,804,068","6,556,597","8,614.0",Life Storage Inc.
+"Lightstone Value Plus REIT III, Inc. (OTCEM:LVVR)",4535407,Hotel REIT,Public Company,Operating,USA,0.78,"62,560","145,897",45.4,Lightstone Value Plus REIT III
+"Lightstone Value Plus REIT V, Inc. (PSGM:LVVP)",4165566,Diversified REIT,Public Company,Operating,USA,1.90,"277,598","431,499",166.0,Lightstone Value Plus REIT V
+Link Real Estate Investment Trust (SEHK:823),4143456,Retail REIT,Public Company,Operating,Hong Kong,0.33,"53,607,000","225,716,000","100,738.4",Link REIT
+Lippo Malls Indonesia Retail Trust (SGX:D5IU),4221916,Retail REIT,Public Company,Operating,Singapore,0.86,"846,156","2,028,837",230.9,Lippo Malls Indonesia Retail
+LondonMetric Property Plc (LSE:LMP),4226240,Diversified REIT,Public Company,Operating,United Kingdom,0.40,"1,026,000","3,655,200","1,663.0",LondonMetric Property Plc
+"LOTTE REIT Co., Ltd. (KOSE:A330590)",14832257,Retail REIT,Public Company,Operating,South Korea,NA,NA,NA,900.2,LOTTE REIT
+Lotus's Retail Growth Freehold and Leasehold Property Fund (SET:LPF),4864352,Retail REIT,Public Company,Operating,Thailand,0.11,"3,229,410","33,294,290","31,085.9",Lotus's Retail Growth Freehold
+"LTC Properties, Inc. (NYSE:LTC)",102970,Healthcare REIT,Public Company,Operating,USA,0.97,"722,719","1,504,825","1,541.6",LTC Properties Inc.
+Luxury Real Estate Investment Fund (SET:LUXF),4864148,Hotel REIT,Public Company,Operating,Thailand,NA,0,"2,018,349","1,503.2",Luxury RE Invt Fund
+LXI REIT plc (LSE:LXI),4901958,Diversified REIT,Public Company,Operating,United Kingdom,0.19,"252,800","1,592,900","1,988.8",LXI REIT plc
+LXP Industrial Trust (NYSE:LXP),103128,Industrial REIT,Public Company,Operating,USA,0.66,"1,526,158","4,005,558","2,572.2",LXP Industrial Trust
+Macau Property Opportunities Fund Limited (LSE:MPO),4218601,Diversified REIT,Public Company,Operating,United Kingdom,1.68,"130,155","220,035",31.3,Macau Prop. Opportunities Fund
+Mais Shopping Largo 13 Fundo de Investimento Imobiliario - FII,5731595,Retail REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Mais Shopping Largo 13 Fundo d
+Major Cineplex Lifestyle Leasehold Property Fund. (SET:MJLF),4864076,Retail REIT,Public Company,Operating,Thailand,0.01,"55,622","4,253,826","2,227.5",Major Cineplex Lifestyle Lease
+Manulife US Real Estate Investment Trust (SGX:BTOU),4691527,Office REIT,Public Company,Operating,Singapore,0.82,"972,118","2,275,628",586.3,Manulife US REIT
+Mapletree Industrial Trust (SGX:ME8U),4273584,Industrial REIT,Public Company,Operating,Singapore,0.56,"2,939,725","8,479,971","5,759.7",Mapletree Industrial Trust
+Mapletree Logistics Trust (SGX:M44U),4143509,Industrial REIT,Public Company,Operating,Singapore,0.66,"5,059,427","13,689,840","6,868.1",Mapletree Logistics Trust
+Mapletree Pan Asia Commercial Trust (SGX:N2IU),4286492,Retail REIT,Public Company,Operating,Singapore,0.52,"3,004,334","8,984,523","8,111.8",Mapletree Pan Asia Comm Trust
+"Marimo Regional Revitalization REIT, Inc. (TSE:3470)",4863383,Diversified REIT,Public Company,Operating,Japan,1.07,"21,108","43,096",25.5,Marimo Regional Revitalization
+Marti Gayrimenkul Yatirim Ortakligi A.S. (IBSE:MRGYO),4864283,Hotel REIT,Public Company,Operating,Türkiye,0.28,"402,238","1,927,711",960.3,Marti Gayrimenkul Yatirim Orta
+Máxima Renda Corporativa Fundo de Investimento Imobiliário - FII (BOVESPA:CARE11),4864395,Diversified REIT,Public Company,Operating,Brazil,NA,0,"46,550",123.1,Máxima Renda Corporativa Fundo
+"Maxus Realty Trust, Inc. (OTCPK:MRTI)",102987,Residential REIT,Public Company,Operating,USA,9.01,"149,924","169,677",267.7,Maxus Realty Trust
+"Medalist Diversified REIT, Inc. (NASDAQCM:MDRR)",8060895,Diversified REIT,Public Company,Operating,USA,2.89,"66,361","92,547",13.9,Medalist Diversified REIT
+"Medical Properties Trust, Inc. (NYSE:MPW)",4095909,Healthcare REIT,Public Company,Operating,USA,1.35,"11,369,924","20,519,801","6,120.1",Medical Properties Trust Inc.
+Megureit Israel Ltd (TASE:MGRT),4979223,Residential REIT,Public Company,Operating,Israel,1.71,"1,767,159","2,856,056",861.5,Megureit Israel Ltd
+Melcor Real Estate Investment Trust (TSX:MR.UN),4388005,Diversified REIT,Public Company,Operating,Canada,3.32,"551,117","735,668",73.6,Melcor REIT
+Menivim - The New Reit Ltd (TASE:MNRT),7180848,Diversified REIT,Public Company,Operating,Israel,0.80,"1,056,659","2,389,556","1,256.5",Menivim - The New Reit Ltd
+"Mercal Inmuebles Socimi, S.A. (BME:YMEI)",4864455,Retail REIT,Public Company,Operating,Spain,0.58,"11,170","32,903",41.0,Mercal Inmuebles Socimi S.A.
+Mercialys (ENXTPA:MERY),4143726,Retail REIT,Public Company,Operating,France,1.45,"1,372,544","2,434,366",773.4,Mercialys
+"Meridia Real Estate III, SOCIMI, S.A. (BME:YMRE)",7921552,Office REIT,Public Company,Operating,Spain,0.70,"89,413","368,723",96.2,Meridia RE III SOCIMI S.A.
+Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário (BOVESPA:MFII11),4864420,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,409.1,Mérito Desenvolvimento Imobili
+"MERLIN Properties SOCIMI, S.A. (BME:MRL)",4546598,Diversified REIT,Public Company,Operating,Spain,0.88,"6,184,189","14,272,838","3,694.3",MERLIN Properties
+"MÉXICO INFRASTRUCTURE PARTNERS F1, S.A.P.I. DE C.V. (BMV:FEXI 21)",105616304,Specialty REIT,Public Company,Operating,Mexico,NA,NA,NA,NA,MÉXICO INFRASTRUCTURE Ptnrs F1
+MFC Industrial Real Estate Investment Trust (SET:MIT),4864512,Specialty REIT,Public Company,Operating,Thailand,0.47,"411,539","1,382,200",261.3,MFC Industrial REIT
+MFC Multi-National Residence Fund (SET:MNRF),4864155,Residential REIT,Public Company,Operating,Thailand,NA,0,"866,684",303.2,MFC Multi-Natl Residence Fund
+MFC Patong Heritage Property Fund (SET:M.PAT),5735938,Hotel REIT,Public Company,Operating,Thailand,NA,0,"557,875",382.2,MFC Patong Hrtg Ppty Fund
+MFC-Strategic Storage Fund (SET:M.STOR),5730516,Industrial REIT,Public Company,Operating,Thailand,NA,0,"640,383",355.7,MFC-Strategic Storage Fund
+"Mid-America Apartment Communities, Inc. (NYSE:MAA)",103123,Residential REIT,Public Company,Operating,USA,0.74,"4,546,941","11,285,182","17,261.6",MAA
+Middle East Financial Investment Company (SASE:4346),4669199,Diversified REIT,Public Company,Operating,Saudi Arabia,0.11,"36,817","411,289",218.4,Middle East Finl Invt Co.
+"Millenium Hospitality Real Estate, SOCIMI, S.A. (BME:YMHRE)",13090643,Hotel REIT,Public Company,Operating,Spain,0.32,"117,209","528,529",416.9,Millenium Hospitality Re SOCIM
+Mindspace Business Parks REIT (BSE:543217),19727810,Office REIT,Public Company,Operating,India,0.27,"44,607,000","223,535,000","212,336.1",Mindspace Bus Parks REIT
+Minto Apartment Real Estate Investment Trust (TSX:MI.UN),10687522,Residential REIT,Public Company,Operating,Canada,1.38,"1,390,358","2,440,714",534.1,Minto Apartment REIT
+"Mirae Asset Global REIT Co., Ltd. (KOSE:A396690)",29466343,Diversified REIT,Public Company,Operating,South Korea,1.21,"168,058","311,867",103.7,Mirae Asset Global REIT
+"Miraeasset Maps REIT 1 Co., Ltd. (KOSE:A357250)",20279495,Retail REIT,Public Company,Operating,South Korea,NA,NA,NA,63.4,Miraeasset Maps REIT 1
+MIRAI Corporation (TSE:3476),6661133,Office REIT,Public Company,Operating,Japan,1.04,"84,000","171,983",82.5,MIRAI Corp.
+Mirvac Group (ASX:MGR),4143466,Diversified REIT,Public Company,Operating,Australia,0.38,"4,291,000","17,205,000","7,635.2",Mirvac Group
+Mistral Gayrimenkul Yatirim Ortakligi A.S. (IBSE:MSGYO),6676249,Diversified REIT,Public Company,Operating,Türkiye,NA,0,"490,003",715.4,Mistral Gayrimenkul Yatirim Or
+"Mistral Iberia Real Estate SOCIMI, S.A. (BME:YMIB)",10116347,Diversified REIT,Public Company,Operating,Spain,0.35,"6,944","27,257",22.5,Mistral Iberia RE SOCIMI S.A.
+Mitsubishi Estate Logistics REIT Investment Corporation (TSE:3481),7488814,Industrial REIT,Public Company,Operating,Japan,0.59,"82,074","228,174",181.8,Mitsubishi Estate Logistics RE
+Mitsui Fudosan Logistics Park Inc. (TSE:3471),4864525,Industrial REIT,Public Company,Operating,Japan,0.60,"123,900","339,017",266.7,Mitsui Fudosan Logistics Park
+MODE TOUR Real Estate Investment Trust Incorporated (KOSE:A204210),4864456,Hotel REIT,Public Company,Operating,South Korea,NA,NA,NA,32.1,MODE TOUR REIT
+Modiv Inc. (NYSE:MDV),4614373,Diversified REIT,Public Company,Operating,USA,0.82,"181,945","428,495",74.2,Modiv Inc.
+Montea Comm. VA (ENXTBR:MONT),4260787,Industrial REIT,Public Company,Operating,Belgium,0.64,"649,449","1,752,917","1,077.3",Montea Comm. VA
+Morguard North American Residential Real Estate Investment Trust (TSX:MRG.UN),4315478,Residential REIT,Public Company,Operating,Canada,1.08,"1,688,960","3,473,287",582.5,Morguard N Amer Resdl REIT
+Morguard Real Estate Investment Trust (TSX:MRT.UN),4105065,Diversified REIT,Public Company,Operating,Canada,1.13,"1,297,809","2,493,942",333.8,Morguard REIT
+Mori Hills REIT Investment Corporation (TSE:3234),4214010,Office REIT,Public Company,Operating,Japan,0.95,"192,422","411,259",288.0,Mori Hills REIT Invt Corp.
+"MORI TRUST Hotel Reit, Inc. (TSE:3478)",6596432,Hotel REIT,Public Company,Operating,Japan,1.07,"53,975","109,535",64.9,MORI Trust Hotel
+"MORI TRUST Sogo Reit, Inc. (TSE:8961)",4143345,Office REIT,Public Company,Operating,Japan,0.96,"154,000","325,072",177.5,MORI TRUST Sogo Reit Inc.
+MSL 13 - Fundo De Investimento Imobiliario - FII,7155269,Retail REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,MSL 13 - Fundo De Investimento
+Mulkia Gulf Real Estate REIT (SASE:4336),10252875,Diversified REIT,Public Company,Operating,Saudi Arabia,0.54,"342,009","1,009,700",596.6,Mulkia Gulf Real Estate REIT
+Musharaka REIT Fund (SASE:4335),7862936,Diversified REIT,Public Company,Operating,Saudi Arabia,0.64,"547,485","1,441,771",809.6,Musharaka REIT Fund
+"National Health Investors, Inc. (NYSE:NHI)",102983,Healthcare REIT,Public Company,Operating,USA,0.82,"1,242,883","2,838,876","2,448.4",National Health Investors Inc.
+"National Retail Properties, Inc. (NYSE:NNN)",103064,Retail REIT,Public Company,Operating,USA,0.96,"3,746,466","7,751,054","7,024.3",National Retail Properties
+National Storage Affiliates Trust (NYSE:NSA),4579197,Self-Storage REIT,Public Company,Operating,USA,1.19,"2,964,912","5,562,594","3,656.5",National Storage Affiliates Tr
+National Storage REIT (ASX:NSR),4420120,Self-Storage REIT,Public Company,Operating,Australia,0.38,"1,080,607","4,053,981","2,866.3",National Storage REIT
+NETSTREIT Corp. (NYSE:NTST),19574131,Retail REIT,Public Company,Operating,USA,0.31,"243,772","1,068,441",919.6,NETSTREIT Corp
+"New York City REIT, Inc. (NYSE:NYC)",4433631,Diversified REIT,Public Company,Operating,USA,1.29,"452,887","823,051",48.2,New York City REIT
+"NewLake Capital Partners, Inc. (OTCQX:NLCP)",15012328,Industrial REIT,Public Company,Operating,USA,0.01,"3,759","460,883",334.1,NewLake Capital Partners Inc.
+Newmark Property REIT (ASX:NPR),101118937,Retail REIT,Public Company,Operating,Australia,0.36,"129,780","498,075",249.9,Newmark Property REIT
+Newpark REIT Limited (JSE:NRL),4863369,Diversified REIT,Public Company,Operating,South Africa,0.53,"459,460","1,352,792",379.0,Newpark REIT
+NewRiver REIT plc (LSE:NRR),4279144,Retail REIT,Public Company,Operating,United Kingdom,0.90,"371,500","819,100",217.7,NewRiver REIT
+NexPoint Diversified Real Estate Trust (NYSE:NXDT),4343307,Diversified REIT,Public Company,Operating,USA,NA,NA,NA,558.2,NexPoint Dvsfd RE Trust
+NexPoint Hospitality Trust (TSXV:NHT.U),13485338,Hotel REIT,Public Company,Operating,Canada,NM,"293,840","317,261",73.4,NexPoint Hospitality Trust
+"NexPoint Residential Trust, Inc. (NYSE:NXRT)",4561930,Residential REIT,Public Company,Operating,USA,3.31,"1,554,500","2,063,467","1,040.5",NexPoint Residential Trust Inc
+Nextensa NV/SA (ENXTBR:NEXTA),4143666,Diversified REIT,Public Company,Operating,Belgium,1.16,"920,593","1,895,961",500.8,Nextensa NV/SA
+Nexus Industrial REIT (TSX:NXR.UN),4573165,Industrial REIT,Public Company,Operating,Canada,1.35,"927,696","1,658,157",483.0,Nexus Industrial REIT
+"NH Prime REIT Co., Ltd. (KOSE:A338100)",19458039,Office REIT,Public Company,Operating,South Korea,NA,NA,NA,75.1,NH Prime REIT
+Nippon Accommodations Fund Inc. (TSE:3226),4211143,Residential REIT,Public Company,Operating,Japan,1.11,"167,500","326,050",305.6,Nippon Accommodations Fund Inc
+Nippon Building Fund Incorporation (TSE:8951),4143338,Office REIT,Public Company,Operating,Japan,0.81,"574,500","1,367,719","1,039.3",Nippon Building Fund Inc.
+"Nippon Prologis REIT, Inc. (TSE:3283)",4376873,Industrial REIT,Public Company,Operating,Japan,0.65,"303,800","802,253",773.6,Nippon Prologis REIT Inc.
+NIPPON REIT Investment Corporation (TSE:3296),4581586,Diversified REIT,Public Company,Operating,Japan,1.02,"132,620","274,896",154.8,NIPPON REIT Investment Corp.
+"Nomura Real Estate Master Fund, Inc. (TSE:3462)",4633493,Diversified REIT,Public Company,Operating,Japan,0.84,"517,756","1,187,421",750.7,Nomura Real Estate Master Fund
+"NorthStar Healthcare Income, Inc. (OTCPK:NHHS)",4275801,Healthcare REIT,Public Company,Operating,USA,2.08,"930,470","1,412,873",171.3,NorthStar Healthcare Income
+NorthWest Healthcare Properties Real Estate Investment Trust (TSX:NWH.UN),4346640,Healthcare REIT,Public Company,Operating,Canada,0.84,"2,967,785","7,064,401","2,474.2",NorthWest Healthcare Ppts REIT
+Nova Net Lease REIT (CNSX:NNL.U),101242471,Diversified REIT,Public Company,Operating,Canada,47.62,"10,000","11,770",1.5,Nova Net Lease REIT
+NSI N.V. (ENXTAM:NSI),4143778,Office REIT,Public Company,Operating,Netherlands,0.41,"391,407","1,368,225",482.3,NSI
+NTT UD REIT Investment Corporation (TSE:8956),4143348,Diversified REIT,Public Company,Operating,Japan,0.92,"127,750","280,999",197.9,NTT UD REIT Investment Corp.
+Nurol Gayrimenkul Yatirim Ortakligi A.S. (IBSE:NUGYO),4863852,Diversified REIT,Public Company,Operating,Türkiye,2.84,"1,144,277","1,644,541","2,025.5",Nurol Gayrimenkul Yatirim Orta
+Oasis Crescent Property Fund (JSE:OAS),4685986,Diversified REIT,Public Company,Operating,South Africa,0.00,"1,583","1,756,038","1,292.0",Oasis Crescent Property Fund
+O-Bank Number One Real Estate Investment Trust (TWSE:01009T),9898658,Diversified REIT,Public Company,Operating,Taiwan,NA,0,"3,235,400","2,580.0",O-Bank Number One
+Octodec Investments Limited (JSE:OCT),4685667,Diversified REIT,Public Company,Operating,South Africa,0.78,"4,693,238","11,454,606","2,334.6",Octodec Investments Ltd.
+Office Properties Income Trust (NASDAQGS:OPI),4226533,Office REIT,Public Company,Operating,USA,1.72,"2,577,950","4,241,683",688.5,Office Properties Incm Tr
+"Olimpo Real Estate SOCIMI, S.A. (BME:YORE)",6676232,Retail REIT,Public Company,Operating,Spain,0.95,"168,455","351,545",206.4,Olimpo Real Estate SOCIMI S.A.
+"Omega Healthcare Investors, Inc. (NYSE:OHI)",103065,Healthcare REIT,Public Company,Operating,USA,1.28,"5,253,536","9,638,478","7,175.5",Omega Healthcare Investors
+"One Liberty Properties, Inc. (NYSE:OLP)",102988,Diversified REIT,Public Company,Operating,USA,1.36,"415,040","752,953",480.2,One Liberty Properties Inc.
+"One REIT, Inc. (TSE:3290)",4545480,Office REIT,Public Company,Operating,Japan,1.00,"61,574","130,582",62.2,"One REIT, Inc."
+Ooedo Onsen Reit Investment Corporation (TSE:3472),4849314,Hotel REIT,Public Company,Operating,Japan,0.57,"11,874","34,761",15.6,Ooedo Onsen Reit Investment Co
+"Optimum III Value-Added Residential Socimi, S.A. (BME:YOVA)",7703944,Residential REIT,Public Company,Operating,Spain,0.97,"41,365","84,951",56.5,Optimum III Value-Added Reside
+"Optimum RE Spain, SOCIMI, S.A. (BME:YORS)",5738449,Residential REIT,Public Company,Operating,Spain,1.25,"43,746","79,637",64.6,"Optimum RE Spain, SOCIMI, S.A."
+"Orinoquia Real Estate SOCIMI, S.A. (ENXTPA:MLORQ)",27388980,Residential REIT,Public Company,Operating,Spain,NA,NA,NA,17.1,Orinoquia Re SOCIMI S.A.
+Orion Office REIT Inc. (NYSE:ONL),100401249,Office REIT,Public Company,Operating,USA,0.58,"627,104","1,759,478",512.5,Orion Office REIT
+ORIX JREIT Inc. (TSE:8954),4143346,Office REIT,Public Company,Operating,Japan,0.85,"297,637","682,870",508.1,ORIX JREIT Inc.
+Oryx Properties Limited (NMSE:ORY),4863813,Retail REIT,Public Company,Operating,Namibia,0.58,"1,123,354","3,276,198",896.5,Oryx Properties Ltd.
+OUE Commercial Real Estate Investment Trust (SGX:TS0U),4428909,Diversified REIT,Public Company,Operating,Singapore,0.56,"2,010,805","5,832,521","1,665.1",OUE Commercial REIT
+OUTFRONT Media Inc. (NYSE:OUT),4157548,Specialty REIT,Public Company,Operating,USA,2.96,"4,116,500","5,924,700","2,767.5",OUTFRONT Media Inc.
+Ozak Gayrimenkul Yatirim Ortakligi A.S. (IBSE:OZKGY),4864345,Diversified REIT,Public Company,Operating,Türkiye,0.09,"598,051","9,063,026","7,236.3",Ozak Gayrimenkul Yatirim Ortak
+Ozderici Gayrimenkul Yatirim Ortakligi A.S. (IBSE:OZGYO),4863836,Diversified REIT,Public Company,Operating,Türkiye,0.00,"1,200","1,049,012",848.6,Ozderici Gayrimenkul Yatirim O
+Palmetto Real Estate Trust (OTCEM:PTTT.S),107167,Retail REIT,Public Company,Operating,USA,1.89,"9,194","14,569",14.1,Palmetto Real Estate Trust
+Panora Gayrimenkul Yatirim Ortakligi A.S. (IBSE:PAGYO),4863211,Retail REIT,Public Company,Operating,Türkiye,NA,0,"1,171,742","1,566.9",Panora Gayrimenkul Yatirim Ort
+Paragon Real Estate Equity and Investment Trust (OTCPK:PRLE),107420,Diversified REIT,Public Company,Operating,USA,0.39,"15,118","57,583",0.9,Paragon Real Estate Equity
+"Paramount Group, Inc. (NYSE:PGRE)",4323331,Office REIT,Public Company,Operating,USA,0.86,"3,835,620","8,494,562","1,491.9",Paramount Group Inc.
+Park Hotels & Resorts Inc. (NYSE:PK),4813312,Hotel REIT,Public Company,Operating,USA,1.11,"4,899,000","9,743,000","2,833.0",Park Hotels & Resorts Inc
+Park REIT (BUL:PARK),4862648,Residential REIT,Public Company,Operating,Bulgaria,3.36,"20,294","26,429",7.8,Park REIT
+Parkway Life Real Estate Investment Trust (SGX:C2PU),4221913,Healthcare REIT,Public Company,Operating,Singapore,0.58,"828,007","2,345,136","2,232.5",Parkway Life REIT
+Pasifik Gayrimenkul Yatirim Ortakligi A.S. (IBSE:PSGYO),101317008,Diversified REIT,Public Company,Operating,Türkiye,0.35,"443,870","3,562,512","7,020.0",Pasifik Gayrimenkul Yatirim Or
+Patrimoine et Commerce SA (ENXTPA:PAT),4861797,Diversified REIT,Public Company,Operating,France,1.01,"420,116","882,131",224.8,Patrimoine et Commerce SA
+Pavilion Real Estate Investment Trust (KLSE:PAVREIT),4307515,Retail REIT,Public Company,Operating,Malaysia,0.56,"2,173,298","6,238,695","3,789.1",Pavilion REIT
+Pebblebrook Hotel Trust (NYSE:PEB),4243454,Hotel REIT,Public Company,Operating,USA,0.89,"2,803,314","6,261,190","2,066.4",Pebblebrook Hotel Trust
+Pedra Dourada Fundo De Investimento Imobiliário - FII (BOVESPA:OULG11),7643624,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,118.6,Pedra Dourada Fundo De Investi
+Peker Gayrimenkul Yatirim Ortakligi Anonim Sirketi (IBSE:PEKGY),10088161,Diversified REIT,Public Company,Operating,Türkiye,0.12,"125,958","1,224,152","1,821.9",Peker Gayrimenkul Yatirim Orta
+Pennsylvania Real Estate Investment Trust (NYSE:PEI),102991,Retail REIT,Public Company,Operating,USA,NM,"1,899,688","2,051,736",15.6,Pennsylvania REIT
+PERA Gayrimenkul Yatirim Ortakligi AS (IBSE:PEGYO),4864012,Diversified REIT,Public Company,Operating,Türkiye,0.00,461,"146,616",377.8,PERA Gayrimenkul Yatirim Ortak
+"Perseida Renta Gestion Socimi, S.A. (ENXTPA:MLPER)",100415762,Retail REIT,Public Company,Operating,Spain,NA,NA,NA,3.7,Perseida Renta Gestion Socimi
+Personale I Fundo Invest Imobiliario (BOVESPA:PRSN11B),5733455,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,8.0,Personale I Fundo Invest Imobi
+"Phillips Edison & Company, Inc. (NASDAQGS:PECO)",4249007,Retail REIT,Public Company,Operating,USA,0.77,"1,897,033","4,668,768","3,370.3",Phillips Edison & Company Inc.
+Physicians Realty Trust (NYSE:DOC),4391353,Healthcare REIT,Public Company,Operating,USA,0.68,"2,016,875","5,182,709","3,227.9",Physicians Realty Trust
+Picton Property Income Limited (LSE:PCTN),4143589,Diversified REIT,Public Company,Operating,United Kingdom,0.33,"219,539","895,807",426.7,Picton Property Income Ltd.
+"Piedmont Office Realty Trust, Inc. (NYSE:PDM)",113477,Office REIT,Public Company,Operating,USA,1.05,"1,877,850","3,930,665","1,221.6",Piedmont Office Realty Trust
+Pine Trail Real Estate Investment Trust (TSXV:PINE.UN),10135471,Office REIT,Public Company,Operating,Canada,NA,0,"3,822",2.1,Pine Trail REIT
+Pineapple Corporation Plc (BDL:PINEA),7132002,Diversified REIT,Public Company,Operating,United Kingdom,0.49,"22,263","68,634",43.3,Pineapple Corp. Plc
+Pinthong Industrial Park Property Fund (SET:PPF),4864439,Industrial REIT,Public Company,Operating,Thailand,NA,0,"2,497,217","2,514.5",Pinthong Indl Park Ppty Fund
+Plaza Retail REIT (TSX:PLZ.UN),4305303,Retail REIT,Public Company,Operating,Canada,1.37,"683,725","1,214,834",412.3,Plaza Retail REIT
+"Plymouth Industrial REIT, Inc. (NYSE:PLYM)",4282399,Industrial REIT,Public Company,Operating,USA,1.94,"697,972","1,270,805",688.6,Plymouth Industrial REIT Inc.
+Polo Fundo de Investimento Imobiliário - Recebíveis Imobiliários II - FII (BOVESPA:PORD11),4864397,Diversified REIT,Public Company,Operating,Brazil,NA,0,"202,149",356.8,Polo Fundo de Investimento Imo
+"Postal Realty Trust, Inc. (NYSE:PSTL)",14199292,Office REIT,Public Company,Operating,USA,0.36,"96,420","377,717",283.7,Postal Realty Trust
+PotlatchDeltic Corporation (NASDAQGS:PCH),4062379,Specialty REIT,Public Company,Operating,USA,0.51,"777,424","2,535,215","3,577.4",PotlatchDeltic Corp.
+Power REIT (NYSEAM:PW),103006,Specialty REIT,Public Company,Operating,USA,0.47,"23,197","85,318",31.0,Power REIT
+Powergrid Infrastructure Investment Trust (BSE:543290),27647256,Industrial REIT,Public Company,Operating,India,0.06,"5,749,060","118,541,670","127,254.3",Powergrid Infrastructure Invt
+Precinct Properties New Zealand Limited (NZSE:PCT),4143537,Office REIT,Public Company,Operating,New Zealand,0.55,"1,328,500","3,839,200","1,839.6",Precinct Pty. New Zealand Ltd.
+Premier Fund REIT (BUL:PREM),4862645,Diversified REIT,Public Company,Operating,Bulgaria,2.69,"51,861","71,747",22.5,Premier Fund REIT
+Presidential Realty Corporation (OTCPK:PDNL.B),102990,Diversified REIT,Public Company,Operating,USA,NM,"1,474","1,050",0.2,Presidential Realty Corp.
+"Presidio Property Trust, Inc. (NASDAQCM:SQFT)",4206498,Diversified REIT,Public Company,Operating,USA,1.36,"88,935","161,197",13.6,Presidio Property Trust
+Primaris Real Estate Investment Trust (TSX:PMZ.UN),101459644,Retail REIT,Public Company,Operating,Canada,0.45,"986,212","3,247,842","1,335.9",Primaris REIT
+Primary Health Properties Plc (LSE:PHP),4143611,Healthcare REIT,Public Company,Operating,United Kingdom,0.85,"1,279,700","2,853,100","1,387.3",Primary Health Ppty Plc
+Prime Office Leasehold Property Fund (SET:POPF),4864316,Office REIT,Public Company,Operating,Thailand,0.09,"466,032","6,100,774","5,442.5",Prime Offc Leasehold Ppty Fund
+Prime Property BG REIT (BUL:PPBG),4862577,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,"25,683",17.5,Prime Property BG REIT
+Prime US REIT (SGX:OXMU),15217916,Office REIT,Public Company,Operating,Singapore,0.63,"629,098","1,672,932",548.8,Prime US REIT
+Pro Real Estate Investment Trust (TSX:PRV.UN),4381232,Diversified REIT,Public Company,Operating,Canada,1.24,"532,372","989,963",350.1,Pro REIT
+"Prologis, Inc. (NYSE:PLD)",103146,Industrial REIT,Public Company,Operating,USA,0.48,"18,163,499","58,486,220","76,318.0",Prologis Inc.
+Property For Industry Limited (NZSE:PFI),4863420,Industrial REIT,Public Company,Operating,New Zealand,0.39,"604,125","2,217,006","1,183.5",Property For Industry Ltd.
+Prospect Logistics and Industrial Freehold and Leasehold Real Estate Investment (SET:PROSPECT),19897257,Industrial REIT,Public Company,Operating,Thailand,0.43,"1,027,813","3,623,914","2,303.0",Prospect Logistics & Indl Free
+Prosperity Real Estate Investment Trust (SEHK:808),4149720,Office REIT,Public Company,Operating,Hong Kong,0.32,"2,323,219","10,185,623","2,628.0",Prosperity REIT
+Public Storage (NYSE:PSA),103016,Self-Storage REIT,Public Company,Operating,USA,0.80,"7,475,279","17,380,908","51,377.6",Public Storage
+Puldin Properties Invest REIT (BUL:PLG),5798516,Diversified REIT,Public Company,Operating,Bulgaria,NA,NA,NA,44.4,Puldin Properties Invest REIT
+Qrf Comm. VA (ENXTBR:QRF),4422539,Retail REIT,Public Company,Operating,Belgium,1.04,"120,662","239,961",69.8,Qrf Comm. VA
+Quality Houses Hotel and Residence Freehold and Leasehold Property Fund (SET:QHHR),4864370,Hotel REIT,Public Company,Operating,Thailand,0.01,"21,309","4,651,288","1,864.8",Quality Houses Hotel & Residen
+Quality Houses Leasehold Property Fund (SET:QHPF),4864046,Office REIT,Public Company,Operating,Thailand,0.07,"634,011","9,932,727","7,452.0",Quality Houses Leasehold Ppty
+"Quonia Socimi, S.A. (BME:YQUO)",4864522,Diversified REIT,Public Company,Operating,Spain,0.80,"27,842","63,619",44.7,Quonia Socimi S.A.
+R&R Real Estate Investment Trust (TSXV:RRR.UN),4864438,Hotel REIT,Public Company,Operating,Canada,3.31,"72,295","107,557",2.8,R&R REIT
+Rayonier Inc. (NYSE:RYN),4062541,Specialty REIT,Public Company,Operating,USA,0.81,"1,469,632","3,636,356","4,806.0",Rayonier Inc.
+RB Capital Renda I Fundo de Investimento Imobiliário - FII (BOVESPA:FIIP11B),4864264,Industrial REIT,Public Company,Operating,Brazil,NA,0,"186,540",147.1,RB Cap Renda I Fundo de Invest
+Real Estate Investors Plc (AIM:RLE),4232693,Diversified REIT,Public Company,Operating,United Kingdom,0.85,"89,444","204,297",55.3,Real Estate Investors Plc
+Realty Income Corporation (NYSE:O),103118,Retail REIT,Public Company,Operating,USA,0.63,"15,948,372","43,137,502","35,591.0",Realty Income Corp.
+Rebosis Property Fund Limited (JSE:REB),4685674,Diversified REIT,Public Company,Operating,South Africa,2.99,"9,516,640","13,512,228",172.2,Rebosis Property Fund Ltd.
+Redefine Properties Limited (JSE:RDF),4260026,Diversified REIT,Public Company,Operating,South Africa,0.78,"30,855,816","75,635,209","26,767.5",Redefine Properties Ltd.
+Regal Real Estate Investment Trust (SEHK:1881),4218596,Hotel REIT,Public Company,Operating,Hong Kong,0.82,"10,012,684","22,912,475","3,127.1",Regal REIT
+Regency Centers Corporation (NASDAQGS:REG),103091,Retail REIT,Public Company,Operating,USA,0.64,"3,934,732","10,792,563","9,526.0",Regency Centers Corp.
+Regional REIT Limited (LSE:RGL),4639893,Office REIT,Public Company,Operating,United Kingdom,0.90,"449,865","1,010,688",323.9,Regional REIT Ltd
+Reit 1 Ltd (TASE:RIT1),4862701,Diversified REIT,Public Company,Operating,Israel,1.06,"3,409,106","6,766,356","3,499.2",Reit 1 Ltd
+Reit Azorim - Living Ltd (TASE:AZRT),10772929,Residential REIT,Public Company,Operating,Israel,1.80,"321,888","535,403",773.8,Reit Azorim - Living Ltd
+Renda de Escritorios Fundo de Investimento Imobiliario - Cotas Fundo (BOVESPA:NEWU11),4864361,Office REIT,Public Company,Operating,Brazil,NA,0,"66,607",28.9,Renda de Escritorios Fundo de
+Residential Secure Income plc (LSE:RESI),6575511,Residential REIT,Public Company,Operating,United Kingdom,1.09,"199,546","389,714",164.8,Residential Secure Income plc
+Resilient REIT Limited (JSE:RES),4260027,Retail REIT,Public Company,Operating,South Africa,0.54,"10,005,496","30,809,390","17,258.3",Resilient REIT Ltd.
+Retail Estates N.V. (ENXTBR:RET),4204278,Retail REIT,Public Company,Operating,Belgium,0.94,"865,712","1,812,228",759.2,Retail Estates N.V.
+Retail Opportunity Investments Corp. (NASDAQGS:ROIC),4244279,Retail REIT,Public Company,Operating,USA,0.99,"1,346,639","2,928,844","1,732.4",Retail Opportunity Investments
+Retail Value Inc. (OTCPK:RVIC),10730423,Retail REIT,Public Company,Operating,USA,0.03,"2,126","144,398",10.2,Retail Value Inc.
+"Rexford Industrial Realty, Inc. (NYSE:REXR)",4391243,Industrial REIT,Public Company,Operating,USA,0.28,"1,404,614","6,781,165","9,087.7",Rexford Industrial Realty Inc.
+Reysas Gayrimenkul Yatirim Ortakligi A.S. (IBSE:RYGYO),4864270,Industrial REIT,Public Company,Operating,Türkiye,0.42,"1,653,245","5,670,384","3,415.9",Reysas Gayrimenkul Yatirim Ort
+RioCan Real Estate Investment Trust (TSX:REI.UN),4105107,Retail REIT,Public Company,Operating,Canada,0.84,"6,648,593","15,177,463","5,704.4",RioCan REIT
+Riyad REIT Fund (SASE:4330),8828433,Diversified REIT,Public Company,Operating,Saudi Arabia,0.85,"1,360,847","3,072,591","1,936.7",Riyad REIT Fund
+RLJ Lodging Trust (NYSE:RLJ),4279712,Hotel REIT,Public Company,Operating,USA,1.05,"2,532,469","5,148,976","1,877.0",RLJ Lodging Trust
+Roi Property Fund REIT (BUL:RPF),4862866,Diversified REIT,Public Company,Operating,Bulgaria,1.19,"29,513","61,017",49.3,Roi Property Fund REIT
+RPT Realty (NYSE:RPT),103013,Retail REIT,Public Company,Operating,USA,1.01,"902,437","1,902,079",746.1,RPT Realty
+Rural Funds Group (ASX:RFF),4864441,Specialty REIT,Public Company,Operating,Australia,0.50,"457,823","1,403,829",934.7,Rural Funds Group
+"Ryman Hospitality Properties, Inc. (NYSE:RHP)",4060183,Hotel REIT,Public Company,Operating,USA,NM,"3,050,589","3,580,525","4,624.9",Ryman Hospitality Properties
+S Prime Growth Leasehold Real Estate Investment Trust (SET:SPRIME),11239429,Office REIT,Public Company,Operating,Thailand,0.28,"1,251,282","5,949,102","3,015.6",S Prime Growth Leasehold REIT
+SA Corporate Real Estate Limited (JSE:SAC),4259694,Diversified REIT,Public Company,Operating,South Africa,0.61,"6,171,677","17,126,273","5,449.2",SA Corporate Real Estate Ltd.
+Sabana Industrial Real Estate Investment Trust (SGX:M1GU),4276237,Industrial REIT,Public Company,Operating,Singapore,0.70,"388,302","971,648",422.0,Sabana Industrial REIT
+"Sabra Health Care REIT, Inc. (NASDAQGS:SBRA)",4259507,Healthcare REIT,Public Company,Operating,USA,0.71,"2,394,475","5,966,707","2,972.6",Sabra Health Care REIT
+Safari Investments RSA Limited (JSE:SAR),4439280,Retail REIT,Public Company,Operating,South Africa,0.58,"1,307,831","3,646,553","1,418.0",Safari Investments
+Safehold Inc. (NYSE:SAFE),5429719,Specialty REIT,Public Company,Operating,USA,1.60,"2,703,108","4,515,726","1,607.5",Safehold Inc.
+Safestore Holdings Plc (LSE:SAFE),4204718,Self-Storage REIT,Public Company,Operating,United Kingdom,0.41,"567,000","2,117,300","1,776.0",Safestore Holdings Plc
+"Saint Croix Holding Immobilier, SOCIMI, S.A. (BDL:STCXH)",4864343,Diversified REIT,Public Company,Operating,Spain,0.32,"98,679","417,879",291.6,Saint Croix Hldg Immobilier SO
+Samty Residential Investment Corporation (TSE:3459),4864487,Residential REIT,Public Company,Operating,Japan,1.02,"77,435","155,528",96.9,Samty Resdl Invt Corp
+Samui Airport Property Fund (Leasehold) (SET:SPF),4864028,Specialty REIT,Public Company,Operating,Thailand,NA,0,"11,205,916","16,910.0",Samui Airport Ppty Fund (Lease
+Samui Buri Property Fund (SET:SBPF),5731457,Hotel REIT,Public Company,Operating,Thailand,NA,0,"391,462",177.2,Samui Buri Property Fund
+Sankei Real Estate Inc. (TSE:2972),14000652,Office REIT,Public Company,Operating,Japan,1.00,"50,600","106,523",41.9,Sankei Real Estate
+"Saul Centers, Inc. (NYSE:BFS)",103068,Retail REIT,Public Company,Operating,USA,2.16,"1,143,956","1,746,761",926.1,Saul Centers Inc.
+SBA Communications Corporation (NASDAQGS:SBAC),4829067,Specialty REIT,Public Company,Operating,USA,NM,"14,522,544","9,801,699","26,775.4",SBA Communications Corp
+Scentre Group (ASX:SCG),4547454,Retail REIT,Public Company,Operating,Australia,0.79,"15,230,200","36,682,600","13,634.4",Scentre Group
+Schroder European Real Estate Investment Trust Plc (LSE:SERE),4864508,Diversified REIT,Public Company,Operating,United Kingdom,0.35,"70,429","280,100",108.1,Schroder European REIT Plc
+Schroder Real Estate Investment Trust Limited (LSE:SREI),4143610,Diversified REIT,Public Company,Operating,United Kingdom,0.44,"163,778","544,956",205.9,Schroder RE Inv Tr Ltd
+SDI Logística Rio - Fundo de Investimento Imobiliário - FII (BOVESPA:SDIL11),4864384,Industrial REIT,Public Company,Operating,Brazil,NA,0,"631,654",620.4,SDI Logística Rio - Fundo de I
+SEDCO Capital REIT Fund (SASE:4344),10596724,Diversified REIT,Public Company,Operating,Saudi Arabia,0.60,"619,653","1,729,542","1,292.5",SEDCO Capital REIT Fund
+SEGRO Plc (LSE:SGRO),4143573,Industrial REIT,Public Company,Operating,United Kingdom,0.26,"3,482,000","17,783,000","8,952.6",SEGRO Plc
+"Sekisui House Reit, Inc. (TSE:3309)",4864471,Diversified REIT,Public Company,Operating,Japan,0.88,"263,642","579,931",343.9,Sekisui House Reit Inc.
+"Selectis Health, Inc. (OTCPK:GBCS)",4328521,Healthcare REIT,Public Company,Operating,USA,12.34,"38,268","46,924",1.3,"Selectis Health, Inc."
+Sella Capital Real Estate Ltd. (TASE:SLARL),4864134,Diversified REIT,Public Company,Operating,Israel,1.13,"2,322,988","4,435,744","1,981.1",Sella Capital Real Estate Ltd.
+Sentral REIT (KLSE:SENTRAL.REIT),4864034,Office REIT,Public Company,Operating,Malaysia,0.61,"805,649","2,180,376",948.5,Sentral REIT
+"Serrano 61 Desarrollo SOCIMI, S.A. (BME:YSRR)",9885432,Diversified REIT,Public Company,Operating,Spain,0.74,"37,256","88,633",106.7,Serrano 61 Desarrollo SOCIMI S
+Servet Gayrimenkul Yatirim Ortakligi AS (IBSE:SRVGY),4319170,Diversified REIT,Public Company,Operating,Türkiye,0.29,"874,258","5,242,517","6,063.2",Servet Gayrimenkul Yatirim O
+Service Properties Trust (NASDAQGS:SVC),103544,Hotel REIT,Public Company,Operating,USA,4.71,"7,320,368","9,153,315","1,238.5",Service Properties Trust
+SF Real Estate Investment Trust (SEHK:2191),28825695,Industrial REIT,Public Company,Operating,Hong Kong,0.52,"2,141,491","7,009,560","2,136.0",SF REIT
+Shaftesbury PLC (LSE:SHB),4143565,Retail REIT,Public Company,Operating,United Kingdom,0.40,"952,300","3,356,600","1,316.6",Shaftesbury PLC
+Shin Kong No. 1 REIT (TWSE:01003T),4862607,Diversified REIT,Public Company,Operating,Taiwan,0.23,"4,500,525","25,443,231","24,408.0",Shin Kong No. 1 REIT
+"Shinhan Alpha REIT Co., Ltd. (KOSE:A293940)",10069359,Office REIT,Public Company,Operating,South Korea,4.33,"1,461,684","1,893,658",502.8,Shinhan Alpha REIT
+Shopping Centres Australasia Property Group (ASX:SCP),4342198,Retail REIT,Public Company,Operating,Australia,0.44,"1,383,600","4,695,000","2,797.5",Shopping Centres Australasia
+SICO Capital - SICO Saudi REIT Fund (SASE:4337),9331280,Hotel REIT,Public Company,Operating,Saudi Arabia,0.30,"150,212","654,167",377.8,SICO Cap - SICO Saudi REIT Fun
+"Sila Realty Trust, Inc. (PSGM:CVMC.A)",4415522,Healthcare REIT,Public Company,Operating,USA,0.33,"523,168","2,177,555","1,468.5",Sila Realty Trust
+"Silicius Real Estate SOCIMI, S.A. (BME:YSIL)",29146435,Diversified REIT,Public Company,Operating,Spain,0.64,"219,880","716,822",439.6,Silicius Re SOCIMI S.A.
+"Simon Property Group, Inc. (NYSE:SPG)",103117,Retail REIT,Public Company,Operating,USA,6.70,"25,827,953","33,777,379","33,076.4",Simon Property Group
+Sinpas Gayrimenkul Yatirim Ortakligi A.S. (IBSE:SNGYO),4261041,Residential REIT,Public Company,Operating,Türkiye,0.94,"4,588,317","11,323,329","7,330.9",Sinpas GYO A.S.
+SITE Centers Corp. (NYSE:SITC),103044,Retail REIT,Public Company,Operating,USA,0.84,"1,715,868","3,967,051","2,474.3",SITE Centers Corp.
+"SK Reits Co., Ltd. (KOSE:A395400)",29166812,Diversified REIT,Public Company,Operating,South Korea,1.35,"1,046,037","1,883,198",867.8,SK Reits Co.
+SL Green Realty Corp. (NYSE:SLG),113065,Office REIT,Public Company,Operating,USA,1.05,"5,005,851","11,066,629","2,399.0",SL Green Realty Corp.
+Slate Grocery REIT (TSX:SGR.UN),4534845,Retail REIT,Public Company,Operating,Canada,1.52,"950,046","1,737,162",834.9,Slate Grocery REIT
+Slate Office REIT (TSX:SOT.UN),4342791,Office REIT,Public Company,Operating,Canada,1.72,"1,071,968","1,808,907",366.4,Slate Office REIT
+SLS Realty REIT (BUL:SLSP),4862817,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,155,13.5,SLS Realty REIT
+SmartCentres Real Estate Investment Trust (TSX:SRU.UN),4105055,Retail REIT,Public Company,Operating,Canada,0.88,"5,120,587","11,293,248","3,800.8",SmartCentres REIT
+"SmartStop Self Storage REIT, Inc. (OTCPK:STSF.F)",4408976,Self-Storage REIT,Public Company,Operating,USA,2.15,"873,867","1,618,293","1,322.3",SmartStop Self Storage REIT
+Société Centrale des Bois et des Scieries de la Manche S.A. (ENXTPA:CBSM),4862444,Diversified REIT,Public Company,Operating,France,0.98,"195,602","410,853",102.9,Société Centrale des Bois et d
+Société Parisienne d'Apports en Capital Société Anonyme (ENXTPA:MHM),4862278,Office REIT,Public Company,Operating,France,(1.14),830,522,2.5,Société Parisienne d'Apports e
+Sopharma Properties REIT (BUL:SFI),4864004,Diversified REIT,Public Company,Operating,Bulgaria,0.11,"7,725","88,699",193.2,Sopharma Properties REIT
+"SOSiLA Logistics REIT, Inc. (TSE:2979)",19431530,Industrial REIT,Public Company,Operating,Japan,0.68,"49,990","128,191",69.3,SOSiLA Logistics REIT
+Sotherly Hotels Inc. (NASDAQGM:SOHO),4095174,Hotel REIT,Public Company,Operating,USA,22.90,"377,909","436,051",39.9,Sotherly Hotels Inc.
+Spear Reit Limited (JSE:SEA),4980225,Diversified REIT,Public Company,Operating,South Africa,0.67,"1,785,357","4,530,473","1,758.2",Spear Reit
+SPH REIT (SGX:SK6U),4401085,Retail REIT,Public Company,Operating,Singapore,0.44,"1,285,119","4,274,585","2,218.3",SPH REIT
+"Spirit Realty Capital, Inc. (NYSE:SRC)",4335136,Retail REIT,Public Company,Operating,USA,0.75,"3,017,738","7,330,870","4,819.7",Spirit Realty Capital Inc.
+Spring Real Estate Investment Trust (SEHK:1426),4420455,Office REIT,Public Company,Operating,Hong Kong,0.45,"2,971,839","9,884,003","3,170.2",Spring REIT
+Sri panwa Hospitality Real Estate Investment Trust (SET:SRIPANWA),4864421,Diversified REIT,Public Company,Operating,Thailand,0.30,"979,651","4,246,325","2,023.2",Sri panwa Hospitality REIT
+"STAG Industrial, Inc. (NYSE:STAG)",4263385,Industrial REIT,Public Company,Operating,USA,0.66,"2,251,370","5,833,249","5,082.4",STAG Industrial Inc.
+Star Asia Investment Corporation (TSE:3468),4715271,Diversified REIT,Public Company,Operating,Japan,0.94,"89,640","193,317",102.0,Star Asia Investment Corp.
+Starhill Global Real Estate Investment Trust (SGX:P40U),4188457,Retail REIT,Public Company,Operating,Singapore,0.59,"1,081,871","2,997,425","1,086.6",Starhill Global REIT
+Starts Proceed Investment Corporation (TSE:8979),4431730,Residential REIT,Public Company,Operating,Japan,1.05,"45,645","90,240",56.4,Starts Proceed Investment Corp
+Stockland (ASX:SGP),4143481,Diversified REIT,Public Company,Operating,Australia,0.44,"4,512,000","20,414,000","7,935.3",Stockland
+Stor-Age Property REIT Limited (JSE:SSS),4864506,Specialty REIT,Public Company,Operating,South Africa,0.46,"3,037,103","10,505,636","6,241.1",Stor-Age Property REIT
+STORE Capital Corporation (NYSE:STOR),4553160,Diversified REIT,Public Company,Operating,USA,0.85,"4,376,158","9,773,082","8,944.1",STORE Capital Corp.
+Strategic Hospitality Extendable Freehold and Leasehold REIT (SET:SHREIT),9713353,Hotel REIT,Public Company,Operating,Thailand,0.83,"2,034,158","4,583,619",818.6,Strategic Hospitality
+"Strategic Realty Trust, Inc. (OTCPK:SGIC)",4220541,Retail REIT,Public Company,Operating,USA,1.38,"39,843","69,852",7.6,Strategic Realty Trust Inc.
+Stride Property Group (NZSE:SPG),6630489,Diversified REIT,Public Company,Operating,New Zealand,0.30,"371,598","1,642,317",810.5,Stride Property Group
+"Summit Hotel Properties, Inc. (NYSE:INN)",4264301,Hotel REIT,Public Company,Operating,USA,0.98,"1,087,029","2,264,902",868.0,Summit Hotel Properties Inc.
+Summit Industrial Income REIT (TSX:SMU.UN),4339972,Industrial REIT,Public Company,Operating,Canada,0.42,"1,323,885","4,542,994","3,284.7",Summit Industrial Income REIT
+"Sun Communities, Inc. (NYSE:SUI)",103122,Residential REIT,Public Company,Operating,USA,0.86,"5,805,162","13,494,084","14,669.4",Sun Communities Inc.
+Sun Residential Real Estate Investment Trust (TSXV:SRES),14920126,Residential REIT,Public Company,Operating,Canada,0.86,"31,440","69,690",15.3,Sun Residential REIT
+Sunlight Real Estate Investment Trust (SEHK:435),4218592,Diversified REIT,Public Company,Operating,Hong Kong,0.31,"4,288,794","18,960,382","4,523.8",Sunlight REIT
+"Sunstone Hotel Investors, Inc. (NYSE:SHO)",4093959,Hotel REIT,Public Company,Operating,USA,0.29,"655,708","3,041,049","2,282.4",Sunstone Hotel Investors Inc.
+Suntec Real Estate Investment Trust (SGX:T82U),4143527,Diversified REIT,Public Company,Operating,Singapore,0.76,"4,918,990","11,688,678","3,993.5",Suntec REIT
+Sunway Real Estate Investment Trust (KLSE:SUNREIT),4864261,Retail REIT,Public Company,Operating,Malaysia,0.62,"3,406,257","9,150,473","4,829.0",Sunway REIT
+Supermarket Income REIT plc (LSE:SUPR),6613568,Retail REIT,Public Company,Operating,United Kingdom,0.24,"348,546","1,808,038","1,209.5",Supermarket Income REIT plc
+Takara Leben Real Estate Investment Corporation (TSE:3492),10810764,Diversified REIT,Public Company,Operating,Japan,0.97,"57,300","121,319",60.4,Takara Leben RE Invt Corp
+Talaad Thai Leasehold Property Fund (SET:TTLPF),4864290,Retail REIT,Public Company,Operating,Thailand,NA,0,"2,264,019","4,104.0",Talaad Thai Leasehold Ppty Fun
+"Tander Inversiones SOCIMI, S.A. (BME:YTAN)",9747580,Retail REIT,Public Company,Operating,Spain,1.66,"110,958","180,223",102.2,Tander Inversiones SOCIMI S.A.
+"Tanger Factory Outlet Centers, Inc. (NYSE:SKT)",103061,Retail REIT,Public Company,Operating,USA,2.97,"1,485,950","2,157,384","1,787.9",Tanger Factory Outlet Centers
+Target Healthcare REIT plc (LSE:THRL),4439721,Healthcare REIT,Public Company,Operating,United Kingdom,0.33,"231,383","963,658",483.2,Target Healthcare REIT plc
+"Tarjar Xairo SOCIMI, S.A. (BME:YTAR)",6964192,Diversified REIT,Public Company,Operating,Spain,0.12,"1,292","13,502",10.7,Tarjar Xairo SOCIMI S.A.
+Terreno Realty Corporation (NYSE:TRNO),4245663,Industrial REIT,Public Company,Operating,USA,0.35,"720,670","2,924,215","4,005.0",Terreno Realty Corp.
+Texton Property Fund Limited (JSE:TEX),4685981,Office REIT,Public Company,Operating,South Africa,0.66,"1,407,041","3,642,134","1,021.3",Texton Property Fund Ltd.
+Thailand Hospitality Property Fund (SET:TLHPF),5736397,Hotel REIT,Public Company,Operating,Thailand,NA,0,"1,919,447","1,307.2",Thailand Hospitality Ppty Fund
+Thailand Prime Property Freehold and Leasehold Real Estate Investment Trust (SET:TPRIME),4980333,Office REIT,Public Company,Operating,Thailand,0.35,"2,343,127","9,528,022","4,489.5",Thailand Prime Ppty Freehold &
+The GPT Group (ASX:GPT),4143487,Diversified REIT,Public Company,Operating,Australia,0.44,"5,193,400","17,179,700","7,566.5",The GPT Group
+The Macerich Company (NYSE:MAC),103120,Retail REIT,Public Company,Operating,USA,1.45,"4,609,076","8,345,655","2,025.3",Macerich Co.
+"The Necessity Retail REIT, Inc. (NASDAQGS:RTL)",4380201,Retail REIT,Public Company,Operating,USA,1.15,"1,975,140","3,814,210",835.7,"The Necessity Retail REIT, Inc"
+The PRS REIT plc (LSE:PRSR),5646854,Residential REIT,Public Company,Operating,United Kingdom,0.54,"346,660","1,017,883",491.0,The PRS REIT plc
+Ticon Freehold and Leasehold Real Estate Investment Trust (SET:FTREIT),4863312,Industrial REIT,Public Company,Operating,Thailand,0.36,"11,755,990","46,066,028","30,940.2",Ticon Freehold & Leasehold REI
+"Tokaido REIT, Inc. (TSE:2989)",28943786,Diversified REIT,Public Company,Operating,Japan,NA,NA,NA,NA,Tokaido REIT
+"Tokyu REIT, Inc. (TSE:8957)",4143343,Diversified REIT,Public Company,Operating,Japan,0.79,"94,400","226,847",191.8,Tokyu REIT Inc.
+Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş. (IBSE:TRGYO),4381765,Diversified REIT,Public Company,Operating,Türkiye,0.35,"5,038,013","19,906,999","11,302.6",Torunlar Gayrimenkul Yatırım
+Tosei Reit Investment Corporation (TSE:3451),4863301,Diversified REIT,Public Company,Operating,Japan,1.00,"40,900","85,596",49.2,Tosei Reit Investment
+Tower Real Estate Investment Trust (KLSE:TWRREIT),4863987,Office REIT,Public Company,Operating,Malaysia,0.52,"269,175","827,077",129.0,Tower REIT
+Town Centre Securities Plc (LSE:TOWN),4143602,Diversified REIT,Public Company,Operating,United Kingdom,0.84,"151,281","375,068",75.4,Town Centre Securities Plc
+"Trajano Iberia Socimi, S.A. (BME:YTRA)",4863342,Diversified REIT,Public Company,Operating,Spain,1.27,"130,190","239,042",70.8,Trajano Iberia Socimi S.A.
+Transcend Residential Property Fund Limited (JSE:TPF),4979225,Residential REIT,Public Company,Operating,South Africa,0.73,"1,036,550","2,522,526",950.8,Transcend Resdl Ppty Fund Ltd
+Trastor Real Estate Investment Company SA (ATSE:TRASTOR),4729915,Diversified REIT,Public Company,Operating,Greece,0.93,"167,808","355,090",159.1,Trastor Re Invt Co SA
+Trend Gayrimenkul Yatirim Ortakligi A.S. (IBSE:TDGYO),10088392,Residential REIT,Public Company,Operating,Türkiye,0.12,"9,305","104,298",299.1,Trend Gayrimenkul Yatirim Orta
+Trinity Freehold and Leasehold Property Fund (SET:TNPF),5731915,Diversified REIT,Public Company,Operating,Thailand,NA,0,"851,042",272.4,Trinity Freehold & Leasehold P
+Triple Point Social Housing REIT Plc (LSE:SOHO),6951096,Residential REIT,Public Company,Operating,United Kingdom,0.60,"260,164","699,989",257.0,Triple Point Social Housing RE
+Tritax Big Box REIT Plc (LSE:BBOX),4422681,Industrial REIT,Public Company,Operating,United Kingdom,0.33,"1,345,200","5,593,900","2,438.8",Tritax Big Box REIT Plc
+True North Commercial Real Estate Investment Trust (TSX:TNT.UN),4336700,Office REIT,Public Company,Operating,Canada,1.56,"842,802","1,421,177",571.3,True North Commercial REIT
+"UDR, Inc. (NYSE:UDR)",103025,Residential REIT,Public Company,Operating,USA,1.61,"5,605,275","10,775,220","12,737.0",UDR Inc.
+UK Commercial Property REIT Limited (LSE:UKCM),4160249,Diversified REIT,Public Company,Operating,United Kingdom,0.19,"248,326","1,601,252",775.7,UK Commercial Property REIT
+"UMH Properties, Inc. (NYSE:UMH)",103232,Residential REIT,Public Company,Operating,USA,0.68,"502,824","1,270,820",899.8,UMH Properties Inc.
+Unibail-Rodamco-Westfield (ENXTAM:URW),4143719,Retail REIT,Public Company,Operating,France,1.20,"26,885,200","54,919,400","6,078.0",Unibail-Rodamco-Westfield
+Union Homes Real Estate Investment Trust PLC (NGSE:UHOMREIT),4864272,Diversified REIT,Public Company,Operating,Nigeria,NA,0,"11,362,208","6,885.5",Union Homes REIT PLC
+Unite Group Plc (LSE:UTG),4143615,Residential REIT,Public Company,Operating,United Kingdom,0.35,"1,258,800","5,051,100","3,371.1",Unite Group Plc
+United Hampshire US Real Estate Investment Trust (SGX:ODBU),19904443,Retail REIT,Public Company,Operating,Singapore,0.70,"294,939","729,496",274.0,United Hampshire US REIT
+United Urban Investment Corporation (TSE:8960),4143335,Diversified REIT,Public Company,Operating,Japan,0.86,"310,703","715,569",451.5,United Urban Investment Corp.
+Uniti Group Inc. (NASDAQGS:UNIT),4584941,Specialty REIT,Public Company,Operating,USA,NM,"5,163,240","4,809,243","1,691.6",Uniti Group Inc.
+Universal Health Realty Income Trust (NYSE:UHT),103026,Healthcare REIT,Public Company,Operating,USA,1.45,"340,261","598,419",611.9,Universal Health Realty Trust
+Uoa Real Estate Investment (KLSE:UOAREIT),4862606,Office REIT,Public Company,Operating,Malaysia,0.69,"683,200","1,732,706",756.7,Uoa Real Estate Investment
+Urban Edge Properties (NYSE:UE),4546387,Retail REIT,Public Company,Operating,USA,1.67,"1,754,772","2,985,116","1,577.2",Urban Edge Properties
+Urban Logistics REIT plc (LSE:SHED),4679495,Industrial REIT,Public Company,Operating,United Kingdom,0.28,"248,180","1,179,065",592.3,Urban Logistics REIT plc
+"Urban View Development Spain Socimi, S.A. (BME:YUVS)",13378754,Residential REIT,Public Company,Operating,Spain,0.34,"18,141","75,912",38.1,Urban View Dev Spain Socimi S.
+Urbana Property Fund (leasehold) (SET:URBNPF),4864131,Self-Storage REIT,Public Company,Operating,Thailand,0.75,"248,205","581,058",167.0,Urbana Ppty Fund (leasehold)
+Urbanização I Fundo De Investimento Imobiliário FII,5735417,Diversified REIT,Public Company,Operating,Brazil,NA,NA,NA,NA,Urbanização I Fundo De Investi
+"Uro Property Holdings SOCIMI, S.A. (BME:YURO)",4864190,Office REIT,Public Company,Operating,Spain,7.16,"1,270,987","1,509,309",160.2,Uro Ppty Hldgs SOCIMI S.A.
+Urstadt Biddle Properties Inc. (NYSE:UBA),4078030,Retail REIT,Public Company,Operating,USA,0.51,"296,449","973,852",713.2,Urstadt Biddle Properties Inc.
+US Masters Residential Property Fund (ASX:URF),4686007,Residential REIT,Public Company,Operating,Australia,1.09,"482,954","975,358",98.1,US Masters Residential Ppty
+US Student Housing REIT (ASX:USQ),101373288,Residential REIT,Public Company,Operating,Australia,NA,0,"56,695",64.4,US Student Housing REIT
+Vakif Gayrimenkul Yatirim Ortakligi AS (IBSE:VKGYO),4863553,Office REIT,Public Company,Operating,Türkiye,0.13,"322,304","4,619,815","4,144.9",Vakif Gayrimenkul Yatirim Orta
+Vastned Retail N.V. (ENXTAM:VASTN),4143799,Retail REIT,Public Company,Operating,Netherlands,0.78,"619,928","1,454,442",330.0,Vastned Retail N.V.
+"VBARE Iberian Properties SOCIMI, S.A. (BME:YVBA)",4978361,Residential REIT,Public Company,Operating,Spain,0.49,"22,757","70,269",25.8,VBARE Iberian Ppts SOCIMI S.A.
+"Ventas, Inc. (NYSE:VTR)",4046115,Healthcare REIT,Public Company,Operating,USA,1.12,"12,224,778","24,717,786","14,841.3",Ventas Inc.
+"Veris Residential, Inc. (NYSE:VRE)",103187,Office REIT,Public Company,Operating,USA,1.66,"2,412,756","4,527,318","1,393.7","Veris Residential, Inc."
+VICI Properties Inc. (NYSE:VICI),6614190,Specialty REIT,Public Company,Operating,USA,0.41,"4,991,844","17,597,373","28,941.0",VICI Properties Inc.
+Vicinity Centres (ASX:VCX),4143464,Retail REIT,Public Company,Operating,Australia,0.38,"4,141,600","15,552,600","8,103.1",Vicinity Centres
+Vital Healthcare Property Trust (NZSE:VHP),4861812,Healthcare REIT,Public Company,Operating,New Zealand,0.47,"1,017,710","3,399,834","1,538.7",Vital Hlthcr Ppty Tr
+"Vitruvio Real Estate SOCIMI, S.A. (BME:YVIT)",4863352,Diversified REIT,Public Company,Operating,Spain,0.53,"51,975","161,271",94.0,Vitruvio RE SOCIMI S.A.
+Vornado Realty Trust (NYSE:VNO),103050,Office REIT,Public Company,Operating,USA,1.39,"9,035,812","17,266,588","4,293.8",Vornado Realty Trust
+Vukile Property Fund Limited (JSE:VKE),4261042,Retail REIT,Public Company,Operating,South Africa,0.79,"14,786,000","34,725,000","13,086.0",Vukile Property Fund Ltd.
+Walls & Futures Reit Plc (OFEX:WAFR),4978127,Residential REIT,Public Company,Operating,United Kingdom,0.01,19,"3,741",1.5,Walls & Futures Reit Plc
+Warehouse REIT plc (LSE:WHR),7688137,Industrial REIT,Public Company,Operating,United Kingdom,0.38,"283,112","1,052,958",476.7,Warehouse REIT plc
+Warehouses De Pauw (ENXTBR:WDP),4143707,Industrial REIT,Public Company,Operating,Belgium,0.63,"2,244,145","6,106,225","4,610.5",Warehouses De Pauw
+Warehouses Estates Belgium S.C.A. (ENXTBR:WEB),4204286,Diversified REIT,Public Company,Operating,Belgium,0.86,"139,494","305,176",120.3,Warehouses Estates Belgium
+Waypoint REIT (ASX:WPR),4778956,Retail REIT,Public Company,Operating,Australia,0.44,"929,500","3,128,200","1,767.2",Waypoint REIT
+Welltower Inc. (NYSE:WELL),102952,Healthcare REIT,Public Company,Operating,USA,0.79,"14,676,898","34,910,325","26,819.8",Welltower Inc.
+Wereldhave N.V. (ENXTAM:WHA),4143802,Retail REIT,Public Company,Operating,Netherlands,0.76,"833,156","2,037,491",458.5,Wereldhave N.V.
+Weyerhaeuser Company (NYSE:WY),4006248,Specialty REIT,Public Company,Operating,USA,0.48,"5,221,000","17,652,000","22,179.8",Weyerhaeuser Co.
+WHA Business Complex Freehold and Leasehold Real Estate Investment Trust (SET:WHABT),4864504,Office REIT,Public Company,Operating,Thailand,0.22,"498,370","2,787,133","1,626.1",WHA Business Complex Freehold
+WHA Industrial Leasehold Real Estate Investment Trust (SET:WHAIR),4980507,Industrial REIT,Public Company,Operating,Thailand,0.48,"3,730,215","11,771,423","6,007.0",WHA Industrial Leasehold REIT
+WHA Premium Growth Freehold And Leasehold Real Estate Investment Trust (SET:WHART),4863311,Industrial REIT,Public Company,Operating,Thailand,0.38,"12,932,782","48,454,533","30,654.0",WHA Prmm Growth Freehold & Lea
+"Wheeler Real Estate Investment Trust, Inc. (NASDAQCM:WHLR)",4305469,Retail REIT,Public Company,Operating,USA,91.92,"349,468","465,281",15.3,Wheeler REIT Inc.
+Whitestone REIT (NYSE:WSR),4087483,Retail REIT,Public Company,Operating,USA,1.61,"643,073","1,102,090",426.1,Whitestone REIT
+Workspace Group Plc (LSE:WKP),4143630,Office REIT,Public Company,Operating,United Kingdom,0.35,"626,500","2,511,900",733.4,Workspace Group Plc
+Wotso Property (ASX:WOT),4864337,Diversified REIT,Public Company,Operating,Australia,0.56,"164,743","485,022",204.2,Wotso Property
+"Xenia Hotels & Resorts, Inc. (NYSE:XHR)",4552942,Hotel REIT,Public Company,Operating,USA,1.05,"1,515,109","3,087,316","1,852.5",Xenia Hotels & Resorts Inc.
+Xior Student Housing NV (ENXTBR:XIOR),4864510,Residential REIT,Public Company,Operating,Belgium,0.91,"915,596","2,076,446",757.7,Xior Student Housing NV
+XP Corporate Macaé Fundo de Investimento Imobiliário - FII (BOVESPA:XPCM11),4864396,Diversified REIT,Public Company,Operating,Brazil,NA,0,"193,020",41.4,XP Corpte Macaé Fundo de Inves
+XTED - TRX Edificios Corporativos Fundo Invest Imobiliario FII Fund (BOVESPA:XTED11),4864382,Office REIT,Public Company,Operating,Brazil,NA,NA,NA,13.4,XTED - TRX Edificios Corporati
+XYMAX REIT Investment Corporation (TSE:3488),9781643,Diversified REIT,Public Company,Operating,Japan,0.75,"19,945","48,670",29.0,XYMAX REIT Investment Corp.
+Yeni Gimat Gayrimenkul Yatirim Ortakligi A.S. (IBSE:YGGYO),4864246,Retail REIT,Public Company,Operating,Türkiye,0.00,168,"2,834,952","5,830.6",Yeni Gimat Gayrimenkul Yatirim
+Yesil Gayrimenkul Yatirim Ortakligi A.S. (IBSE:YGYO),4863887,Diversified REIT,Public Company,Operating,Türkiye,(1.64),"804,057","2,054,424",263.3,Yesil Gayrimenkul Yatirim Orta
+YTL Hospitality REIT (KLSE:YTLREIT),4863957,Hotel REIT,Public Company,Operating,Malaysia,0.74,"2,038,753","4,902,250","1,465.8",YTL Hospitality REIT
+Yuexiu Real Estate Investment Trust (SEHK:405),4264461,Diversified REIT,Public Company,Operating,Hong Kong,1.11,"17,632,432","43,862,248","7,016.1",Yuexiu REIT
+Zenith Properties REIT (BUL:ZENP),5786325,Diversified REIT,Public Company,Operating,Bulgaria,NA,0,"1,986",0.7,Zenith Properties REIT
+Ziraat Gayrimenkul Yatirim Ortakligi A.S. (IBSE:ZRGYO),28753472,Diversified REIT,Public Company,Operating,Türkiye,0.00,"3,562","8,643,897","19,103.0",Ziraat Gayrimenkul Yatirim Ort

@@ -1,0 +1,623 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>REM1-Session 4-Capital Structure</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+		<link rel="stylesheet" href="tweaks.css">
+		</head>
+		<body>
+		<div class="reveal">
+			<div class="slides">
+
+					<section data-background-color="#ffffff" data-background-image="imgs/title-bg.jpg" data-background-size="auto 100%" data-background-position="right" data-background-repeat="no-repeat">
+
+					<h2 style="line-height: 0.8em;">Capital Structure<span class="subtitle"><br />REM1 &mdash; Session 4 of 6</span></h2>
+
+					<p style="font-size: 0.8em; margin-top: 1.4em;">Professor Thies Lindenthal
+						<br /><a href="mailto:htl24@cam.ac.uk">htl24@cam.ac.uk</a>
+						<br /><a href="https://lindenthal.eu">https://lindenthal.eu</a>
+						<br />
+						<br />
+						September 2026</p>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Gearing at the Asset Level<span class="subtitle"><br>What does debt do to this property’s return and risk?</span>
+						* Two identical buildings, different capital structure &rarr; different owner outcomes
+						* This half: the mechanics of leverage, on a single asset
+						* Second half: same question, one level up—how much debt should the <em>company</em> carry?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## From NOI to Equity Cash Flow<span class="subtitle"><br>The debt waterfall</span>
+						* Net Operating Income (NOI)
+							- &minus; Debt Service (interest + scheduled principal)
+							- = Equity Before-Tax Cash Flow (EBTCF)
+						* Debt is paid first, contractually, regardless of how the year went
+						* Equity gets the residual—all of the upside, and all of the downside, below that line
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Three Ratios Lenders (and You) Should Watch<span class="subtitle"><br>LTV, DSCR, ICR</span>
+						* <strong>Loan-to-Value (LTV)</strong> = Debt / Property Value
+							- How much cushion before the lender’s collateral is at risk?
+						* <strong>Debt Service Coverage Ratio (DSCR)</strong> = NOI / Debt Service
+							- Can income cover the <em>full</em> payment—interest and scheduled principal? Lenders typically want &gt;1.2&ndash;1.3
+						* <strong>Interest Coverage Ratio (ICR)</strong> = NOI / Interest
+							- Can income cover just the interest? Looser than DSCR—ignores amortisation
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## r<sub>E</sub> and Leverage<span class="subtitle"><br>The basic identity, no taxes</span>
+						* $r_E = r_P + \frac{D}{E}(r_P - r_D)$
+							- $r_P$ = unlevered return on the property
+							- $r_D$ = cost of debt
+							- $D/E$ = gearing ratio
+						* With taxes: $r_E = r_P + \frac{D}{E}(1-t_c)(r_P-r_D)$
+						* Extension: cost of financial distress increases $r_E$ further (Modigliani &amp; Miller offer no formula for this—more on that in Half 2)
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Positive vs Negative Leverage<span class="subtitle"><br>Same algebra, opposite direction</span>
+						* If $r_P > r_D$: leverage is <strong>positive</strong>—debt amplifies the equity return above the property return
+						* If $r_P < r_D$: leverage is <strong>negative</strong>—debt drags the equity return below the property return
+						* The spread $(r_P - r_D)$, multiplied by $D/E$, is doing all the work
+						* Gearing is not free extra return: it’s a bet that $r_P > r_D$ will hold—amplified
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Risk Scales by the Same Factor<span class="subtitle"><br>So the Sharpe ratio doesn’t improve</span>
+						* Leverage doesn’t just amplify expected return—it amplifies risk ($\sigma$) by (roughly) the same factor
+						* $\sigma_E \approx (1+D/E)\, \sigma_P$ (no-tax case, ignoring the debt’s own risk)
+						* Reward per unit of risk is (roughly) unchanged: $\frac{r_E - r_f}{\sigma_E} \approx \frac{r_P - r_f}{\sigma_P}$
+						* Leverage moves you along the same risk/return line (Session 2)—it doesn’t create free alpha
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Refinancing &amp; Covenant Risk<span class="subtitle"><br>The leverage story isn’t just about the coupon</span>
+						* Maturity mismatch: short-term debt, long-lived asset &rarr; you must refinance during the hold
+						* Refinancing risk: will a new loan be available on acceptable terms when the old one matures?
+						* Covenants: LTV and DSCR triggers can force asset sales, cash sweeps, or equity top-ups—even without an outright default
+						* How debt is <em>structured</em>, not just how much of it there is, determines whether a downturn is survivable (preview: EOP/Blackstone, coming up)
+					</textarea>
+				</section>
+
+				<section data-markdown>
+					<textarea data-template>
+						## UK: New CRE debt<span class="subtitle"><br>Supply and demand not constant. Also, mix of lenders changed.</span>
+						<div class="figure">
+							<p class="title">CRE Loan Originations, UK, by Lender Type (£ bn)</p>
+							<img src="imgs/cre-loan-origination.png" height=350 />
+							<p class="source">Source: Bayes Business School Commercial Real Estate Lending Report</p>
+						</div>
+
+						* Update, H1 2025: new lending up 33% YoY to £22.3bn; 74% refinancing; lender sentiment “bullish” again—this is the refinancing market your loan will hit at maturity
+					</textarea>
+				</section>
+
+				<section data-markdown>
+					<textarea data-template>
+						## Cost of debt increased<span class="subtitle"><br>Cost of debt larger than yields? Is that possible?</span>
+						<div class="figure">
+							<p class="title">Borrowers’ costs and property yields, % Dec 2013–Dec 2022</p>
+							<img src="imgs/cre-margins-yields.png" height=350 />
+							<p class="source">Source: Bayes Business School Commercial Real Estate Lending Report</p>
+						</div>
+
+						* Margins have since come back in: prime office spreads narrowed from 249bps to 231bps in the six months to June 2025 as lender competition returned—though defaults (6.3% overall, 20.3% for debt funds) show the GFC-era caution wasn’t fully misplaced
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Back to the Manhattan Office<span class="subtitle"><br>Same property Session 1 valued—now with leverage</span>
+						* Recap: `$`80,000,000 purchase, Year 1 NOI `$`5,497,750, 2% annual NOI growth, exit Year 7 at a 6.5% exit cap rate
+						* Session 1 asked: what’s this worth, unlevered?
+						* Now: what happens to the equity investor’s return once we add a `$`60,000,000 loan (75% LTV, 4.5% fixed, 30-year amortisation)?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Unlevered Property IRR<span class="subtitle"><br>The return before any financing decision</span>
+						* Cash flows: Year 1&ndash;6 NOI, Year 7 NOI + sale proceeds (`$`97,926,693), against the full `$`80,000,000 purchase price
+						* Unlevered property IRR &asymp; <strong>9.6%</strong>
+						* This is $r_P$—the number leverage is about to amplify
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Adding the Loan<span class="subtitle"><br>LTV, DSCR and ICR for this deal</span>
+						* LTV = `$`60,000,000 / `$`80,000,000 = 75%
+						* Year 1 DSCR = `$`5,497,750 / `$`3,640,416 = 1.51
+						* Year 1 ICR &asymp; `$`5,497,750 / `$`2,700,000 (interest only) &asymp; 2.0
+						* Equity Before-Tax Cash Flow each year = NOI &minus; `$`3,640,416 debt service
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Levered Equity IRR<span class="subtitle"><br>Sitting on top of the property IRR</span>
+						* At exit: sale proceeds `$`97,926,693, minus remaining mortgage `$`54,522,634 = `$`43,404,059 to equity
+						* Equity invested at close: `$`20,000,000 (25% down)
+						* Levered equity IRR &asymp; <strong>19.7%</strong>—roughly double the 9.6% property IRR
+						* Positive leverage at work: $r_P$ (9.6%) $>$ $r_D$ (4.5%), amplified by D/E = 3
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Why Doesn’t the Simple Formula Match Exactly?<span class="subtitle"><br>Amortisation quietly delevers the deal</span>
+						* Plugging $r_P=9.6\%$, $r_D=4.5\%$, $D/E=3$ into $r_E=r_P+\frac{D}{E}(r_P-r_D)$ predicts &asymp;25%—well above the 19.7% IRR
+						* The static formula assumes constant leverage; this loan amortises, so $D/E$ shrinks every year of the hold
+						* Lesson: the simple leverage algebra is a single-period approximation. Multi-year IRRs need the full cash flow schedule.
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Scott vs. Shackleton <span class="subtitle"><br>Race for South Pole: Disaster or survival?</span>
+						<img src="imgs/shackleton.png" height=360>
+
+						<p class="source">The crew of the “Endurance”, Ernest Shackleton’s expedition ship, after getting stuck in Antarctic ice. The expedition itself did not reach its goal - but all men were saved. Their survival is the really interesting part of their story (for more, visit Cambridge’s Polar Institute Museum).</p>
+					</textarea>
+				</section>
+
+
+				<section>
+					<img src="imgs/blackstone1.png">
+				</section>
+
+
+				<section data-markdown >
+					<textarea data-template>
+						## Blackstone’s bumpy ride <span class="subtitle"><br>“Equity Office Properties” - One of the largest property deal ever.</span>
+						* Imagine buying `$`39 billion worth of offices, at the top of the market
+							- 513 buildings
+							- 100 million sqft.
+							- At purchase, portfolio was trading at discount to Net Asset Value (NAV)
+						* Highly leveraged investment in 2007
+							- 82% debt (long term, from Bear Stearns, Bank of America, Goldman Sachs)
+							- `$`3.5bn own capital
+							- remainder equity bridge capital
+						* Back of an envelope return estimate: (7 bn/3.5 bn)<sup>1/12</sup>- 1 = 5.9%
+							- Is that a good return on their investment?
+					</textarea>
+				</section>
+
+
+				<section data-markdown >
+					<textarea data-template>
+						## EOP equity wiped out in 2010?<span class="subtitle"><br>No more equity in “Equity Office Properties”?</span>
+						* NCREIF direct property index
+							- Scaled to 2007Q2, date of Purchase = 100% (vertical dotted line)
+							- Debt level of 82% represented by horizontal dotted line
+						<img src="imgs/blackstone2.png" height=300>
+					</textarea>
+				</section>
+
+
+
+				<section data-markdown >
+					<textarea data-template>
+						## Avoiding disaster <span class="subtitle"><br>How did they return from brink of bankruptcy?</span>
+						* Blackstone was able to structure its debt
+							- Covenants carefully negotiated when debt was sourced: The firm didn’t face sudden large payments if the market moved against it.
+						* Sufficiently large cash reserves
+							- Repurchase debt during the economic slowdown, when raising new capital wasn’t easy.
+							- During crisis Blackstone purchased more than `$`1 billion in Equity Office debt at a discount to help shore up that company’s balance sheet.<br><br>
+						* <em>“They had credibility with the lenders because they were prepared not just to demand concessions but also put up capital.”</em> &mdash; Roy March, CEO Eastdil Secured
+
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Same Algebra, Run Backwards<span class="subtitle"><br>The hinge: from asset-level gearing to entity-level capital structure</span>
+						* We’ve been degearing implicitly all session—EOP survived because Blackstone controlled the D/E and how the debt was structured
+						* Now formalise it: if you only observe a <em>levered</em> return, can you recover the unlevered one?
+						* Degear REIT return (fictional example)
+							- We observe a REIT return of 12% annualised
+							- Typical leverage is 33.3%, cost of debt = 5%
+							- What is the return on assets $r_a$?
+							- $r_e = r_a + \frac{D}{E}(r_a-r_d)$
+							-  $ 12 = r_a + \frac{1}{2}(r_a-5)$
+							-  $ 24 = 2r_a + (r_a-5) = 3r_a - 5$
+							-  $ 29 = 3r_a$
+							-  $ r_a = \frac{29}{3} = 9.67$
+						* Exactly the question Half 2 needs answered: how much of a REIT’s return—and risk—is the property, and how much is management’s leverage decision?
+					</textarea>
+				</section>
+
+				<section data-background-image="imgs/door.jpg">
+					<h2 style="line-height: 0.8em;"><span class="darkonlight">Break</span><span class="subtitle darkonlight"><br />10 minutes</span></h2>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Capital Structure at the Entity Level<span class="subtitle"><br>How much debt should the company carry?</span>
+						* Same question as Half 1—asked one level up
+						* Now: cash flows, taxes, and distress costs at the level of the whole firm, not one asset
+						* And: why do REITs, despite being real-estate-heavy, carry so little debt?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Formalising Cap. Structure <span class="subtitle"><br>Modigliani & Miller: Value as a function of leverage</span>
+						1. The firm as a pizza: $V_L = V_U = D + E$
+							- The value of the firm is the value of its projects
+							- Capital structure just distributes this amongst stakeholders
+							- Shareholders can make their own gearing decisions
+						2. Tax shields: $V_L = V_U + T_C D$
+							- Debt interest payments tax deductible
+							- Reduces government’s take/stake in the firm
+							- More funds left for shareholders
+						3. Extension: Cost of financial distress depress value.
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Example <span class="subtitle"><br>The case for gearing</span>
+						* The tax deductibility of interest payments increases the total income that can be paid out to capital providers
+						* Numerical example, assuming corporate taxes of 35%
+						<img src="imgs/case_gearing.png" height=350>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## A Trade-off<span class="subtitle"><br>First theory (we will see more later)</span>
+						* Starting point for corporate finance approach to capital structure
+						* Firms can use debt to reduce tax bill
+							- Interest payments act as tax shield
+						* Leverage increases risk of financial distress and, hence, cost of financial distress
+							- Bankruptcy costs and trading disruption
+						* Capital structure will balance these two factors
+						* Complications
+							- Corporate Taxes versus Personal/Shareholder Taxes
+							- Structure of Firms – e.g. REITs
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Value of Tax Shield <span class="subtitle"><br></span>
+						* Interest payment = return on debt &times; amount borrowed = r<sub>d</sub> D
+						* Annual tax shield = interest &times; tax rate = r<sub>d</sub> D &times; t<sub>c</sub>
+						* PV(tax shield) = annual tax shield, capitalised = r<sub>d</sub> D &times; t<sub>c</sub> / r<sub>d</sub> = D &times; t<sub>c</sub>
+						* In previous example
+							- PV(tax shield) = `$`2.8 / r<sub>d</sub>
+							- Assuming r<sub>d</sub> of 8%, the PV of tax shield will be `$`35.
+						* Check: Why use cost of debt and not WACC as dicount rate for tax shield?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Trade-off theory <span class="subtitle"><br>Tax effects and financial distress costs</span>
+
+						<div class="figure">
+						<img src="imgs/trade_off.png" height=450>
+						</div>
+					</textarea>
+				</section>
+
+				<section >
+						<h2> Financial Distress <span class="subtitle"><br>Intuition instead of formulas (M&M don’t offer any).</span></h2>
+						<ul>
+						<li>Value of firm <br>
+						= Value of all-equity financed company<br>
+						+ PV( Tax shield )<br>
+  					–    PV( cost financial distress )
+					</li>
+
+					<li>Financial distress
+							<ul>
+							<li> Costs of bankruptcy and financial distress</li>
+							<li>Agency costs in context of financial distress</li>
+						</ul></li>
+					</ul>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Agency costs <span class="subtitle"><br>Almost Bankrupt Ltd has the following balance sheet</span>
+						<img src="imgs/agency_costs1.png">
+
+						* If firm is liquidated today debt providers will get 400 and shareholders will get 0.
+
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Equity vs debt <span class="subtitle"><br>Excessive risk-taking</span>
+						* Firm could gamble all of its cash (400) and either win big or lose everything<br/><img src="imgs/agency_costs2.png" height=120>
+						* Expected cash flow in one year is 0.1 &times; 2,000 + 0.9 &times; 0 = 200
+						* Assume a required return of 50% (yes, they are in distress!)
+						* NPV = &minus;400 + 200/1.5 = &minus;267
+						* NPV is clear: Don’t do it!
+
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Excessive risk-taking <span class="subtitle"><br>Conflict between debt and equity providers</span>
+						* Financial positions of capital providers
+						| | Direct liquidation | Expections with investment |
+						|---|---:|---:|
+						|CF Debt<sub>t=1</sub> |  | 600 × 0.10 + 0 = 60 |
+						|CF Equity<sub>t=1</sub> |  | (2,000 – 600) × 0.10 + 0 = 140 |
+						|PV debt<sub>t=0</sub>| 400 | 60/1.5 = 40 |
+						|PV equity<sub>t=0</sub> | 0 | 140/1.5 = 93 |
+						<br>
+						* For shareholders, PV increases, so they will do it. Obviously, this is not in the interest of debt providers.
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Underinvestment<span class="subtitle"><br>Another agency costs, again debt vs. equity.</span>
+						* Now, consider a safe project that guarantees 700 in one period
+						* Initial outlay is 600 (the firm only has 400 now) so the shareholders have to inject an additional 200 to finance the project
+							- No additional debt feasible
+						* Required return is 10% (safe project, but time value of money)
+						* NPV= − 600 + 700/1.1 = 36.36
+						* NPV > 0! Accept.
+
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Underinvestment<span class="subtitle"><br>Debt overhang prevents a profitable project from going forward.</span>
+						* Financial positions of capital providers
+						| | direct liquidation | Expectations with investment |
+						|---|----:|---:|
+						|CF Debt<sub>t=1</sub> |  | 600 |
+						|CF Equity<sub>t=1</sub> |  | 700&minus;600 = 100 |
+						|PV debt<sub>t=0</sub>| 400 | 600/1.1 = 545.45 |
+						|PV equity<sub>t=0</sub> | 0 | &minus;200 + 100/1.1 = &minus;109.09 |
+						<br>
+						* Stockholders will not invest in positive NPV project.
+					</textarea>
+				</section>
+
+
+				<section data-markdown >
+					<textarea data-template>
+						## Agency cost <span class="subtitle"><br> Milking the assets: Equity vs debt </span>
+						* Debt is only due in a year from now, let’s pay all remaining cash to shareholders before: 400 in dividends.
+							- This leaves the firm insolvent, no funds left for debt providers.
+						* Such a blatant enrichment would most likely be illegal, but you get the idea.
+							- Debt providers can protect themselves via covenants, bond indentures, and active monitoring/due diligence
+						* Agency conflict between management and capital providers
+							- Managers delay liquidation and continue to pay their salaries, corporate perks, ...
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## REITs <span class="subtitle"><br>Real Estate Investment Trusts: What’s special about them?</span>
+						* REITs come in different flavours internationally. I will talk about US/UK REITs.
+							- REIT regulation in other countries can vary dramatically! Chinese or Brazilian REITs, for instance, are very different.
+						* Tax-exempt status
+						* Income must come from real estate
+						* 90% of the company’s rental profit must be paid out to shareholders via dividends.
+						* Diffused ownership: No controlling ownership stakes.
+						* Question throughout talk:<br /><em>How will these characteristics affect capital structure of REITs?</em>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Applicable to REITs?<span class="subtitle"><br>History of leverage for US/Canadian REITs, 1990&ndash;2023</span>
+						* Starting point: leverage levels entering the 1990s
+						<div class="figure">
+							<img src="imgs/snl/lev1990.svg" height=500>
+						</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Applicable to REITs?<span class="subtitle"><br>History of leverage for US/Canadian REITs, 1990&ndash;2023</span>
+						* Global Financial Crisis: leverage spikes as asset values fall faster than debt
+						<div class="figure">
+							<img src="imgs/snl/lev2009.svg" height=500>
+						</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Applicable to REITs?<span class="subtitle"><br>History of leverage for US/Canadian REITs, 1990&ndash;2023</span>
+						* Full series to 2023: REITs deleveraged materially post-GFC, staying well below the trade-off theory’s naive tax-shield optimum
+						<div class="figure">
+							<img src="imgs/snl/lev2023.svg" height=500>
+						</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Country differences<span class="subtitle"><br>Leverage not uniform internationally!</span>
+						* Debt/asset for 10 largest REITs (equally weighted)<br>
+						<img src="imgs/snl/meanlev.svg" height="400">
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Net Asset Value<span class="subtitle"><br/>An accountant’s view of value.</span>
+					* For companies, the equity holders own the residual value
+						- The value of all assets less value of the debt
+						- Less any other stakeholder claims (e.g. tax)
+						- Less any costs of disposal
+					* This is the Net Asset Value (NAV) of the firm
+						- Shouldn’t NAV per share be the share price?
+						- What would happen if it weren’t?
+					* Luckily, property companies/REITs have a high percentage of fixed tangible assets, so NAV should be easy to calculate?
+
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Simplified example<span class="subtitle"><br/>NAV and property companies (adapted from Brett, “Property and Money”)</span>
+					<div class="figure">
+						<img src="imgs/nav.png" height=450>
+					</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## NAV discounts: UK <span class="subtitle"><br/>Historically, UK property companies have traded at NAV discount.</span>
+					* Discount (Premium) = (Price - NAV) / NAV
+						- e.g. NAV = 300, Price = 225: (225-300)/300 = -25%<br>
+					<img src="imgs/nav_uk.png" height=430>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Caused by smoothness?<span class="subtitle"><br/>NAV: Always one step behind? And smooth!</span>
+					* Can this explain structural NAV discounts? No.
+
+					<img src="imgs/nav_indices.png" height=430>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Potential causes<span class="subtitle"><br/>We do not have a good explanation, yet.</span>
+					* What could lead to these deviations?
+						- Tax - particularly capital gains tax - liability (but REITs do not pay tax)
+						- Uncertainty as to true NAV
+						- Minority holdings & control, management costs
+						- Liquidity and loss on forced sale
+						- Risk: gearing and volatility; innovative capital structure
+						- Pricing inefficiencies? Is the market off?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Geographic diversity<span class="subtitle"><br/>NAV discounts/premia in Europe</span>
+					* Is this a regulation story? Or valuation differences?
+
+					<img src="imgs/nav_countries.png" height=430>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Time Dynamics<span class="subtitle"><br/>Shared turning points and trends. Distinct country-specific trends.</span>
+					* Ranking by NAV discount not constant.
+
+					<img src="imgs/nav_spaghetti.png" height=430>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## The Tax-Exempt Twist<span class="subtitle"><br>Why REITs shouldn’t gear up much, and mostly don’t</span>
+						* Trade-off theory’s whole case for debt is the tax shield—but REITs pay no corporate tax
+						* No tax bill to shield &rarr; the tax-shield side of the trade-off is close to zero for REITs
+						* What’s left is only the cost side: financial distress, covenant risk, loss of flexibility
+						* Trade-off theory therefore predicts REITs should carry <em>little</em> debt—and the leverage history above (deleveraging hard after the GFC, staying low since) is broadly consistent with that
+						* One wrinkle: some gains from debt survive even without tax (agency discipline, avoiding the cost of equity issuance)—so “little” debt, not “no” debt
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Pecking Order Theory<span class="subtitle"><br>Firms have an ordered financing preference</span>
+						* Preference order: (1) internal funds &rarr; (2) debt &rarr; (3) equity, based on cost differentials and information asymmetry
+						* Capital-intensive firms—like property developers—can’t rely on internal funds alone
+						* Property industry funding preferences shifted after the GFC: debt-fuelled boom in the 2000s, swing back toward equity during/after the crisis
+						<img src="imgs/pecking_order1.png" height="350">
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Market Timing Theory<span class="subtitle"><br>“Catch of the day?”</span>
+						* Firms raise capital from whichever source looks cheapest right now: is debt mispriced? Equity mispriced?
+						* Companies tend to sell equity when prices are high (and buy back in a slump)
+						* Baker &amp; Wurgler (2002): past market-to-book strongly predicts current leverage
+						<img src="imgs/baker_wurgler.svg" height=280>
+						* Implies market inefficiency—no consensus on why some firms behave this way and others don’t
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Further Reading<span class="subtitle"><br/>Book chapters &amp; papers referenced in this session</span>
+
+						* <strong>Book:</strong> Geltner, Miller, Clayton &amp; Eichholtz, <em>Commercial Real Estate Analysis and Investments</em> — Ch. 12 (Use of Debt: The Effect of Leverage), Ch. 15 (Capital Structure: Advanced Topics), Ch. 26
+						* Baker, M. &amp; Wurgler, J. (2002). <a href="https://doi.org/10.1111/1540-6261.00414">Market Timing and Capital Structure</a>. <em>Journal of Finance</em>.
+						* Feng, Z., Ghosh, C. &amp; Sirmans, C.F. (2007). <a href="https://doi.org/10.1007/s11146-007-9005-2">On the Capital Structure of REITs</a>. <em>Journal of Real Estate Finance and Economics</em>.
+					</textarea>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				math: {
+					mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+					config: 'TeX-AMS_HTML-full',
+					// pass other options into `MathJax.Hub.Config()`
+					TeX: { Macros: { RR: "{\\bf R}" } },
+					"HTML-CSS": { availableFonts: ["STIX-Web"], preferredFont: "STIX-Web", webFont: "STIX-Web" },
+					inlineMath: [['$','$'], ['\\(','\\)']],
+					processEscapes: true
+				},
+				transition: "none",
+				width: 1244,
+				height: 700,
+				margin: 0.1,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath ]
+			});
+		</script>
+	</body>
+</html>
