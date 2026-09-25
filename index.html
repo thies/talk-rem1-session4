@@ -108,12 +108,12 @@
 					<textarea data-template>
 						## UK: New CRE debt<span class="subtitle"><br>Supply and demand not constant. Also, mix of lenders changed.</span>
 						<div class="figure">
-							<p class="title">CRE Loan Originations, UK, by Lender Type (£ bn)</p>
-							<img src="imgs/cre-loan-origination.png" height=350 />
-							<p class="source">Source: Bayes Business School Commercial Real Estate Lending Report</p>
+							<p class="title">CRE Loan Originations, UK, by Lender Type (£ bn), 1999–H1 2024</p>
+							<img src="imgs/cre-loan-origination-2024.png" height=330 />
+							<p class="source">Source: <a href="https://openaccess.city.ac.uk/id/eprint/34892/1/CRE%20Lending%20Report%20Media%20copy%20MY2024%20%281%29.pdf">Bayes Commercial Real Estate Lending Report MY 2024</a>, Fig. 4. Last bar is H1 2024 only (full-year 2024: £36.3bn). Insurers not separately identified before 2012.</p>
 						</div>
 
-						* Update, H1 2025: new lending up 33% YoY to £22.3bn; 74% refinancing; lender sentiment “bullish” again—this is the refinancing market your loan will hit at maturity
+						* Update, 2025 (<a href="https://www.citystgeorges.ac.uk/news-and-events/news/2026/may/sluggish-investment-in-uk-commercial-real-estate-market-sparks-price-war-for-refinancing-loans">Bayes YE 2025</a>): new lending up 29% to £52.7bn, highest in a decade; ~60% refinancing; debt funds’ market share up from 12% to 28%; £33bn matures in 2026&mdash;this is the refinancing market your loan will hit at maturity
 					</textarea>
 				</section>
 
@@ -121,12 +121,12 @@
 					<textarea data-template>
 						## Cost of debt increased<span class="subtitle"><br>Cost of debt larger than yields? Is that possible?</span>
 						<div class="figure">
-							<p class="title">Borrowers’ costs and property yields, % Dec 2013–Dec 2022</p>
-							<img src="imgs/cre-margins-yields.png" height=350 />
-							<p class="source">Source: Bayes Business School Commercial Real Estate Lending Report</p>
+							<p class="title">Borrowers’ costs and property yields, % June 2013–June 2024</p>
+							<img src="imgs/cre-margins-yields-2024.png" height=350 />
+							<p class="source">Source: <a href="https://openaccess.city.ac.uk/id/eprint/34892/1/CRE%20Lending%20Report%20Media%20copy%20MY2024%20%281%29.pdf">Bayes Commercial Real Estate Lending Report MY 2024</a>, Fig. 27</p>
 						</div>
 
-						* Margins have since come back in: prime office spreads narrowed from 249bps to 231bps in the six months to June 2025 as lender competition returned—though defaults (6.3% overall, 20.3% for debt funds) show the GFC-era caution wasn’t fully misplaced
+						* 2025: rates easing and a refinancing “price war”&mdash;UK banks cut prime office margins by 45bps, debt funds by 30bps. But stress remains: default rate 3.8% (long-run average 3%), and 13% of loans have interest cover below 1&times;
 					</textarea>
 				</section>
 
@@ -198,7 +198,7 @@
 						* Imagine buying `$`39 billion worth of offices, at the top of the market
 							- 513 buildings
 							- 100 million sqft.
-							- At purchase, portfolio was trading at discount to Net Asset Value (NAV)
+							- At purchase, portfolio was trading at discount to Net Asset Value (NAV): below the value of its properties net of debt (more on NAV later)
 						* Highly leveraged investment in 2007
 							- 82% debt (long term, from Bear Stearns, Bank of America, Goldman Sachs)
 							- `$`3.5bn own capital
@@ -237,17 +237,17 @@
 				<section data-markdown >
 					<textarea data-template>
 						## Same Algebra, Run Backwards<span class="subtitle"><br>The hinge: from asset-level gearing to entity-level capital structure</span>
-						* We’ve been degearing implicitly all session—EOP survived because Blackstone controlled the D/E and how the debt was structured
+						* Half 1 geared a property return up to an equity return&mdash;and EOP survived because Blackstone controlled the D/E and how the debt was structured
 						* Now formalise it: if you only observe a <em>levered</em> return, can you recover the unlevered one?
 						* Degear REIT return (fictional example)
 							- We observe a REIT return of 12% annualised
 							- Typical leverage is 33.3%, cost of debt = 5%
-							- What is the return on assets $r_a$?
-							- $r_e = r_a + \frac{D}{E}(r_a-r_d)$
-							-  $ 12 = r_a + \frac{1}{2}(r_a-5)$
-							-  $ 24 = 2r_a + (r_a-5) = 3r_a - 5$
-							-  $ 29 = 3r_a$
-							-  $ r_a = \frac{29}{3} = 9.67$
+							- What is the unlevered property return $r_P$?
+							- $r_E = r_P + \frac{D}{E}(r_P-r_D)$
+							-  $ 12 = r_P + \frac{1}{2}(r_P-5)$
+							-  $ 24 = 2r_P + (r_P-5) = 3r_P - 5$
+							-  $ 29 = 3r_P$
+							-  $ r_P = \frac{29}{3} = 9.67$
 						* Exactly the question Half 2 needs answered: how much of a REIT’s return—and risk—is the property, and how much is management’s leverage decision?
 					</textarea>
 				</section>
@@ -261,7 +261,7 @@
 						## Capital Structure at the Entity Level<span class="subtitle"><br>How much debt should the company carry?</span>
 						* Same question as Half 1—asked one level up
 						* Now: cash flows, taxes, and distress costs at the level of the whole firm, not one asset
-						* And: why do REITs, despite being real-estate-heavy, carry so little debt?
+						* And: why do REITs&mdash;which pay no corporate tax&mdash;borrow at all, and why does their leverage move so much?
 					</textarea>
 				</section>
 
@@ -291,6 +291,19 @@
 
 				<section data-markdown >
 					<textarea data-template>
+						## Value of Tax Shield <span class="subtitle"><br></span>
+						* Interest payment = return on debt &times; amount borrowed = r<sub>d</sub> D
+						* Annual tax shield = interest &times; tax rate = r<sub>d</sub> D &times; t<sub>c</sub>
+						* PV(tax shield) = annual tax shield, capitalised = r<sub>d</sub> D &times; t<sub>c</sub> / r<sub>d</sub> = D &times; t<sub>c</sub>
+						* In previous example
+							- PV(tax shield) = `$`2.8 / r<sub>d</sub>
+							- Assuming r<sub>d</sub> of 8%, the PV of tax shield will be `$`35.
+						* Check: Why use cost of debt and not WACC as dicount rate for tax shield?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
 						## A Trade-off<span class="subtitle"><br>First theory (we will see more later)</span>
 						* Starting point for corporate finance approach to capital structure
 						* Firms can use debt to reduce tax bill
@@ -301,19 +314,6 @@
 						* Complications
 							- Corporate Taxes versus Personal/Shareholder Taxes
 							- Structure of Firms – e.g. REITs
-					</textarea>
-				</section>
-
-				<section data-markdown >
-					<textarea data-template>
-						## Value of Tax Shield <span class="subtitle"><br></span>
-						* Interest payment = return on debt &times; amount borrowed = r<sub>d</sub> D
-						* Annual tax shield = interest &times; tax rate = r<sub>d</sub> D &times; t<sub>c</sub>
-						* PV(tax shield) = annual tax shield, capitalised = r<sub>d</sub> D &times; t<sub>c</sub> / r<sub>d</sub> = D &times; t<sub>c</sub>
-						* In previous example
-							- PV(tax shield) = `$`2.8 / r<sub>d</sub>
-							- Assuming r<sub>d</sub> of 8%, the PV of tax shield will be `$`35.
-						* Check: Why use cost of debt and not WACC as dicount rate for tax shield?
 					</textarea>
 				</section>
 
@@ -425,13 +425,13 @@
 				<section data-markdown >
 					<textarea data-template>
 						## REITs <span class="subtitle"><br>Real Estate Investment Trusts: What’s special about them?</span>
-						* REITs come in different flavours internationally. I will talk about US/UK REITs.
+						* REITs come in different flavours internationally. Focus here: US/UK REITs (leverage data below: US/Canadian).
 							- REIT regulation in other countries can vary dramatically! Chinese or Brazilian REITs, for instance, are very different.
 						* Tax-exempt status
 						* Income must come from real estate
 						* 90% of the company’s rental profit must be paid out to shareholders via dividends.
 						* Diffused ownership: No controlling ownership stakes.
-						* Question throughout talk:<br /><em>How will these characteristics affect capital structure of REITs?</em>
+						* Question for the rest of the session:<br /><em>How will these characteristics affect capital structure of REITs?</em>
 					</textarea>
 				</section>
 
@@ -441,6 +441,16 @@
 						* Starting point: leverage levels entering the 1990s
 						<div class="figure">
 							<img src="imgs/snl/lev1990.svg" height=500>
+						</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Applicable to REITs?<span class="subtitle"><br>History of leverage for US/Canadian REITs, 1990&ndash;2023</span>
+						* Pre-GFC boom: leverage builds up&mdash;gearing is not static
+						<div class="figure">
+							<img src="imgs/snl/lev2005.svg" height=500>
 						</div>
 					</textarea>
 				</section>
@@ -458,7 +468,7 @@
 				<section data-markdown >
 					<textarea data-template>
 						## Applicable to REITs?<span class="subtitle"><br>History of leverage for US/Canadian REITs, 1990&ndash;2023</span>
-						* Full series to 2023: REITs deleveraged materially post-GFC, staying well below the trade-off theory’s naive tax-shield optimum
+						* Full series to 2023: REITs deleveraged materially post-GFC&mdash;but leverage is clearly not zero, and it moves over time. How can we explain this?
 						<div class="figure">
 							<img src="imgs/snl/lev2023.svg" height=500>
 						</div>
@@ -470,6 +480,41 @@
 						## Country differences<span class="subtitle"><br>Leverage not uniform internationally!</span>
 						* Debt/asset for 10 largest REITs (equally weighted)<br>
 						<img src="imgs/snl/meanlev.svg" height="400">
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## The Tax-Exempt Twist<span class="subtitle"><br>Trade-off theory says REITs shouldn’t gear up much</span>
+						* Trade-off theory’s whole case for debt is the tax shield—but REITs pay no corporate tax
+						* No tax bill to shield &rarr; the tax-shield side of the trade-off is close to zero for REITs
+						* What’s left is only the cost side: financial distress, covenant risk, loss of flexibility
+						* Trade-off theory therefore predicts REITs should carry <em>little</em> debt
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Worse Than Zero<span class="subtitle"><br>Trade-off for REITs: <a href="https://doi.org/10.1111/j.1540-6261.1988.tb02616.x">Howe &amp; Shilling (JF 1988)</a></span>
+						* Taxpaying firms get a tax saving on every unit of interest&mdash;so they can afford to pay higher rates in debt markets
+						* Non-taxpaying firms (REITs) must compete for the same debt against these borrowers
+						* Result: not just a missing tax shield, but a <strong>strong tax disadvantage to the use of debt for non-tax-paying firms</strong>
+						* Some non-tax gains from debt remain (agency discipline, avoiding the cost of issuing equity)&mdash;but that can’t explain the evidence above: REITs borrow substantially, and their leverage swings with the cycle
+						* Trade-off theory alone doesn’t fit. Enter the other theories.
+					</textarea>
+				</section>
+
+
+				<section data-markdown >
+					<textarea data-template>
+						## Pecking Order Theory<span class="subtitle"><br>Firms have an ordered financing preference</span>
+						* Preference order: (1) internal funds &rarr; (2) debt &rarr; (3) equity, based on cost differentials and information asymmetry
+						* Capital-intensive firms—like property developers—can’t rely on internal funds alone
+						* US REIT secondary offerings: debt-fuelled boom in the 2000s, swing to equity during/after the crisis, then debt again&mdash;the equity swing doesn’t fit a strict pecking order (debt capacity exhausted? equity looked cheap?)
+
+						<div class="figure">
+							<img src="imgs/nareit/secondary-offerings.svg" height="300">
+						</div>
 					</textarea>
 				</section>
 
@@ -490,28 +535,10 @@
 
 				<section data-markdown >
 					<textarea data-template>
-					## Simplified example<span class="subtitle"><br/>NAV and property companies (adapted from Brett, “Property and Money”)</span>
-					<div class="figure">
-						<img src="imgs/nav.png" height=450>
-					</div>
-					</textarea>
-				</section>
-
-				<section data-markdown >
-					<textarea data-template>
 					## NAV discounts: UK <span class="subtitle"><br/>Historically, UK property companies have traded at NAV discount.</span>
 					* Discount (Premium) = (Price - NAV) / NAV
 						- e.g. NAV = 300, Price = 225: (225-300)/300 = -25%<br>
 					<img src="imgs/nav_uk.png" height=430>
-					</textarea>
-				</section>
-
-				<section data-markdown >
-					<textarea data-template>
-					## Caused by smoothness?<span class="subtitle"><br/>NAV: Always one step behind? And smooth!</span>
-					* Can this explain structural NAV discounts? No.
-
-					<img src="imgs/nav_indices.png" height=430>
 					</textarea>
 				</section>
 
@@ -525,6 +552,98 @@
 						- Liquidity and loss on forced sale
 						- Risk: gearing and volatility; innovative capital structure
 						- Pricing inefficiencies? Is the market off?
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Market Timing Theory<span class="subtitle"><br>“Catch of the day?”</span>
+						* Raise capital from whichever source looks cheapest now: sell equity when prices are high, buy back in a slump (implies market inefficiency)
+						* For REITs, the NAV premium/discount is the observable mispricing signal: issue at a premium, buy back at a discount
+						* Baker &amp; Wurgler (2002): past market-to-book strongly predicts current leverage
+
+						<div class="figure">
+							<img src="imgs/baker_wurgler.svg" height=260>
+						</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Testing 3 Theories<span class="subtitle"><br>Can market-to-book explain REIT capital structure?</span>
+						* <a href="https://doi.org/10.1007/s11146-007-9005-2">Feng et al. (2007)</a> test all three on the same data, using market-to-book (M/B):
+							- Trade-off: no long-run relation between M/B and leverage&mdash;REITs gravitate to their optimum regardless
+							- Pecking order: persistent <em>positive</em> relation&mdash;growing REITs exhaust internal funds, then borrow
+							- Market timing: persistent <em>negative</em> relation&mdash;high equity value, so sell equity
+						* US REITs with an IPO between 1991 and 2003: high M/B &rarr; high leverage. Pecking order?
+						* Will this hold in other periods, sectors, geographies? Not necessarily.
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Example: American Tower<span class="subtitle"><br>One of the largest global REITs: growth largely financed with long-term debt</span>
+						* Owner/operator of communications sites (towers, data centres); aggressive expansion in 2021
+						<img src="imgs/amt-liabilities.png" height=450>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Example: American Tower<span class="subtitle"><br>How did American Tower finance expansion?</span>
+						* Few secondary equity offerings 2012&ndash;2022; debt raised frequently&mdash;pecking order in action?
+						<img src="imgs/nareit/amt-offerings.svg" height=400>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Geared Positions<span class="subtitle"><br>&ldquo;Losing interest: how rising rates hit towers and data centre groups&rdquo; (<a href="https://www.ft.com/content/82b29ff2-7398-4151-8823-8f04db25fab0">FT.com</a>)</span>
+						* The flip side: debt-financed growth looks cheap until rates rise
+						<div class="figure">
+							<img src="imgs/towers-data-centres-leverage.png" height=420>
+						</div>
+					</textarea>
+				</section>
+
+
+				<section data-markdown >
+					<textarea data-template>
+						## Summing Up<span class="subtitle"><br>Capital structure: is real estate different?</span>
+						* Asset level: debt amplifies return <em>and</em> risk by the same factor&mdash;no free lunch. How debt is structured decides whether you survive a downturn (EOP).
+						* Entity level: tax shield vs. costs of financial distress and agency conflicts (trade-off theory)
+						* REITs: no tax shield, even a tax disadvantage to debt&mdash;yet they borrow, and leverage moves with the cycle
+						* Pecking order and market timing (NAV premium/discount as the signal) help explain what trade-off can’t; the evidence is mixed (Feng et al.)
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+						## Further Reading<span class="subtitle"><br/>Book chapters &amp; papers referenced in this session</span>
+
+						* <strong>Book:</strong> Geltner, Miller, Clayton &amp; Eichholtz, <em>Commercial Real Estate Analysis and Investments</em> — Ch. 12 (Use of Debt in Real Estate Investment: The Effect of Leverage), Ch. 15 (Capital Structure: Advanced Topics II), Ch. 26 (Real Estate Investment Trusts)
+						* Baker, M. &amp; Wurgler, J. (2002). <a href="https://doi.org/10.1111/1540-6261.00414">Market Timing and Capital Structure</a>. <em>Journal of Finance</em>.
+						* Feng, Z., Ghosh, C. &amp; Sirmans, C.F. (2007). <a href="https://doi.org/10.1007/s11146-007-9005-2">On the Capital Structure of REITs</a>. <em>Journal of Real Estate Finance and Economics</em>.
+						* Howe, J.S. &amp; Shilling, J.D. (1988). <a href="https://doi.org/10.1111/j.1540-6261.1988.tb02616.x">Capital Structure Theory and REIT Security Offerings</a>. <em>Journal of Finance</em>.
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Simplified example<span class="subtitle"><br/>NAV and property companies (adapted from Brett, “Property and Money”)</span>
+					<div class="figure">
+						<img src="imgs/nav.png" height=450>
+					</div>
+					</textarea>
+				</section>
+
+				<section data-markdown >
+					<textarea data-template>
+					## Caused by smoothness?<span class="subtitle"><br/>NAV: Always one step behind? And smooth!</span>
+					* Recall Session 3: appraisal-based values lag and smooth the market
+					* Can this explain structural NAV discounts? No.
+
+					<img src="imgs/nav_indices.png" height=430>
 					</textarea>
 				</section>
 
@@ -546,47 +665,6 @@
 					</textarea>
 				</section>
 
-				<section data-markdown >
-					<textarea data-template>
-						## The Tax-Exempt Twist<span class="subtitle"><br>Why REITs shouldn’t gear up much, and mostly don’t</span>
-						* Trade-off theory’s whole case for debt is the tax shield—but REITs pay no corporate tax
-						* No tax bill to shield &rarr; the tax-shield side of the trade-off is close to zero for REITs
-						* What’s left is only the cost side: financial distress, covenant risk, loss of flexibility
-						* Trade-off theory therefore predicts REITs should carry <em>little</em> debt—and the leverage history above (deleveraging hard after the GFC, staying low since) is broadly consistent with that
-						* One wrinkle: some gains from debt survive even without tax (agency discipline, avoiding the cost of equity issuance)—so “little” debt, not “no” debt
-					</textarea>
-				</section>
-
-				<section data-markdown >
-					<textarea data-template>
-						## Pecking Order Theory<span class="subtitle"><br>Firms have an ordered financing preference</span>
-						* Preference order: (1) internal funds &rarr; (2) debt &rarr; (3) equity, based on cost differentials and information asymmetry
-						* Capital-intensive firms—like property developers—can’t rely on internal funds alone
-						* Property industry funding preferences shifted after the GFC: debt-fuelled boom in the 2000s, swing back toward equity during/after the crisis
-						<img src="imgs/pecking_order1.png" height="350">
-					</textarea>
-				</section>
-
-				<section data-markdown >
-					<textarea data-template>
-						## Market Timing Theory<span class="subtitle"><br>“Catch of the day?”</span>
-						* Firms raise capital from whichever source looks cheapest right now: is debt mispriced? Equity mispriced?
-						* Companies tend to sell equity when prices are high (and buy back in a slump)
-						* Baker &amp; Wurgler (2002): past market-to-book strongly predicts current leverage
-						<img src="imgs/baker_wurgler.svg" height=280>
-						* Implies market inefficiency—no consensus on why some firms behave this way and others don’t
-					</textarea>
-				</section>
-
-				<section data-markdown >
-					<textarea data-template>
-						## Further Reading<span class="subtitle"><br/>Book chapters &amp; papers referenced in this session</span>
-
-						* <strong>Book:</strong> Geltner, Miller, Clayton &amp; Eichholtz, <em>Commercial Real Estate Analysis and Investments</em> — Ch. 12 (Use of Debt: The Effect of Leverage), Ch. 15 (Capital Structure: Advanced Topics), Ch. 26
-						* Baker, M. &amp; Wurgler, J. (2002). <a href="https://doi.org/10.1111/1540-6261.00414">Market Timing and Capital Structure</a>. <em>Journal of Finance</em>.
-						* Feng, Z., Ghosh, C. &amp; Sirmans, C.F. (2007). <a href="https://doi.org/10.1007/s11146-007-9005-2">On the Capital Structure of REITs</a>. <em>Journal of Real Estate Finance and Economics</em>.
-					</textarea>
-				</section>
 
 			</div>
 		</div>
